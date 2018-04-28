@@ -8,10 +8,12 @@
 - The Undoing Project
 - How to Use Graphic Design to Sell Things, Explain Things, Make Things Look Better, Make People Laugh, Make People Cry, and (Every Once in a While) Change the World 
 - A Taste for the Beautiful 
-
-## in progress
 - Incompleteness 
 - Blood Meridian
+
+## in progress
+- The Drunkard's Walk
+- Great At Work
 
 ## to read
 
