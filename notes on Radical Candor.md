@@ -69,3 +69,34 @@ The ‘Get Stuff Done’ Wheel:
 
 
 #### relationships
+
+> “The essence of leadership is not getting overwhelmed by circumstances.”
+
+- Relinquish unilateral authority if you want people to feel free at work. If you think you’re right about something and everyone else is wrong, work on showing your work, communicating, and convincing others they your approach is the way to go. **Authority should come from merit.** 
+- You want to get to know people. If you never ask someone about their life, it’s hard to ‘care personally’. 
+- When someone is upset or frustrated, it’s an opportunity to expose some underlying or more fundamental issue. Use **root cause cause analysis** (keep asking why?) until you can undercover the underlying cause.
+
+#### guidance
+
+- a good question to ask your direct reports: Is there something I could do or stop doing that would make it easier to work with me?
+- The point is that you want to make it easy for others to give you rapid, honest feedback about what you’re doing and how you could do it better
+- If you get a criticism you don’t agree with, try to clarify what the issue is by asking question and listening to the person giving you the criticism. Clarify what they’re telling you. If you really don’t agree, find some part that you can get on board with and let me know to show that you are open to criticism. Let them know you’ll think about it and get back to them. Then actually get back to them and explain why you disagree.
+- When giving feedback, explain (a) the situation you saw, (2) the behavior, and (3) the impact the behavior had. This helps you avoid making a lot of judgments and makes sure you still to the objective things you witnessed.
+- Praise in public, criticize in private
+- Say “that’s wrong” or “I think that’s wrong,” not “you’re wrong”. Think Steve Jobs: You’re _work_ is shit, _you_ aren’t shit.
+- Most bosses fear being a jerk, most employees fear their bosses aren’t being honest.
+- “Listen, challenge, commit.” Listen, argue about it, then have everyone get on board.
+- w/r/t performance reviews. Spend half the time looking forward, half the time looking back. What is the person to do in the future to either improve or keep the successes coming? 
+
+
+#### results
+
+- have different meetings for different purposes. Each meeting should have a clear purpose.
+- 1:1 meeting: purpose is to listen clarify: blockers, where the person is going, where they’re headed. Direct reports should set the agenda; you get to things that matter to them. But there should of course we expectation for the structure of the agenda and how it’s delivered.
+- Staff meeting: review metrics, share updates, identify (but don’t make) key decisions. Effective agenda: learn (review key metrics, 20 min). listen (updates in a shared document, 15 min). clarify (identify decisions and debates, 30 min). Don’t allow side conversations.
+- think time: hold it sacred.
+- big debate meetings: you’re debating, not deciding. The product should be a careful summary of the facts / issues, recommendation to move forward or for more debate.
+- big decision meetings
+- all hands meetings
+- kanban boards: make progress visible
+- walk around: walk around, talk to people, figure out what people are working on (1 hr /week)
