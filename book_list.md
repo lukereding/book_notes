@@ -12,11 +12,14 @@
 - Blood Meridian
 - The Drunkard's Walk
 - Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts 
-
-
-## in progress
 - Originals: How non-conformists change the world
 - Great At Work
+- Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts 
+- Zero to One
+- The Charisma Myth
+
+## in progress
+- fluent python
 
 ## to read
 
