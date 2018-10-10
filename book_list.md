@@ -17,15 +17,19 @@
 - Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts 
 - Zero to One
 - The Charisma Myth
+- Outer Dark
+- Child of God
+- The Sound and the Fury
+- Bertrand Russell: Unpopular Essays
+- White Noise
+
 
 ## in progress
 - fluent python
 
 ## to read
 
-- When: The Scientific Secrets of Perfect Timing 
 - Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts 
-- The Culture Code: The Secrets of Highly Successful Groups
 - Mate choice, Rosenthal
 - Fooled by randomness
 - Collaborative intelligence
@@ -35,6 +39,12 @@
 - Nonsense: The Power of Not Knowing.
 - A Field Guide to Lies: Critical Thinking in the Information Age.
 - Mindware: Tools for Smart Thinking.
+- The Evolution of Useful Things
+- Creative Selection
+- How To Solve It
+- The Creative Curve
+- Algorithm Design Manual
+- The half-life of facts
 
 
 
