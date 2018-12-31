@@ -1,8 +1,10 @@
+# books read 2019
+
 # books read 2018
 
 - Radical Candor
 - Death by Meeting
-- Steve Jobs biography
+- Steve Jobs, Walter Isaccson
 - Algorithms to Live By
 - How Not To Be Wrong
 - The Undoing Project
@@ -14,22 +16,27 @@
 - Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts 
 - Originals: How non-conformists change the world
 - Great At Work
-- Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts 
+- When
 - Zero to One
+- Principles: Life and Work
 - The Charisma Myth
 - Outer Dark
 - Child of God
 - The Sound and the Fury
 - Bertrand Russell: Unpopular Essays
 - White Noise
+- Draft No. 3
+- Suttree
+- The Orchard Keeper
+- Visions of Infinity
 
+## started
 
-## in progress
-- fluent python
+- Behave
+- Mindware
 
 ## to read
 
-- Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts 
 - Mate choice, Rosenthal
 - Fooled by randomness
 - Collaborative intelligence
@@ -45,6 +52,4 @@
 - The Creative Curve
 - Algorithm Design Manual
 - The half-life of facts
-
-
-
+- Subliminal: How Your Unconscious Mind Rules Your Behavior
