@@ -1,5 +1,19 @@
 # books read 2019
 
+- Designing Data-Intensive Applications
+- The Fall
+- Journey to the end of the night
+- All the pretty horses
+- Pastoralia (second reading)
+- the Tenth of December (second reading)
+
+
+### in progress
+
+Fundamentals of Data Viz
+Recommender systems
+Vineland
+
 # books read 2018
 
 - Radical Candor
