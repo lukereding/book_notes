@@ -1,18 +1,33 @@
 # books read 2019
 
+#### technical / work-related
 - Designing Data-Intensive Applications
-- The Fall
+- Fluent Python
+- Fundamentals of Data Viz
+- Serious Python (in progress)
+- recommender systems (in progess)
+- Better presentations
+
+#### fiction
+
 - Journey to the end of the night
-- All the pretty horses
-- Pastoralia (second reading)
 - the Tenth of December (second reading)
+- Pastoralia (second reading)
+- The Fall
+- All the pretty horses
+- Vineland
+- The Crossing
+- The Stonemason
 
+#### art / design
 
-### in progress
+- The graphic design idea book
+- Grid systems
 
-Fundamentals of Data Viz
-Recommender systems
-Vineland
+#### other nonfiction
+
+- Economics for the common good
+- You are here
 
 # books read 2018
 
