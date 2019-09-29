@@ -1,6 +1,7 @@
 # books read 2019
 
 #### technical / work-related
+
 - Designing Data-Intensive Applications
 - Fluent Python
 - Fundamentals of Data Viz
@@ -23,11 +24,14 @@
 
 - The graphic design idea book
 - Grid systems
+- If you want to write
 
 #### other nonfiction
 
 - Economics for the common good
 - You are here
+
+------------
 
 # books read 2018
 
