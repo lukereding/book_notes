@@ -1,0 +1,26 @@
+## Notes on _The Surprising Science of Meetings_
+
+- Estimated cost of meetings in the US is $1.4 trillion, of 8% of GDP
+- Leaders of good meetings plan and orchestrate the meeting carefully
+- During the meeting
+  - Keep track of time
+  - Keep conversation flowing
+  - Clarify and summarize
+  - Listens for underlying concerns and tries to vocalize them
+  - Maintain an environment where people are comfortable disagreeing
+  - Draw out input from everyone in the room
+  - Reign in folks when they lose focus
+  - Make it clear that the leader's opinion is just one opinion to be discussed
+- Parkinson's Law: work expands to fill the time available for its completion. Same applies to meeting length
+- Meetings that start late cause frustration and members are more likey to interupt each other than when meetings started on time
+- An agenda alone isn't enough. 
+- Order of agenda items matters (the first issues get more time)
+- Assign specific actions to specific people after the meeting (the idea of a DRI (directly responsbile individual) at Apple)
+- For each additional person added to a meeting over 7 people, effectiveness decision-making decreases by ~10%
+- 8-18-1800 rule: Max number of people for solving a problem / making a decision : brainstorm : inform.
+- Notes are good idea: help people remember what happened, the takeaways, any action items and parties responsible, inform others
+- Keep the mood positive at the start of a meeting. Make it clear why everyone is there and what needs to happen
+- Consider offering food, restricting technology use
+- Think about the different between shared knowledge--which everyone has--and unique knowledge--which only some people have. Arguably the meeting fails if only shared knowledge is discussed. Thus we need techniques that ensure that unique knowledge is brought up.
+- Brainwriting (having people write down their thoughts individually) can help with ^
+- At Amazon, proposals and ideas are submitted via 6-pagers, which are read by everyone at the start of the meeting
