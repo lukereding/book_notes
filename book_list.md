@@ -8,6 +8,7 @@
 - Serious Python (in progress)
 - recommender systems (in progess)
 - Better presentations
+- the surprising science of meetings
 
 #### fiction
 
