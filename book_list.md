@@ -26,6 +26,7 @@
 - The graphic design idea book
 - Grid systems
 - If you want to write
+- jan tschichold and the new typography
 
 #### other nonfiction
 
