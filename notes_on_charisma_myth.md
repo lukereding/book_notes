@@ -1,0 +1,14 @@
+# notes on "the charisma myth"
+
+- charisma = power + warmth + presence
+- to be perceived as more charasmatic: lower your voice towards the end of sentences, reduce how quickly and frequently you nod, pause for two seconds before you speak.
+- _presence_ is basically just paying attention to the other person, listening to understand not to respond, actually care about what they're saying, not letting your mind wander
+- _warmth_ is goodwill towards others, being perceived as caring or altruistic. Mostly assessed through body language. 
+- to get rid of anxiety, try transferring responsibility: mentally unload your burden/problems to some higher power, etc. Or just realize how small we are and how whatever you're going through is really doesn't matter in the long run. "This, too, shall pass." It can also help to think about the worst-case scenario and realize that it probably isn't very bad
+- Visualization is powerful tool. e.g. visualize how the big meeting will go ahead of time.
+- types of charisma: focus charisma (Musk), visionary charisma (Jobs), kindness charisma, authority charisma
+- first impressions are super important. People like people that are like them. Think about your clothes. Practice your handshake. 
+- tips for good conversatons: Good way to start off: compliment to the person in some way (could think of this ahead of time). Can continue with an open-ended question. To keep people talking, ask open-ended questions, e.g., at a networking event, "What brought you here tonight?" and "How are you connected to the event?". If you want to keep the conversation on them but they keep asking about you, answer with (a) a fact, (b) a personal note, then (c) redirection. Ask questions that are _them_-centric, e.g., "I recently read this acticle that said..." becomes "You mind be interested in this article that said..." All this is to say: Be interested in other people (them). Listen to understand, not to respond. Pay attention to the person talking, make sure your mind doesn't wander. Keep eye contact. Pause before you answer them. Don't interupt.
+- presentations are rated well mostly based on presentation style and less on content. Vary your vocal fluctuations (loudness, pitch, tempo). Broadcast your voice. Use vocal warmth when necessary (smile as you talk or just think about smiling)
+- Maintaining eye contact with someone is really important. Your posture is really important. Think about a very composed person: they sit up straight, don't figit, don't use unecessary words, don't nod excessively, aim your chin down a few degrees
+- when presenting, your stories to engage your audience. Know the one sentence you want your audience to take away. Move around the stage. Vary your voice. Be interested in what you're talking about! Pause at key moments. Make eye contact with the audience. 
