@@ -28,6 +28,55 @@ each bullet starts with a 'cX', where X is the chapter number this point is deri
 
 - c5: how to write a persuasive message: basically, do whatever you con to avoid cognitive strain. maximize legebility (implications: fonts types and styles; prevalance of clean typefaces like helvetica and futura). use simple language. make your message memorable. make the font bigger--tiny font induces strain. if you use a color, make it red or blue, something with good contrast. implications: obvious implications for writing documents, giving presentations
 
-- c5: "creativity is associative memory that works exceptionally well." This is probably a simplification but an interesting one. note: if you want to have fun playing around with this, try the [remote association test](https://www.remote-associates-test.com/).
+- c5: _mere exposure effect_: famility breeds liking. implication: if you want someone to like something or buy into an idea, lots of exposure to the idea helps.
 
-- 
+- c5: "creativity is associative memory that works exceptionally well." this is probably a simplification but an interesting one. note: if you want to have fun playing around with this, try the [remote association test](https://www.remote-associates-test.com/). scoring well on this test is harder when we're in a bad mood. _we lose touch with our intution when we're unhappy_. when we're happy, we lose touch of system ii and tend to be more prone to logical errors
+
+- c6: we tend to ascribe casuation to statistical phenomenon. 
+
+- c7: "when system ii is engaged, we will believe almost anything"
+
+- c7: _the halo effect_: the tendency to like (or dislike) everything about a person, even things your haven't observed. if there's something that can be interpreted ambiguously--the presenter was passionate or emotional--we tend to see things in a way that forms a coherent story about the person. if we have a negative view of the presenter to begin with, we might interpret him as emotional instead of the more positive 'passionate'. for this reason, _beginnings are really important_, but we all already knew that. elegant example of this: compare alan (intelligent - industrious - stubburn - envious) with ben (envious - stubborn - industrious - intelligent). implications: performance reviews, importance of first impressions, lazy thinking brought about by system i wanting a coherent story even though most people are complex and don't form a neat story
+
+- c7: to make good decisions, use as much information as you can, but _pay attention to whether the sources of information are correlated_. if you ask jane and jill what to do, but they're just parroting what jim said, you really only have one source of information, not two. you should also weigh the value of the information / advice by the credibility / experitise of the person, i.e., if someone knows nothing about database design, don't give their opinion about what database to use much muster.
+
+- c7: this gets back to the importance of brain-writing, i.e., having people write down their thoughts / opinions _ahead of time_ (see the [notes on that meeting book](https://github.com/lukereding/book_notes/blob/master/science_of_meetings.md)): we avoid correlated errors / we ensure that information is closer to independent than it could be otherwise. implication: the design of meetings
+
+- c7: "it is the consistency of information that matters for a good story, not its completeness". also see the book, 'influence': that's a common theme there, too. implications: story-telling, pitching ideas. I've found this true in practice; people prick up when they hear something that doesn't fit into the schema or their understanding; asking questions that get to _completeness_ are much more difficult but often more valuable.
+
+- c8: emotions are powerful. we respond much more to emotions than to statistics or numbers. example study of students paying for nets to cover oil ponds. asked for money to save 2,000, 20,000, and 200,000 birds. the amounts of money they pledged were all roughly the same for each of the scenario: the participants were reacting to a photo of a bird covered in oil, even though saving 200,000 should be 100x better than saving 2,000 birds. implication: often statistics and numbers are not enough to get people to act; appeal to emotion; giving presentations is one clear example of where this could be leveraged
+
+- c8: system 1 does well representing prototypes and averages, but poorly with representing sums. see the above point as well.
+
+- c9: we often use _substituion_: we answer a related easier question instead of the hard question we were asked. example: 'how happy are you with you life' -> 'how do i feel right now'. example (also an example of ordering effects, and priming): two groups of german students were asked two questions. each group got a different order. (1) how happy are you and (2) how many dates have you been on last month? when (1) comes before (2), the answers are uncorrelated. when (2) comes before (1), people with more dates report being happier and vice versa.
+
+- c9: other characteristics of system i that i find interesting:
+  - creates coherent pattern of ideas
+  - 'links a sense of cognitive ease to illusions of truth, pleasant feelings, and reduced vigilence' 
+  - __focuses on existing evidence and ignores absent evidence__
+  - exaggerates emotional consistency
+  - implication: always ask yourself, 'what is the problem? do i have all the information i need to solve the problem? what information do i need that i don't have?'
+  - represents sets by norms and prototypes
+  - overweights low probabilities
+  - answers related easier questions
+  - is more senstive to changes than to states (think of $10 in the hands of a poor man and a rich man)
+  - shows loss aversion
+  - suppresses ambiguity
+
+- c10: we tend to pay more attention to the content of messags than about their reliability / credibility; the result is we reason about a world that is simpler than it actually is. implications: the news, condidates solutions to problems, solutions to business problems that are made quickly
+
+- c11: _anchoring_: when people consider a value for some quantity before estimating that quantity. we start at an anchor and adjust from there. anchoring is a specific specific example of _priming_, discussed above. implications: negotating; determining reference points for how much something costs; selling things (amazing example: sale for soup at a grocery story. when the numbers of cans each customer could buy was limited to 12 => on average, people bought 7 cans; when there was no limit => 3.5 on average). priming and anchoring show that our decision-making is influenced by our environment more than we might care to imagine.
+
+- c12: _availability heursistic_: judging frequency of something by the ease with which it comes to mind. substitutes one question for another. this is bad, shoddy thinking. _recency effects_ (think of whether a place crash was reported on the news recently and the dangers of air travel), things that get a lot of media attention are likely to be over-estimated. (this is really a failure of asking a question that you should always ask, which is: __what is the null hypothesis here?__ Often, this is similar to thinking solely about the numeratory (how many place crashes have there been?) instead of incorporating the denominator (how many safe flights have there been?)). _availability_ also is linked to _priming_: by priming, your making it more easily available for recall.
+
+- c12: one consequence of ^ is that people are less confident in a choice when asked to produce more arguments to support it; are less impressed with a car afteere liting many of its advantages. implications: getting someone to agree with you; if they're taking the opposite side, make them list all the reasons why they are right ('show me five reasons why...'). i employed a similar technique during course evaluations when i was a ta: i asked the students to write down five things they thought could be improved about the class before filling out the evaluation. the idea being: it's hard to come up with five things, so you think, 'okay, this class was pretty good after all' and give a better rating.
+
+- c13: the _affect heuristic_: people make decisions by consulting their emotions: how do i feel about it? do i like it?
+
+- c14: the idea of _base rates_. we tend to ignore them based on more specific evidence we have. we match the evidence we have to some idea or schema or prototype instead of asking the harder, statistical question that would invoke a base rate. Base rates usually need to be incorporates, espeically when the quality or reliability of evidence is poor: ignoring the base rate in that case is a really bad idea. Think about it like baysian statistics: you need a prior, and the base rate forms the prior. if you have new data, you can incorporate it to form your posterior, but it's going to remain close to the prior until you have a lot of good information. So: (1) anchor to the base rate and (2) assess the quality / reliability of your evidence
+
+- c16: this chapter is called 'cases trump statistics', which sums up a lot. also see the example of oil spill and birds above.
+
+- c16: good way to think about things: before we aquire information, form a hypothesis. make a guess. when information comes in, incorporate it via bayseian updating. 
+
+- c
