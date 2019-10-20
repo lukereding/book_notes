@@ -79,4 +79,4 @@ each bullet starts with a 'cX', where X is the chapter number this point is deri
 
 - c16: good way to think about things: before we aquire information, form a hypothesis. make a guess. when information comes in, incorporate it via bayseian updating. 
 
-- c
+- c17: _regression to the mean (mediocrity)_: someone might be performing better at their job or a player getting more points by chance: this is to be expected. over time, we might see a regression to the mean as the effects of chance wear off. implications: candidates that perform really well in job interveiws are likely to regress to the mean over time
