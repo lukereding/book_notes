@@ -8,7 +8,9 @@
 - Serious Python (in progress)
 - recommender systems (in progess)
 - Better presentations
+- presentation zen
 - the surprising science of meetings
+- culture code
 
 #### fiction
 
