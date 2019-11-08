@@ -8,7 +8,9 @@
 - Serious Python (in progress)
 - recommender systems (in progess)
 - Better presentations
+- presentation zen
 - the surprising science of meetings
+- culture code
 
 #### fiction
 
@@ -20,6 +22,7 @@
 - Vineland
 - The Crossing
 - The Stonemason
+- severance
 
 #### art / design
 
@@ -32,6 +35,7 @@
 
 - Economics for the common good
 - You are here
+- mindware
 
 ------------
 
