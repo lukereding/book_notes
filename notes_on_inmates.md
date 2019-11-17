@@ -118,7 +118,7 @@ This is where we're introduced to _goal-directed design_
   - edge case: the _product_ won't fail or success based on handling edge-case scenarios. Pay no mind.
 - _inflecting the interface_- easy to use without sacrificing functionality
 - Programmers design for experts, marketers design for beginners: the most important group is the 'perpetual intermediates' who are in between these extremes
-- Often useful when brainstorming to "pretend the computer is magic" and can do whatever we want it to do. Helps focus things and ensures wee don't get distracted by thee tech and instead focus on the user.
+- Often useful when brainstorming to "pretend the computer is magic" and can do whatever we want it to do. Helps focus things and ensures we don't get distracted by thee tech and instead focus on the user.
 - Example of the tiny scanner
 
 
@@ -128,7 +128,7 @@ The idea of this chapter is that design has to come before programming, testing,
 
 ### chapter 13
 
-- Big difference between listening to your customers and doing what your customers tell you to do. The latter will get you into problem. Recall the Ford quotation about customers wanting a faster horse. 
+- Big difference between listening to your customers and doing what your customers tell you to do. The latter will get you into problems. Recall the Ford quotation about customers wanting a faster horse. 
 - Customer-driven products don't have a coherent design
 - Customer-driven design isn't really design. 
 - Comparison to making movies: Most of the work is in planning (pre-production) since filming is so expensive. Software should be the same way since programmers are expensive. 
