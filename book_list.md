@@ -12,6 +12,7 @@
 - the surprising science of meetings
 - culture code
 - the inmates are running the asylum
+- systems of engineering management
 
 #### fiction
 
@@ -37,6 +38,8 @@
 - Economics for the common good
 - You are here
 - mindware
+- writing for story
+- made to stick
 
 ------------
 
