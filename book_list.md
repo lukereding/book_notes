@@ -12,6 +12,7 @@
 - the surprising science of meetings
 - culture code
 - the inmates are running the asylum
+- systems of engineering management
 
 #### fiction
 
