@@ -13,6 +13,7 @@
 - culture code
 - the inmates are running the asylum
 - systems of engineering management
+- thinking in systems: a primer
 
 #### fiction
 
