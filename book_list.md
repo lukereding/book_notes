@@ -12,7 +12,7 @@
 - the surprising science of meetings
 - culture code
 - the inmates are running the asylum
-- systems of engineering management
+- an elgant puzzle: systems of engineering management
 
 #### fiction
 
@@ -40,6 +40,8 @@
 - mindware
 - writing for story
 - made to stick
+- thinking in systems: a primer
+- get together 
 
 ------------
 
