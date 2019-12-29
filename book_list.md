@@ -14,6 +14,7 @@
 - the inmates are running the asylum
 - a common-sense guide to data structures and algorithms
 - an elgant puzzle: systems of engineering management
+- code: the hidden language of computer software and hardware
 
 #### fiction
 
