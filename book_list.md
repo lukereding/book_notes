@@ -12,7 +12,9 @@
 - the surprising science of meetings
 - culture code
 - the inmates are running the asylum
+- a common-sense guide to data structures and algorithms
 - an elgant puzzle: systems of engineering management
+- code: the hidden language of computer software and hardware
 
 #### fiction
 
@@ -25,6 +27,7 @@
 - The Crossing
 - The Stonemason
 - severance
+- if on a winter's night a traveler
 
 #### art / design
 
@@ -42,6 +45,9 @@
 - made to stick
 - thinking in systems: a primer
 - get together 
+- the fifth discipline 
+- good strategy / bad strategy
+- the pyramid principle
 
 ------------
 
