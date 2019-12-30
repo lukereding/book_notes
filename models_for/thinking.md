@@ -4,6 +4,12 @@
 
 This seems really simple but violating this simple idea is routine. Whenever you're thinking through something, make sure ou know what the exact problem is you're solving for. I've found it's quite typical for the problem to be ill-defined and nebulous. You can't solve a problem if the problem isn't clear.
 
+#### ask yourself what you need to know, not what you already know
+
+Humans are really good at creating stories, finding patterns, and making observations fit within some larger framework. This is often a good thing but can be a bad thing when we have to think critically about something because it means we tend to overlook things we need to know to answer the overarching problem.
+
+Instead of focusing on the things you already know, it's useful to take a step back and ask, "What would I need to know to be confidence in solving problem X?" Be explicit. Write them down. Only then should you compare to the data you already have. Doing this will ensure you have thr right information you need to make a decision and aren't finding a solution that simply fits the data you have now.
+
 #### expected value calculations / net present value
 
 #### sensitivity analysis
