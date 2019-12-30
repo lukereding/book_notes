@@ -4,11 +4,17 @@
 
 This seems really simple but violating this simple idea is routine. Whenever you're thinking through something, make sure ou know what the exact problem is you're solving for. I've found it's quite typical for the problem to be ill-defined and nebulous. You can't solve a problem if the problem isn't clear.
 
-#### ask yourself what you need to know, not what you already know
+### what do I need to know
 
-Humans are really good at creating stories, finding patterns, and making observations fit within some larger framework. This is often a good thing but can be a bad thing when we have to think critically about something because it means we tend to overlook things we need to know to answer the overarching problem.
+Most of the time, we're happy creating a story in our heads to explain data we see or a pattern we observe. In doing this, we only consider a single world or a small subset of worlds: those that happen to pop into our minds to explain the pattern.
 
-Instead of focusing on the things you already know, it's useful to take a step back and ask, "What would I need to know to be confidence in solving problem X?" Be explicit. Write them down. Only then should you compare to the data you already have. Doing this will ensure you have thr right information you need to make a decision and aren't finding a solution that simply fits the data you have now.
+A more robust way of understanding the world is to ask, before looking at the data: What would I need to know to be confident about answering this question? Then look at the data you have. Doing this is a guard against forming a story that seems plausible to you but is, in reality, based on a smalll subset of information you need to truly understand what's going on. 
+
+### imagine the future
+
+If we did X, what do you think would happen? Try to imagine the future. Useful for thinking about second- and third-order effects.
+
+### diagrams
 
 #### expected value calculations / net present value
 
@@ -22,9 +28,6 @@ Asking _why_ five times, diagram the resulting process / set of ideas.
 
 #### supply and demand
 
-#### imagine the future
-
-If we did X, what do you think would happen? Try to imagine the future.
 
 #### commit to and revise your mental models
 
