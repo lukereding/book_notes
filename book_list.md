@@ -5,7 +5,7 @@
 - Designing Data-Intensive Applications
 - Fluent Python
 - Fundamentals of Data Viz
-- Serious Python (in progress)
+- Serious Python
 - recommender systems (in progess)
 - Better presentations
 - presentation zen
@@ -84,14 +84,12 @@
 ## started
 
 - Behave
-- Mindware
 
 ## to read
 
 - Mate choice, Rosenthal
 - Fooled by randomness
 - Collaborative intelligence
-- Smarter Faster Better: The Secrets of Being Productive in Life and Business
 - Thinking: The New Science of Decision-Making, Problem-Solving, and Prediction
 - Turing’s Cathedral: The Origins of the Digital Universe.
 - Nonsense: The Power of Not Knowing.
