@@ -18,6 +18,12 @@ If we did X, what do you think would happen? Try to imagine the future. Useful f
 
 There are plenty of cognitive biases that masquerade by different names (e.g. survivorship bias, failure to consider base rates), but at their core is the failure to consider the null hypothesis. Whenever you come across something that looks interesting or out-of-the-ordinary, or is presented to you as such, always ask yourself what you'd expect to happen if nothing interesting is happening in reality.
 
+#### commit to and revise your mental models
+
+The only way to learn about how the world works is to (a) form a hypothesis, (b) observe, (c) when something violates your hypothesis, it means your model is wrong and needs updating, so (d) update it and continue the process. Another way of thinking about this is to identify gaps between what happens in the world and what you think should have happened.
+
+The difficulty in applying this idea lies in its implicit requirement to interpret the world without bias. It is easy to see the world in a way you want to see it. You have to change your thinking from wanting to be right and internally consistent to having a true interest in understanding how the world works. 
+
 ### diagrams
 
 #### expected value calculations / net present value
@@ -31,11 +37,6 @@ Asking _why_ five times, diagram the resulting process / set of ideas.
 #### weight opinions by credibility
 
 #### supply and demand
-
-
-#### commit to and revise your mental models
-
-The only way to learn about how the world works is to (a) form a hypothesis, (b) observe, (c) when something violates your hypothesis, it means your model is wrong and needs updating, so (d) update it and continue the process.
 
 #### facts vs. generalizations vs. assumptions
 
