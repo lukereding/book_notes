@@ -14,6 +14,10 @@ A more robust way of understanding the world is to ask, before looking at the da
 
 If we did X, what do you think would happen? Try to imagine the future. Useful for thinking about second- and third-order effects.
 
+### what's the null hypothesis?
+
+There are plenty of cognitive biases that masquerade by different names (e.g. survivorship bias, failure to consider base rates), but at their core is the failure to consider the null hypothesis. Whenever you come across something that looks interesting or out-of-the-ordinary, or is presented to you as such, always ask yourself what you'd expect to happen if nothing interesting is happening in reality.
+
 ### diagrams
 
 #### expected value calculations / net present value
