@@ -26,6 +26,10 @@ Tasks expand to the time allocated to them. Be respectful of people's time. Don'
 
 ## during the meeting
 
+### set the context, define the objectives
+
+When leading a meeting, start out by setting the context then cripsly articulate the objectives of the meeting.
+
 ### make sure everyone talks
 
 If someone is in the meeting, it means they're necessary and important for the meeting. They should talk at least once. Ensuring everyone talks also ensures that some meeting partcipants aren't dominating thee conversation and makes the meeting more balanced.
