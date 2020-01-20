@@ -1,4 +1,19 @@
-# books read 2019
+# 2020
+
+### fiction
+
+- Difficult loves. Calvivo.
+
+### general non-fiction
+
+- The art of thinking clearly. Dobelli.
+- The simple path to wealth. Collins.
+
+### work-related
+
+- Risk up front. Josephs and Rubenstein.
+
+# 2019
 
 #### technical / work-related
 
