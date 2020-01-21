@@ -22,6 +22,9 @@ Identify only the people you need to achieve the goal of the meeting and invite 
 
 Tasks expand to the time allocated to them. Be respectful of people's time. Don't schedule a meeting for an hour when you think it should take 30 or 40 min. 
 
+### be clear about the purpose of the meeting and the goal of the meeting
+
+What does the meeting need to accomplish to be successful? Is there anyone that's on-point for presenting or leading parts of the discussion? If so make it clear.
 
 
 ## during the meeting
