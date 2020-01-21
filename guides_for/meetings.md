@@ -26,6 +26,12 @@ Tasks expand to the time allocated to them. Be respectful of people's time. Don'
 
 What does the meeting need to accomplish to be successful? Is there anyone that's on-point for presenting or leading parts of the discussion? If so make it clear.
 
+There are some common goals of meetings:
+
+- make a decision
+- negotiate agreement
+- divide up work
+- uncover blind spots
 
 ## during the meeting
 
