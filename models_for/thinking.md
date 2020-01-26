@@ -14,6 +14,8 @@ A more robust way of understanding the world is to ask, before looking at the da
 
 If we did X, what do you think would happen? Try to imagine the future. Useful for thinking about second- and third-order effects.
 
+For example, what impact does rent control have on afforadable housing? Looking at the first-order effects, rent control seems like a good thing by making housing more affordable. But imagine what happens next. Rent control makes it less attractive for developers to build apartments, since their profits are limited by the rent control. As a result, fewer apartment buildings are built and there are fewer apartments to go around. The apartments to be had are afforadable, but there are very few of them. Developers might turn to building condos or other types of housing instead that are exempt from rent control. The result may be an exacerbation of the affordable housing crisis. This is also an example where thinking in systems--thinking about all the components that contribute to a problem--helps us gain more insight.
+
 ### what's the null hypothesis?
 
 There are plenty of cognitive biases that masquerade by different names (e.g. survivorship bias, failure to consider base rates, self-selection bias, story bias) but at their core is the failure to consider the null hypothesis. Whenever you come across something that looks interesting or out-of-the-ordinary, or is presented to you as such, always ask yourself what you'd expect to happen if nothing interesting is happening in reality.
@@ -24,27 +26,23 @@ The only way to learn about how the world works is to (a) form a hypothesis, (b)
 
 The difficulty in applying this idea lies in its implicit requirement to interpret the world without bias. It is easy to see the world in a way you want to see it. You have to change your thinking from wanting to be right and internally consistent to having a true interest in understanding how the world works. \
 
-### is the sample biased
+### is the sample biased?
 
 When evaluating data, always ask yourself whether the sample is unbiased or not. In most cases, the interesting data we hear about come from biased samples, making the inferences we make based on the data suspect or severly limiting.
 
-### diagrams
+### root cause analysis / systems thinking
 
-In particular, [__logic trees__](https://en.wikipedia.org/wiki/Issue_tree) can be a useful way of decomposing a problem into it's component parts and identifying the lower-level issues that contribute to a problem.
+To me, these are closely related. Once you ask _why_ five times, you tend to overcover the broader system. When you do this, it's useful to diagram all the resulting pieces of your problem and the interactions between them. Systems thinking and root cause analysis are especially powerful because they force you to think about the broader system or context in which a problem occurs instead of one isolated component.
 
-#### expected value calculations / net present value
+### expected value calculations / sensitivity analysis / net present value
 
-#### sensitivity analysis
+### weight opinions by credibility
 
-#### root cause analysis / systems thinking
+### supply and demand
 
-Asking _why_ five times, diagram the resulting process / set of ideas.
+Many phenomena can be understand simply by asking questions about supply and demand.
 
-#### weight opinions by credibility
-
-#### supply and demand
-
-#### facts vs. generalizations vs. assumptions
+### facts vs. generalizations vs. assumptions
 
 It's important to be able to tease about, in any argument or opinion: what are the facts? what are the generalizations? what are the assumptions?
 
@@ -79,3 +77,8 @@ __Implementation__
 4. What's the cost?
 5. How feasible is it?
 6. Do the stakeholders view the policy as acceptable?
+
+
+#### logic trees
+
+[__Logic trees__](https://en.wikipedia.org/wiki/Issue_tree) can be a useful way of decomposing a problem into it's component parts and identifying the lower-level issues that contribute to a problem.
