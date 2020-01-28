@@ -12,6 +12,7 @@
 ### work-related
 
 - Risk up front. Josephs and Rubenstein.
+- The making of a manager. Zhuo.
 
 # 2019
 
