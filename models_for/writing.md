@@ -35,3 +35,7 @@ Truth lies in little details. Like abstract art, abstract language confuses more
 #### use images
 
 See above.
+
+#### ordering and grouping
+
+When doing data analysis, _ordering_ and _grouping_ data are two of the primary tasks that make your job easier. The same is true of writing. Think about all the ideas or points you want to make. Then _group_ them so that similar ideas are closer together. Then _order_ these larger ideas in a way that makes sense and is most helpful for the reader.
