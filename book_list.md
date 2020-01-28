@@ -12,6 +12,7 @@
 ### work-related
 
 - Risk up front. Josephs and Rubenstein. [[notes](https://github.com/lukereding/book_notes/blob/master/notes_on_ruf.md)]
+- The making of a manager. Zhuo.
 
 # 2019
 
