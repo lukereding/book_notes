@@ -8,6 +8,8 @@
 
 - The art of thinking clearly. Dobelli.
 - The simple path to wealth. Collins.
+- Difficult conversation. Stone, Patton, and Heen.
+- Judgement in managerial decision making. Bazerman.
 
 ### work-related
 
