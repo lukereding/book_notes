@@ -8,13 +8,13 @@
 
 - The art of thinking clearly. Dobelli.
 - The simple path to wealth. Collins.
-- Difficult conversation. Stone, Patton, and Heen.
+- Difficult conversations. Stone, Patton, and Heen. [[notes](notes_on_difficult_conversations.md)]
 - Judgement in managerial decision making. Bazerman.
 
 ### work-related
 
 - Risk up front. Josephs and Rubenstein. [[notes](https://github.com/lukereding/book_notes/blob/master/notes_on_ruf.md)]
-- The making of a manager. Zhuo.
+- The making of a manager. Zhuo. [[notes](notes_on_making_of_a_manager.md)]
 
 # 2019
 
