@@ -10,6 +10,7 @@
 - The simple path to wealth. Collins.
 - Difficult conversations. Stone, Patton, and Heen. [[notes](notes_on_difficult_conversations.md)]
 - Judgement in managerial decision making. Bazerman.
+- Smart choices. Hammond, Keeny, and Raiffa.
 
 ### work-related
 
