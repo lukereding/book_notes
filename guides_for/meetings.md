@@ -38,7 +38,7 @@ If someone is in the meeting, it means they're necessary and important for the m
 
 ### ensure more than one viewpoint is raised
 
-You want ensure that people feel comfortable disagreeing and raising different viewpoints. If everyone is just going to agree with each other, there's probably not a reason for you to have the meeting in the first place. Getting people to speak up about what they really feel is more effective than getting someone to play devil's advocate. The leader or most senior person in the room should make it clear that theres in one opinion among many.
+You want to ensure that people feel comfortable disagreeing and raising different viewpoints. If everyone is just going to agree with each other, there's probably not a reason for you to have the meeting in the first place. Getting people to speak up about what they really feel is more effective than getting someone to play devil's advocate. The leader or most senior person in the room should make it clear that theres in one opinion among many.
 
 ### shared knowledge vs. unique knowledge
 
