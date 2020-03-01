@@ -18,6 +18,7 @@
 - Smart choices. Hammond, Keeny, and Raiffa.
 - Be here now. Dass.
 - How to win friends and influence people. Carnegie.
+- Stillness is the way. Holliday.
 
 
 # 2019
