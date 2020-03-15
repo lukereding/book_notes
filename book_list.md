@@ -3,6 +3,7 @@
 ### fiction
 
 - Difficult loves. Calvivo.
+- Glamorama. Ellis.
 
 ### work-related
 
