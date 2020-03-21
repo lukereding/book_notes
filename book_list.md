@@ -4,6 +4,7 @@
 
 - Difficult loves. Calvivo.
 - Glamorama. Ellis.
+- Brief interviews with hideous men. Wallace.
 
 ### work-related
 
