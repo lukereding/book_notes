@@ -21,6 +21,7 @@
 - Be here now. Dass.
 - How to win friends and influence people. Carnegie.
 - Stillness is the way. Holliday.
+- The conquest of happiness. Russell.
 
 
 # 2019
