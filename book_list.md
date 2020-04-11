@@ -6,6 +6,7 @@
 - Glamorama. Ellis.
 - Brief interviews with hideous men. Wallace.
 - Civilwarland in bad decline. Saunders.
+- Lincoln in the bardo. Saunders.
 
 ### work-related
 
