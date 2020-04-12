@@ -19,11 +19,11 @@
 - The art of thinking clearly. Dobelli.
 - The simple path to wealth. Collins.
 - Difficult conversations. Stone, Patton, and Heen. [[notes](notes_on_difficult_conversations.md)]
-- Judgement in managerial decision making. Bazerman.
+- Judgement in managerial decision making. Bazerman. [[notes](notes_on_judgement_in_managerial_dm.md)]
 - Smart choices. Hammond, Keeny, and Raiffa.
 - Be here now. Dass.
 - How to win friends and influence people. Carnegie.
-- Stillness is the way. Holliday.
+- Stillness is the way. Holiday.
 - The conquest of happiness. Russell.
 
 
