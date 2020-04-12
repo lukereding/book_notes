@@ -10,8 +10,9 @@
 
 ### work-related
 
-- Risk up front. Josephs and Rubenstein. [[notes](https://github.com/lukereding/book_notes/blob/master/notes_on_ruf.md)]
+- Risk up front. Josephs and Rubenstein. [[notes](notes_on_ruf.md)]
 - The making of a manager. Zhuo. [[notes](notes_on_making_of_a_manager.md)]
+- The ten-day MBA. Silbiger. [notes](notes_on_ten_day_mba.md)
 
 ### general non-fiction / other
 
