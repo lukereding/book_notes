@@ -1,8 +1,12 @@
 # models for thinking and problem-solving
 
-#### what is the goal / problem
+### what is the goal / problem
 
 This seems really simple but violating this simple idea is routine. Whenever you're thinking through something, make sure ou know what the exact problem is you're solving for. I've found it's quite typical for the problem to be ill-defined and nebulous. You can't solve a problem if the problem isn't clear.
+
+It's often useful to take a step back. Think about what the goal is, what you are trying to accomplish. Don't think about specific tools or methodologies. Often we presuppose that we using tool X or approach Y will mean we achieve our goals, but this is often not the case.
+
+An example might be: a client for a streaming video service wants you to recommend the next video to play for each customer after they watch a video. What's the goal here? What are we optimizing for? It's still nebulous. Maybe after some back and forth you realize that client wants people to _watch_ the next video you suggest, not just click on it. There are people that might jump to suggesting specific recommender-based approaches. But I think that's the wrong approach. Because once you implement your solution, you need to understand how to evaluate it. Which mean you'll need to do some kind of A/B testing or experimentation. And you'll probably want to compare any fancier approach to some simple heuristics to see how they perform, like suggesting the next episode, or suggesting the most popular show they haven't watched. You'll need a system that could route traffic via for these different solutions. As you see how the heuristic solutions perform, think about what the results mean. Often this whole process is a means of understanding the problem. In this example, the implementation of the recommend system, if it ends up being necessary, is such a small step in a larger process of understanding the problem and figuring out the smallest solution to the problem that might work.
 
 ### what do I need to know
 
