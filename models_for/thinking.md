@@ -38,6 +38,10 @@ When evaluating data, always ask yourself whether the sample is unbiased or not.
 
 To me, these are closely related. Once you ask _why_ five times, you tend to overcover the broader system. When you do this, it's useful to diagram all the resulting pieces of your problem and the interactions between them. Systems thinking and root cause analysis are especially powerful because they force you to think about the broader system or context in which a problem occurs instead of one isolated component.
 
+### segment
+
+I continue to find [Simpson's paradox](https://en.wikipedia.org/wiki/Simpson%27s_paradox) disturbing. If we really want to understand patterns we see in data, we often need to segment them to understand the extent to which the patterns hold true in each group.
+
 ### expected value calculations / sensitivity analysis / net present value
 
 ### weight opinions by credibility
