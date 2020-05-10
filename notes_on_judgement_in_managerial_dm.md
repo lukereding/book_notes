@@ -1,4 +1,4 @@
-# _judgement in managerial decision-making_
+# _judgment in managerial decision-making_
 
 This is a lot like other books I like--_Thinking Fast and Slow_, e.g.--but it's more to the point and more applied. I liked it a lot.
 
@@ -12,30 +12,30 @@ Components of a rational decision:
 2. Identify the criteria.
 3. Weight the criteria. 
 4. Generate alternatives / possible courses of action.
-5. Rate each alternative on each crtieria.
+5. Rate each alternative on each criteria.
 6. Compute the optimal decision.
 
-One thing I really liked about this book with Bazerman classifies all the ways that interfer with rational decision-making into broader classes:
+One thing I really liked about this book with Bazerman classifies all the ways that interfere with rational decision-making into broader classes:
 
 ### the availability heuristic
 
 - ease of recall
-- retrievability
+- retrieval
 - presumed associated
 
 
 ### the representativeness heuristic
 
-- insivitivity to base rates
-- insenitivity to sample size
+- insensitivity to base rates
+- insensitivity to sample size
 - misconceptions about chance
 - regression to the mean (we tend to naively develop predictions based on the assumption of perfect correlation with past data)
-- the conjugation fallacy (the linda problem)
+- the conjugation fallacy (the Linda problem)
 
 ### anchoring and adjustment
 
 - insufficient anchor adjustment
-- conjunctive and disjunctive events bias (when multiple events need to occur, we overestimate the true likelihood, while if only one of many events need to occur, we underestimate the true likelihood; implications for timing / budgets; even when the probability of something bad happening is small, if there are a lot of things that have to go correctly, the probability of failure of the system may be substational)
+- conjunctive and disjunctive events bias (when multiple events need to occur, we overestimate the true likelihood, while if only one of many events need to occur, we underestimate the true likelihood; implications for timing / budgets; even when the probability of something bad happening is small, if there are a lot of things that have to go correctly, the probability of failure of the system may be substantial)
 - overconfidence
 
 ### other
@@ -44,9 +44,9 @@ One thing I really liked about this book with Bazerman classifies all the ways t
 - hindsight and the curse of knowledge
 
 
-## judgement under uncertainty
+## judgment under uncertainty
 
-We tend to discount uncertaintly because we don't like it and it's easier to pretend it doesn't exist. Example: you might have made a decision thinking about what was most likely to occur without thinking through the potential consequences.
+We tend to discount uncertainty because we don't like it and it's easier to pretend it doesn't exist. Example: you might have made a decision thinking about what was most likely to occur without thinking through the potential consequences.
 
 People vary in their risk-tolerance/-seeking behavior. People that are risk-taking in some domains are often risk-averse in other domains. If you make all your decisions via expected value calculations, you are acting in a risk-neutral way.
 
@@ -59,10 +59,10 @@ A lot of this chapter deals with prospect theory; some core things to keep in mi
 A lot of this chapter deals with framing, but there are some interesting points:
 
 - Connected or linked decisions, common in companies, are best made cohesively. Making the decisions separately is likely to lead to irrational (non-optimal) choice and inconsistency
-- Reference points serve as anchors and have a huge impact on our decision-making. If many reference points exist, always think about the problem from each reference point and examine any contridictions that emerge.
-- People value the destruction of uncerrtaintly very highly. Connection to insurance; maybe people are, in part, buying insurance to eliminate the worry caused by uncertainty about floods/weather/accidents/etc.
+- Reference points serve as anchors and have a huge impact on our decision-making. If many reference points exist, always think about the problem from each reference point and examine any contradictions that emerge.
+- People value the destruction of uncertainty very highly. Connection to insurance; maybe people are, in part, buying insurance to eliminate the worry caused by uncertainty about floods/weather/accidents/etc.
 - A really interesting idea: __transactional utility__. Basically, we feel good getting a deal on something compared to our expectations, even if it's inconsistent with other decisions we would have made (e.g. buying the item in the first place). 
-- He brings up the __endowment effect__ and notes that it's common across experients for a 2:1 difference in value placed by sellers vs. buyers for different goods (e.g. sellers think $2X is a good price for what they have, but buyers are willing to pay $X).
+- He brings up the __endowment effect__ and notes that it's common across experiments for a 2:1 difference in value placed by sellers vs. buyers for different goods (e.g. sellers think $2X is a good price for what they have, but buyers are willing to pay $X).
 
 Really interesting quotation from Dawes (1988):
 
@@ -82,10 +82,10 @@ He goes on to outline four positive illusions: (1) we tend to have positive view
 
 This section was fascinating. The argument is that we make a lot of decisions to avoid to regret we think we might feel in the future.
 
-- Really interesting: bronze metal winners at the Olympics tend to be happier with their acheivement than silver metal winners. 
+- Really interesting: bronze metal winners at the Olympics tend to be happier with their achievement than silver metal winners. 
 - People tend to feel more regret for acts of commission (what they did) as opposed to acts of omission (inaction / what they didn't do). This biases us towards inaction in some cases.
 
-## the nonrational escalation of committment
+## the nonrational escalation of commitment
 
 A lot of this chapter deals with the sunk cost fallacy. Some interesting notes:
 
@@ -93,9 +93,9 @@ A lot of this chapter deals with the sunk cost fallacy. Some interesting notes:
 - Implications for bidding and auctions: the curse of the winner. In a lot of auctions the winner tends to pay too much for the item.
 - He references the bidding game I was first introduced to by Raiffa in his book on negotiation; people typically bid $20-70 for a $20 bill in the game; in one case $204. This dude has earned $25k playing this game in his classes.
 - In auctions, put yourself in the place of the other bidders and play out what might happen
-- From an organizational standpoint, there's evidence to suggest that people are rewarded for escalating committment even when it makes no sense to do so. We also tend to like people that are consistent and confident, which biases us to think that leaders that escalate committment are doing the right thing. 
+- From an organizational standpoint, there's evidence to suggest that people are rewarded for escalating commitment even when it makes no sense to do so. We also tend to like people that are consistent and confident, which biases us to think that leaders that escalate commitment are doing the right thing. 
 
-An idea I've seen crop up everything that makes a lot of sense to me: __people should be rewarded for the quality of their decision-making, not the outcome of their decisions__. I've never actually seen this donee in practice, though. The result is that we reward people who happen to get lucky and disincentize people for taking thoughtful approachs to making decisions.
+An idea I've seen crop up everything that makes a lot of sense to me: __people should be rewarded for the quality of their decision-making, not the outcome of their decisions__. I've never actually seen this done in practice, though. The result is that we reward people who happen to get lucky and disincentize people for taking thoughtful approaches to making decisions.
 
 ## fairness in decision-making
 
@@ -116,23 +116,23 @@ Investment mistakes have their root in:
 ## making rational decisions in negotiations
 
 Framework for approaching negotiations:
-- __alternatives to negogiated agreement__. Always come up with your BATNA (best alternative to a negotatied settlement) before negogiating. We should prefer any agreement that exceeds our BATNA over impasse; the BATNA is the point at which we are indifferent to a settlement. It's really easy for emotions to take over and to negogiate a bad deal if you haven't carefully considered your BATNA beforehand.
-- __interests of the parties__. There is a difference between each party's stated positions and their underlying interests. Interests are underlying issues that coould matter to the negoiators if they were made aware of them.
+- __alternatives to negotiated agreement__. Always come up with your BATNA (best alternative to a negotiated settlement) before negotiating. We should prefer any agreement that exceeds our BATNA over impasse; the BATNA is the point at which we are indifferent to a settlement. It's really easy for emotions to take over and to negotiate a bad deal if you haven't carefully considered your BATNA beforehand.
+- __interests of the parties__. There is a difference between each party's stated positions and their underlying interests. Interests are underlying issues that could matter to the negotiators if they were made aware of them.
 - __the relative importance of each party's interests.__ We should be aware of how important each issue is to us before we negotiate. 
 
-One of the biggesdt takeaways for this book to me was __the difference between claiming value and creating value__.
+One of the biggest takeaways for this book to me was __the difference between claiming value and creating value__.
 
 #### claiming value
 
-This is extent that most people think about when negotiating. In a salary negoiation, you claim a lot of value if you're able to extract a high salary, for example. Claiming value is a zero-sum game. Claiming value is all about determining your own reservation point and that of your partner and determining whether a bargaining zone exists where a settlement could be found. Most people fail to think carefully about their BATNA and the BATNA of the other party. Raiffa's book on negoiation has a really good example of what this looks like in a real-life example of buying a house.
+This is extent that most people think about when negotiating. In a salary negotiation, you claim a lot of value if you're able to extract a high salary, for example. Claiming value is a zero-sum game. Claiming value is all about determining your own reservation point and that of your partner and determining whether a bargaining zone exists where a settlement could be found. Most people fail to think carefully about their BATNA and the BATNA of the other party. Raiffa's book on negotiation has a really good example of what this looks like in a real-life example of buying a house.
 
 By definition, one-issue negotiations do not create value.
 
 #### creating value
 
-The main point here is that negoiations don't have to be zero-sum: the asymmetry in beleifs, interests, and priorities of each party means that by being creative and looking at more than just one value (e.g. money) we can find settlements that are more likely to be Pareto efficient and have more value to both parties than any single-issue settlement would have.
+The main point here is that negotiations don't have to be zero-sum: the asymmetry in beliefs, interests, and priorities of each party means that by being creative and looking at more than just one value (e.g. money) we can find settlements that are more likely to be Pareto efficient and have more value to both parties than any single-issue settlement would have.
 
-In order to create value, you have to examine the underlying interests of each party, not just their stated positions. It's possible to craft agreements based on the tradeoffs the parties exhibit for each of the interests at stake. __Differences are oppurtunities to create value__. E.g. you can often create value through bets. If the parties have different thoughts about what's likely to happen the future, a settlement might capitalize on that to the satisfaction of both parties. If one party is more risk-averse and the other party more risk-seeking, a settlement might include a guanenteed lump sum for the former party and an uncertain, larger payoff for the latter party, for example. __Contingent contracts__ can also be a useful tool to create value. 
+In order to create value, you have to examine the underlying interests of each party, not just their stated positions. It's possible to craft agreements based on the trade-offs the parties exhibit for each of the interests at stake. __Differences are opportunities to create value__. E.g. you can often create value through bets. If the parties have different thoughts about what's likely to happen the future, a settlement might capitalize on that to the satisfaction of both parties. If one party is more risk-averse and the other party more risk-seeking, a settlement might include a guaranteed lump sum for the former party and an uncertain, larger payoff for the latter party, for example. __Contingent contracts__ can also be a useful tool to create value. 
 
 The key to creating value is exposing the interests of the other party. How can you do that?
 
@@ -140,13 +140,13 @@ The key to creating value is exposing the interests of the other party. How can 
 - ask questions. negotiators that ask more questions and talk less tend to me more successful
 - strategically disclose information
 - make multiple offers simultaneously
-- search for post-settlement settlements. This is a really interesting idea: once you come to an agreement, bring in a meditor that's allowed to 'see the cards' of our party. The mediator might be able to craft a better deal with both parties. In cases like this, each party would have veto power over any settlement proposed by the mediator.
+- search for post-settlement settlements. This is a really interesting idea: once you come to an agreement, bring in a mediator that's allowed to 'see the cards' of our party. The mediator might be able to craft a better deal with both parties. In cases like this, each party would have veto power over any settlement proposed by the mediator.
 
 ## negotiator cognition
 
-Most negotiators think about negotions only in terms of claiming, not creating value. Negoitations don't have to be zero-sum. Thinking about multiple issues _at the same time_ is the best way to avoid this zero-sum thinking. 
+Most negotiators think about negations only in terms of claiming, not creating value. Negotiations don't have to be zero-sum. Thinking about multiple issues _at the same time_ is the best way to avoid this zero-sum thinking. 
 
-> Framing effects suggest that in induce concessionary behavior in an opponent, a negoitor should always create anchors that lead the opposition towards a positive frame.
+> Framing effects suggest that in induce concessionary behavior in an opponent, a negotiator should always create anchors that lead the opposition towards a positive frame.
 
 Should you make the first offer in a negotiation? If you think you have a good idea of the bargaining zone, then you can set an anchor by being first to place the offer. 
 
@@ -156,6 +156,6 @@ People that think more from the perspective of their opponents tend to do better
 
 ## other / random
 
-Whenever we're asked to estimate the associated between two dichotomous events, we need to think about all four possible outcomes, not justthe two that come most easily to mind. 
+Whenever we're asked to estimate the associated between two dichotomous events, we need to think about all four possible outcomes, not just the two that come most easily to mind. 
 
 > ...in many professions, success is measured by one's ability to manipulate the transient concerns of other people. (pg 61-62)
