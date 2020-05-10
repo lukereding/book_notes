@@ -29,7 +29,7 @@
 - Judgement in managerial decision making. Bazerman. [[notes](notes_on_judgement_in_managerial_dm.md)]
 - Smart choices. Hammond, Keeny, and Raiffa.
 - Be here now. Dass.
-- How to win friends and influence people. Carnegie.
+- How to win friends and influence people. Carnegie. [[notes](notes_on_how_to_win_friends.md)]
 - Stillness is the way. Holiday.
 - The conquest of happiness. Russell.
 
