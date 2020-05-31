@@ -1,4 +1,4 @@
-# _making things happens_
+# _making thing happens_
 Scott Berkun
 
 
