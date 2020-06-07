@@ -33,6 +33,7 @@
 - How to win friends and influence people. Carnegie. [[notes](notes_on_how_to_win_friends.md)]
 - Stillness is the way. Holiday.
 - The conquest of happiness. Russell.
+- The narrative life of Frederick Douglass. Douglass
 
 
 # 2019
