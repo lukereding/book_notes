@@ -42,6 +42,10 @@ To me, these are closely related. Once you ask _why_ five times, you tend to ove
 
 I continue to find [Simpson's paradox](https://en.wikipedia.org/wiki/Simpson%27s_paradox) disturbing. If we really want to understand patterns we see in data, we often need to segment them to understand the extent to which the patterns hold true in each group.
 
+### refuse all-or-nothing thinking
+
+The world exists in greys. But taking an all-or-nothing approach to things--someone is evil or good, the research paper is garbage or valuable--denies you of the richness of the world and the truth. All-or-nothing thinking is a heuristic. It's convenient and simple, but it puts you further from an complete understanding of the idea, event, or context you're trying to understand.
+
 ### expected value calculations / sensitivity analysis / net present value
 
 ### weight opinions by credibility
