@@ -35,7 +35,7 @@
 - The art of war. Tzu.
 - The conquest of happiness. Russell.
 - The narrative life of Frederick Douglass. Douglass
-- How to be an antiracist. Kendi.
+- How to be an antiracist. Kendi.[[notes](notes_how_to_be_antiracist.md)]
 
 
 # 2019
