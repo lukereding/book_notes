@@ -32,8 +32,10 @@
 - Be here now. Dass.
 - How to win friends and influence people. Carnegie. [[notes](notes_on_how_to_win_friends.md)]
 - Stillness is the way. Holiday.
+- The art of war. Tzu.
 - The conquest of happiness. Russell.
 - The narrative life of Frederick Douglass. Douglass
+- How to be an antiracist. Kendi.
 
 
 # 2019
