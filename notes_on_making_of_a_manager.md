@@ -131,7 +131,7 @@ Create a gameplan that plays to your team's strengths. Importantly, __focus on d
 
 People that achieve the most put their concentrated effort into few, not many things.
 
-__Define who is responsible for what__. (Connection to the RUF book and the idea of transparency AFN accountability.)
+__Define who is responsible for what__. (Connection to the RUF book and the idea of transparency AFN accountability and Peter Thiel's management strategy at PayPal.)
 
 Treat big problems like a series of smaller projects. Create a sense of urgency. Ask people to commit to their goals / action items publicly. (Again, connection to RUF.)
 
