@@ -1,5 +1,5 @@
 
-A racist is someone who supports a racist policy through action or inaction, or expresses a racist idea. Racist policies produce and sustain racial inequities. Racial inequities occur when two or more racial groups aren't on approximately equal footing. Every policy is either racist or antiracist. 
+A racist is someone who supports a racist policy through action or inaction, or expresses a racist idea. Racist policies produce and sustain racial inequities. Racial inequities occur when two or more racial groups aren't on approximately equal footing. Every policy is either racist or antiracist. In any given momement, we can be racist or antiracist. When we express a racist idea, we are acting in a racist way, but we can act in an anti-racist way in the next moment.
 
 Racists see people as the problem, not policy. [This is a more common mistake humans make, i.e., the fundamental attribution error, to attribute the way someone is to something innate in them as opposed to their circumstances or environment.]
 
