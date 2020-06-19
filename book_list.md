@@ -37,6 +37,7 @@
 - The narrative life of Frederick Douglass. Douglass.
 - How to be an antiracist. Kendi. [[notes](notes_how_to_be_antiracist.md)]
 - The daily stoic. Holiday.
+- Animal liberation. Singer.
 
 # 2019
 
