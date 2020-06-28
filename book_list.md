@@ -38,6 +38,8 @@
 - How to be an antiracist. Kendi. [[notes](notes_how_to_be_antiracist.md)]
 - The daily stoic. Holiday.
 - Animal liberation. Singer.
+- Gödel, Escher, Bach: An Eternal Golden Braid. Hofstadter.
+- Concepts of modern mathematics. Stewart.
 
 # 2019
 
