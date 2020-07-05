@@ -14,6 +14,7 @@
 - Census. Ball.
 - Sunset Limited. McCarthy.
 - Samedi the Deafness. Ball.
+- Invitation to a beheading. Nabakov.
 
 ### work-related
 
