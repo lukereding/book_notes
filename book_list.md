@@ -15,6 +15,8 @@
 - Sunset Limited. McCarthy.
 - Samedi the Deafness. Ball.
 - Invitation to a beheading. Nabakov.
+- Lolita. Nabakov.
+- Despair. Nabakov.
 
 ### work-related
 
@@ -41,6 +43,8 @@
 - Animal liberation. Singer.
 - Gödel, Escher, Bach: An Eternal Golden Braid. Hofstadter.
 - Concepts of modern mathematics. Stewart.
+- Introduction to graph theory. Trudeau.
+- Spineless. Berwald.
 
 # 2019
 
