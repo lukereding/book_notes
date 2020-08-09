@@ -17,6 +17,7 @@
 - Invitation to a beheading. Nabakov.
 - Lolita. Nabakov.
 - Despair. Nabakov.
+- The eye. Nabakov.
 
 ### work-related
 
@@ -24,6 +25,7 @@
 - The making of a manager. Zhuo. [[notes](notes_on_making_of_a_manager.md)]
 - The ten-day MBA. Silbiger. [[notes](notes_on_ten_day_mba.md)]
 - Making things happen. Berkun. [[notes](notes_making_things_happen.md)]
+- Inspired. Cagen.
 
 ### general non-fiction / other
 
