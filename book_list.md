@@ -26,6 +26,7 @@
 - The ten-day MBA. Silbiger. [[notes](notes_on_ten_day_mba.md)]
 - Making things happen. Berkun. [[notes](notes_making_things_happen.md)]
 - Inspired. Cagen.
+- The manager's path. Fournier.
 
 ### general non-fiction / other
 
