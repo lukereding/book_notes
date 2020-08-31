@@ -8,6 +8,9 @@ Random takeaways and key points:
 - Good managers know who to 'play the game' at your company
 - Good managers care honestly and personally about their direct reports
 - Listening is one of the most important skills
+- Staying technical even as you move up the management chain is important
+- 'Debug' problems on your team like it's a machine or a complex system (which it is)
+- Appropriate context enables people to make good decisions
 
 
 ## management 101
@@ -107,6 +110,39 @@ Random takeaways and key points:
 
 - When discussing potential, she says that 'a person who has never shown reasonable performance, and who has been with the company long enough for you to observe performance, probably doesn't have potential, at least within the company.'
 
+## managing a team
+
+- You need to stay technical. You need to be able to balance the tech against business needs and overall context of the team; you can't do this if you're super disconnected.
+- You generally need to give people some context into _why_ certain goals have been set, or _why_ they're working on something, even if it means not totally 'protecting' them from bs. Appropriate context enables people to make good decisions.
+
+### debugging dysfunctional teams
+
+- Not shipping. Are tools processes getting in the way?
+- People drama. Nip it in the bud.
+- Overwork. 
+- Collaborating problems (i.e. with other teams)
+
+### driving good decisions
+
+- create a data-driven team culture -- track number of issues, bugs, etc.
+- product -- develop customer empathy
+- look into the future -- you need to be thinking two steps ahead
+- review the outcome of your decisions
+- run retrospectives
+
+### people that can destroy team cohesion
+
+- the brilliant jerk
+- the noncommunicator
+- the employee who lacks respect
+
+### project management guidelines
+
+- budget 20% of time for tech debt
+- assume 10 productive work weeks / quarter
+- say 'no' as the deadline approaches
+- 'guess and double it' to estimate how long something will take
+- be selective about what you bring to the team to estimate -- it can be exhausting. another reason why you need to stay technical
 
 ## anti-patterns
 
@@ -123,6 +159,10 @@ Random takeaways and key points:
   - Comes down to trust and control
   - If you make all the decisions for someone, not only do you deprive them of growth, but autonomy is a key element of motivation
 
+- Avoiding conflict
+  - No one is going to feel secure or knows what's going to happen next if no one takes responsibility for decisions and sets direction 
+  - Don't rely on consensus voting; establish processes to depersonalize decisions
+
 ## interesting quotations
 
 > the most mundane work can turn into a source of pride when you understand how it contributes to the overall success of your company
@@ -132,3 +172,5 @@ I love how fresh and visual this metaphor is:
 > we're constantly pushing complex ideas through the eye of the needle of language
 
 > If one universal talent separates successful leaders from the pack, it's communication skills. Successful leaders write well, they read carefully, and the can get up in front of a group and speak.
+
+Interesting test for a happy team--if you buy them pizza at the end of the day, will they stick around and eat it?
