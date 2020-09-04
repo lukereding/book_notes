@@ -1,3 +1,4 @@
+ <!-- omit in toc -->
 # the manager's path
 
 Camille Fournier
@@ -11,7 +12,28 @@ Random takeaways and key points:
 - Staying technical even as you move up the management chain is important
 - 'Debug' problems on your team like it's a machine or a complex system (which it is)
 - Appropriate context enables people to make good decisions
+- Understand the difference between things that are urgent and things that are important
 
+- [the manager's path](#the-managers-path)
+  - [management 101](#management-101)
+    - [how to be managed](#how-to-be-managed)
+  - [mentoring](#mentoring)
+    - [intern](#intern)
+    - [new hire](#new-hire)
+  - [tech lead](#tech-lead)
+    - [managing a project](#managing-a-project)
+    - [qualities of a great tech leads](#qualities-of-a-great-tech-leads)
+  - [managing people](#managing-people)
+  - [managing a team](#managing-a-team)
+    - [debugging dysfunctional teams](#debugging-dysfunctional-teams)
+    - [driving good decisions](#driving-good-decisions)
+    - [people that can destroy team cohesion](#people-that-can-destroy-team-cohesion)
+    - [project management guidelines](#project-management-guidelines)
+  - [managing a team](#managing-a-team-1)
+  - [bootstrapping culture](#bootstrapping-culture)
+  - [managing managers](#managing-managers)
+  - [anti-patterns](#anti-patterns)
+  - [interesting quotations](#interesting-quotations)
 
 ## management 101
 
@@ -144,6 +166,54 @@ Random takeaways and key points:
 - 'guess and double it' to estimate how long something will take
 - be selective about what you bring to the team to estimate -- it can be exhausting. another reason why you need to stay technical
 
+## managing a team
+
+- Managing your time becomes more difficult. Only make time for important things.
+- You still want to attend some lower-level meeting, in part to get a sense of how your team is behaving--are they bored, unmotivated, tired?
+- It's okay to feel drained when you take on this role; things will improve.
+- Delegate simple and frequent tasks; do simple infrequent tasks yourself; carefully delegate complex frequent tasks; delegate complex infrequent tasks for training purposes
+- Your goal with the above is that you want your teams to operate really effectively without much input from you
+- You'll have to learn how to say 'no' nicely:
+  - "yes and" | good pattern to use with highups. "yes i can do and that _and_ I'll need another tech team"
+  - create a policy | basically, make it clear what needs to be in place for a 'yes' to happen
+  - "help me say yes" | means you ask questions about the things you don't understand
+  - appeal to time and budget
+  - don't prevaricate
+- measuring the health of your team
+  - frequency of release. if you aren't releasing frequently, it's a sign that somethings off
+  - frequency of code check-ins
+  - frequency of incidents
+- treat your dysfunctional teams like bugs
+  - keep asking _why_ until you get to the root cause of the issue
+  - have a hypothesis, and use data as much as you can to determine to degree to which your hypothesis makes sense
+  - observe the team--boring meeting can be a sign of dysfunction, as it means there isn't healthy conflict on the team
+  - ask questions
+  - be curious
+- expectations and scheduling
+  - be aggressive about sharing estimates and updates to estimates, even when people don't ask
+
+## bootstrapping culture
+
+Some import thoughts on structure and process:
+
+> Pretending to lack structure tends to create hidden power structures resulting from the nature of human communication and the challenges of trying to scale that communication.
+
+> Structure is how we scale, diversify, and take on more complex long-term tasks
+
+Without process, you can't scale. With the wrong process, you'll be slowed down. 
+
+When failures on your team occur, examine all aspects of reality that contribute to those failures
+
+Culture = "unspoken rules of a community"
+
+First, define your culture. What does your team stand for? What does it value? Then reward people that exhibit those traits. 
+
+## managing managers
+
+- The 'open door policy' usually backfires. Few people are going to actually come to you with their problems.
+- The goal of skip-level meetings is to gain perspective on the health and focus of your team. You also want to get a sense of how you're being 'managed up' by your direct reports. I.e. they can be useful to identify managers who only want to report good news to you.
+- If your managers have unusable roadmaps, bad tech leads, or are constantly fighting fires, _you have to hold your manager responsible_. 
+
 ## anti-patterns
 
 - The 'alpha geek'.
@@ -163,6 +233,17 @@ Random takeaways and key points:
   - No one is going to feel secure or knows what's going to happen next if no one takes responsibility for decisions and sets direction 
   - Don't rely on consensus voting; establish processes to depersonalize decisions
 
+- Focusing on team identity to the exclusion of all else
+  - fragile to the loss of the leader
+  - resistent to outside ideas
+  - inflexible
+  - often result in outcomes that, while are good for the team, might be bad for the company
+
+- The people pleaser
+  - Struggles to say no and as a result can send contradictory messages to the team and other stakeholders
+  - makes it difficult for the team to fail in a healthy way
+  - 
+
 ## interesting quotations
 
 > the most mundane work can turn into a source of pride when you understand how it contributes to the overall success of your company
@@ -174,3 +255,7 @@ I love how fresh and visual this metaphor is:
 > If one universal talent separates successful leaders from the pack, it's communication skills. Successful leaders write well, they read carefully, and the can get up in front of a group and speak.
 
 Interesting test for a happy team--if you buy them pizza at the end of the day, will they stick around and eat it?
+
+> As a manager of multiple teams, you can win back a lot of time by pushing an efficient meetings culture down to your teams.
+
+> The skills of a manager...are pretty much entirely based around communication.
