@@ -28,6 +28,7 @@
 - Making things happen. Berkun. [[notes](notes_making_things_happen.md)]
 - Inspired. Cagen.
 - The manager's path. Fournier.
+- The art of readable code. Boswell and Foucher.
 
 ### general non-fiction / other
 
