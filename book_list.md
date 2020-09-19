@@ -29,6 +29,7 @@
 - Inspired. Cagen.
 - The manager's path. Fournier.
 - The art of readable code. Boswell and Foucher. [[notes](notes_art_of_readable_code.md)]
+- Testing in Python. Gift and Deza.
 
 ### general non-fiction / other
 
