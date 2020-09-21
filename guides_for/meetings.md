@@ -26,6 +26,10 @@ Tasks expand to the time allocated to them. Be respectful of people's time. Don'
 
 What does the meeting need to accomplish to be successful? Is there anyone that's on-point for presenting or leading parts of the discussion? If so make it clear.
 
+### prepare
+
+Many meetings fail because don't prepare ahead of time. If you're supposed to be leading the meeting, it addition to thinking about the goals and objectives in the meeting, think ahead about if there are specific viewpoints you want to hear or more detailed questions you want answered. Write them down ahead of time to get them out of your head.
+
 ## during the meeting
 
 ### set the context, define the objectives
