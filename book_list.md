@@ -51,6 +51,7 @@
 - Concepts of modern mathematics. Stewart.
 - Introduction to graph theory. Trudeau.
 - Spineless. Berwald.
+- Living with complexity. Norman.
 
 # 2019
 
