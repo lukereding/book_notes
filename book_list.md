@@ -53,6 +53,8 @@
 - Spineless. Berwald.
 - Living with complexity. Norman. [[notes](notes_living_with_complexity.md)]
 - How to kill a city. Moskowitz. [[notes](./notes_how_to_kill_a_city.md)]
+- I am a strange loop. Hofstadter.
+- A \*new\* program for graphic design. Reinfurt. 
 
 # 2019
 
