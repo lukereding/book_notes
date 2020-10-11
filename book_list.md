@@ -55,6 +55,7 @@
 - How to kill a city. Moskowitz. [[notes](./notes_how_to_kill_a_city.md)]
 - I am a strange loop. Hofstadter.
 - A \*new\* program for graphic design. Reinfurt. 
+- A country of cities. Chakrabarti.
 
 # 2019
 
