@@ -15,3 +15,7 @@ It's crucial that everyone know at the start of the project what success looks l
 ### work to unearth and mitigate risks
 
 ### make a strategy document
+
+### understand the end consumers
+
+Understand how the product is used. Ask the end users questions but do not simply do what they tell you to do. You want to understand the users __goals__ and their __latent needs__, not just the goals or products or features they _think_ they need.
