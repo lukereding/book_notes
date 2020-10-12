@@ -8,6 +8,18 @@ I've found that often people are all too happy to start a new project--maybe the
 
 It's crucial that everyone know at the start of the project what success looks like. This might be a hard requirement--increase profits by 10%--or it could be a softer requirement, but it should be something that can at least be _measureable_. 
 
+### things will take longer than you think they will
+
+Hofstadter's law; principle of multiplying estimates by 2-3 to get at a more reasonable estimate of timing
+
+### allocate roughly equal time to design, implementation, and testing for tech products
+
+### do experiments and create prototypes
+
+If you use the design time of your project in purely theoretical matters, when it comes time for implementation, you're taking a big risk. You are betting on the certainty of a solution that hasn't been tested or prototyped. You need to prototype to test your assumptions and figure out what you don't know. These prototypes should be quick, cheap, and give you the freedom to fail early and often.
+
+Prototypes have another advantage. Often folks don't really know if a given solution would really solve their problems; it's hard to think abstractly about something that doesn't exist. Prototypes allow you to show a customer would the end solution would look like to a very rough approximation. Even though the fidelity of the prototype is poor, it can still go a long way to illustrating what the end result will look like and make sure you're on the right track. Additionally, by building the prototype, you'll uncover scores of issues you wouldn't have realized were issues if you hadn't created the prototype.
+
 ### identify dependencies early on
 
 ### have a clear timeline
