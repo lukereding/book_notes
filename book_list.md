@@ -57,6 +57,7 @@
 - A \*new\* program for graphic design. Reinfurt. 
 - A country of cities. Chakrabarti.
 - Creative confidence. Kelley and Kelly. [[notes](./notes_creative_confidence.md)]
+- No rules rules. Hastings and Meyer. [[notes](./notes_no_rules_rules.md)]
 
 # 2019
 
