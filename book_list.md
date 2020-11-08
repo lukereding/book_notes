@@ -58,7 +58,7 @@
 - A country of cities. Chakrabarti.
 - Creative confidence. Kelley and Kelly. [[notes](./notes_creative_confidence.md)]
 - No rules rules. Hastings and Meyer. [[notes](./notes_no_rules_rules.md)]
-- The back of the napkin. Roam.
+- The back of the napkin. Roam. [[notes](notes_back_napkin.md)]
 - Subliminal. Mlodinow.
 - Design as art. Munari.
 
