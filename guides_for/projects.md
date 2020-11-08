@@ -22,7 +22,7 @@ Prototypes have another advantage. Often folks don't really know if a given solu
 
 ### identify dependencies early on
 
-### have a clear timeline
+### have a clear timeline and concrete deliverables
 
 ### work to unearth and mitigate risks
 
@@ -31,3 +31,16 @@ Prototypes have another advantage. Often folks don't really know if a given solu
 ### understand the end consumers
 
 Understand how the product is used. Ask the end users questions but do not simply do what they tell you to do. You want to understand the users __goals__ and their __latent needs__, not just the goals or products or features they _think_ they need.
+
+### why projects fail
+
+This (rough) list was presented to us during TVL; I thought it's inclusion here was useful:
+
+- not enough time is spent on planing up front
+- the client / customer / stakeholder doesn't get back to you
+- team members have different ideas about how to accomplish a task
+- work is not appropriately distributed
+- the team leader doesn't get updates from team members
+- scope is not clearly defined
+- outcome is not clearly defined
+
