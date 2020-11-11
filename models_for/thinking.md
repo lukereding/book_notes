@@ -28,7 +28,15 @@ There are plenty of cognitive biases that masquerade by different names (e.g. su
 
 The only way to learn about how the world works is to (a) form a hypothesis, (b) observe, (c) when something violates your hypothesis, it means your model is wrong and needs updating, so (d) update it and continue the process. Another way of thinking about this is to identify gaps between what happens in the world and what you think should have happened.
 
-The difficulty in applying this idea lies in its implicit requirement to interpret the world without bias. It is easy to see the world in a way you want to see it. You have to change your thinking from wanting to be right and internally consistent to having a true interest in understanding how the world works. \
+The difficulty in applying this idea lies in its implicit requirement to interpret the world without bias. It is easy to see the world in a way you want to see it. You have to change your thinking from wanting to be right and internally consistent to having a true interest in understanding how the world works.
+
+### when you find a difference between what you expect and what you observe
+
+Ask yourself:
+
+- Are my assumptions wrong?
+- Are my data flawed?
+- Or my intuition flawed?
 
 ### is the sample biased?
 
