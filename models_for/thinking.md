@@ -66,6 +66,8 @@ Many phenomena can be understand simply by asking questions about supply and dem
 
 It's important to be able to tease about, in any argument or opinion: what are the facts? what are the generalizations? what are the assumptions?
 
+### positive and negative controls
+
 ## specific techniques / models
 
 ### what will the effects of this be in 5 min, 5 months, and 5 years?
