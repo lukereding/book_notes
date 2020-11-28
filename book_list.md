@@ -60,7 +60,7 @@
 - No rules rules. Hastings and Meyer. [[notes](./notes_no_rules_rules.md)]
 - The back of the napkin. Roam. [[notes](notes_back_napkin.md)]
 - Subliminal. Mlodinow.
-- Design as art. Munari.
+- Design as art. Munari. [[notes](notes_design_as_art.md)]
 - The end of policing. Vitale.
 - Speak, memory. Nabakov.
 
