@@ -61,7 +61,7 @@
 - The back of the napkin. Roam. [[notes](notes_back_napkin.md)]
 - Subliminal. Mlodinow. [[notes](notes_on_subliminal.md)]
 - Design as art. Munari. [[notes](notes_design_as_art.md)]
-- The end of policing. Vitale.
+- The end of policing. Vitale. [[notes](notes_end_of_policing.md)]
 - Speak, memory. Nabakov.
 
 # 2019
