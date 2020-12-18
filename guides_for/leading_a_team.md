@@ -26,7 +26,7 @@ The idea is you don't want people to feel blocked or like there are a ton of obs
 
 #### Ensure people understand what success looks like
 
-You can't expect a guest in your house to find the light switch by groping around in the dark without a flashlight. Likewise, you can't expect your people tom magically alight upon the correcting working behavior without passing them some sort of torch so that they can start to see the outlines of things and what 'winning' looks like.
+You can't expect a guest in your house to find the light switch by groping around in the dark without a flashlight. Likewise, you can't expect your people to magically alight upon the correcting working behavior without passing them some sort of torch so that they can start to see the outlines of things and what 'winning' looks like.
 
 In many ways, this a reframing of some of the guidelines below but I find it useful nonetheless. When I led the TVL team my second semester, I started by giving a presentation and one slide that looked like this:
 
@@ -38,7 +38,7 @@ What success looks like
 - Produce quality deliverables that are valuable to each company
 ```
 
-Those aren't great in retrospect, but at least folks, at the very start of the project, had clear expectations around what success looks like. If the team wasn't producing quality deliverables, or if communication was getting jammed, or if we had stalled on a project, it meant that we weren't trending towards success.
+Those aren't great in retrospect, but at least, at the very start of the project, folks had a clear idea of the sorts of behaviors that were expected of them. If the team wasn't producing quality deliverables, or if communication was getting jammed, or if we had stalled on a project, it meant that we weren't trending towards success.
 
 #### Make expectations clear
 
@@ -47,11 +47,16 @@ I am always amazed when someone fails to do something and their boss says, "Oh, 
 I find exchanges like this infuriating. Why might someone not have done thing X?
 
 (a) They want to do bad work    
-(b) They didn't know they had to do X      
-(c) They forget to do thing X    
+(b) They forget to do thing X    
+(c) They didn't know they had to do X      
 (d) They deprioritized thing X    
+(e) They didn't know how to do thing X / didn't have the resouces for thing X   
 
-In these situations, the boss if often suggesting that the direct report simply did bad work. But no one _wants_ to do bad work. No one _wants_ to suck at their job. (If they do, they shouldn't be on your team!) So what's left: (b) - (d). In all those cases, I'd argue it's a failure of the person's manager to make it clear that thing X was an expectation. People forget things: it happens. If folks don't have the right context, they can make inappropriate tradeoffs that result in the wrong things being prioritized. If they didn't know they had to do thing X, it's possible that training is an issue if thing X is really something common, but it's likely just a lack of communication.
+In these situations, the boss if often suggesting that the direct report simply did bad work. But no one _wants_ to do bad work. No one _wants_ to suck at their job. (If they do, they shouldn't be on your team!)
+
+So what's left: (b) - (e). It's possible they simply forgot. People are human and have complex lives, so that's possible and sometimes it happens.
+
+What about (c) - (e)? In all those cases, I'd argue it's a failure of the person's manager to make it clear that thing X was an expectation and that they had the resources needed to do the job. If folks don't have the right context, they can make inappropriate tradeoffs that result in the wrong things being prioritized. If they didn't know they had to do thing X, it's possible that training is an issue if thing X is really something common, but it's likely just a lack of communication.
 
 #### Make sure the vision is clear
 
