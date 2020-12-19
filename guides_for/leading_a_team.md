@@ -100,3 +100,5 @@ to be classified later:
 give people ownership of some small peice
 What are the teams values? Results, communication, attention to detail
 
+> Teamwork requires cooridnation and communication, plus a good sense of what to expect, a good understanding of why things are, or are not, happening.
+- Don Normam, _The Design of Future Things_
