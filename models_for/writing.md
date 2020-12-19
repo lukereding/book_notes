@@ -6,7 +6,20 @@ These are less 'models' and more 'things to keep in mind when expressing yoursel
 
 If you're writing something you want it to be read. One way to get people to read is to hook them. Think of movie trailers or the end of each television episode in a series. Both function to create tension: they present some complication but don't tell you how it ends. The tension remains unresolved. Unresolved tension is unsettling and powerful: you've probably stayed to the end of a movie you hated just to see how it ends. Similarly, your reader wants to resolve this tension and will wade through your writing to resolve it.
 
-Storys provide a means of developing and sustaining this tension. The components of a story are: a situation / subject, a complication (something that happens to the situation / subject), and a resolution (something that directly addresses the complication).
+Storys provide a means of developing and sustaining this tension.
+
+There are a couple different models for thinking about the structure of stories:
+
+- a situation / subject
+- a complication (something that happens to the situation / subject)
+- a resolution (something that directly addresses the complication).
+
+When writing science, it's more common to use the framework
+
+- opening
+- challenge
+- action
+- resolution
 
 _references_: writing for story, the pyramid principle, make to stick
 

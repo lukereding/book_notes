@@ -50,7 +50,7 @@ I find exchanges like this infuriating. Why might someone not have done thing X?
 (b) They forget to do thing X    
 (c) They didn't know they had to do X      
 (d) They deprioritized thing X    
-(e) They didn't know how to do thing X / didn't have the resouces for thing X   
+(e) They didn't know how to do thing X / didn't have the resources for thing X   
 
 In these situations, the boss if often suggesting that the direct report simply did bad work. But no one _wants_ to do bad work. No one _wants_ to suck at their job. (If they do, they shouldn't be on your team!)
 
@@ -58,6 +58,11 @@ So what's left: (b) - (e). It's possible they simply forgot. People are human an
 
 What about (c) - (e)? In all those cases, I'd argue it's a failure of the person's manager to make it clear that thing X was an expectation and that they had the resources needed to do the job. If folks don't have the right context, they can make inappropriate tradeoffs that result in the wrong things being prioritized. If they didn't know they had to do thing X, it's possible that training is an issue if thing X is really something common, but it's likely just a lack of communication.
 
+As I was thinking about this, I came across a passage in _The Design of Future Things_:
+
+> Never label human behavior is "error." Assume the error is caused by a simple misunderstanding. Maybe you have have misunderstood the person; maybe the person misunderstand what is to be done...So, be tolerant. Be helpful, not critical. (page 191)
+
+The context of the passage deals with the communication between machines and humans, but some aspects of interaction are universal. I thought the passage was fitting in part because it emphasizes the root of mistakes or errors really come down to misunderstandings or failures of communication. (b) - (e) above can be views as different types of failures of communication.
 #### Make sure the vision is clear
 
 Make sure the team can always answer: Where are we going and how are we getting there?

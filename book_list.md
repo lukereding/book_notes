@@ -63,6 +63,7 @@
 - Design as art. Munari. [[notes](notes_design_as_art.md)]
 - The end of policing. Vitale. [[notes](notes_end_of_policing.md)]
 - Speak, memory. Nabakov.
+- The design of future things. Norman.
 
 # 2019
 
