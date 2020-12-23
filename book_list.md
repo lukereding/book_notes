@@ -64,6 +64,7 @@
 - The end of policing. Vitale. [[notes](notes_end_of_policing.md)]
 - Speak, memory. Nabakov.
 - The design of future things. Norman.
+- Upstream. Heath. [[notes](../book_notes/notes_uptream.md)]
 
 # 2019
 
