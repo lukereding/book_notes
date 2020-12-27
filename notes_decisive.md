@@ -1,27 +1,29 @@
-<!-- omit in toc -->
 # Decisive
 
 Chip and Dan Health
 
 This was a great book that differs from other decision-making books I've read in that (a) it wasn't focused solely on biases and (b) it didn't approach decision-making from the perspective of rationality, like a lot of, e.g., Raiffa's book do. As a result, I thought the book was easier to read and more focused on practical advice.
 
-- [Widen your options](#widen-your-options)
-  - [Avoid a narrow frame](#avoid-a-narrow-frame)
-  - [multitrack](#multitrack)
-  - [find someone who's solved your problem](#find-someone-whos-solved-your-problem)
-- [reality-test your assumptions](#reality-test-your-assumptions)
-  - [consider the opposite](#consider-the-opposite)
-  - [zoom in, zoom out](#zoom-in-zoom-out)
-  - [ooch](#ooch)
-- [attain distance before deciding](#attain-distance-before-deciding)
-  - [overcome short-term emotion](#overcome-short-term-emotion)
-  - [honor core priorities](#honor-core-priorities)
-- [prepare to be wrong](#prepare-to-be-wrong)
-  - [bookend the future](#bookend-the-future)
-  - [set a tripwire](#set-a-tripwire)
-  - [trusting the process](#trusting-the-process)
-
-
+- [Decisive](#decisive)
+    - [Tips](#tips)
+    - [Commonalities with other books](#commonalities-with-other-books)
+    - [Introduction](#introduction)
+    - [The four villains of DM](#the-four-villains-of-dm)
+  - [Widen your options](#widen-your-options)
+    - [Avoid a narrow frame](#avoid-a-narrow-frame)
+    - [multitrack](#multitrack)
+    - [find someone who's solved your problem](#find-someone-whos-solved-your-problem)
+  - [reality-test your assumptions](#reality-test-your-assumptions)
+    - [consider the opposite](#consider-the-opposite)
+    - [zoom in, zoom out](#zoom-in-zoom-out)
+    - [ooch](#ooch)
+  - [attain distance before deciding](#attain-distance-before-deciding)
+    - [overcome short-term emotion](#overcome-short-term-emotion)
+    - [honor core priorities](#honor-core-priorities)
+  - [prepare to be wrong](#prepare-to-be-wrong)
+    - [bookend the future](#bookend-the-future)
+    - [set a tripwire](#set-a-tripwire)
+    - [trusting the process](#trusting-the-process)
 
 ### Tips 
 
@@ -129,11 +131,11 @@ How do we generate options?
   - e.g. Speedo looked to sharks to understand how to make a swimsuit that enabled faster swimming
   - Use of analogies => connection to hofstadter's book
 
-  ## reality-test your assumptions
+## reality-test your assumptions
 
-  How do we assess the options we've generated?
+How do we assess the options we've generated?
 
-  ### consider the opposite
+### consider the opposite
 
 - confirmation bias = hunting for information that conforms to our _a priori_ beliefs or expectations
 
@@ -150,7 +152,7 @@ How do we generate options?
 
 - What happens when we force ourselves to consider the opposite of what we think is true?
 
-  ### zoom in, zoom out
+### zoom in, zoom out
 
 - We tend to discount base rate and averages more than we should
 
