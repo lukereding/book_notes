@@ -65,6 +65,7 @@
 - Speak, memory. Nabakov.
 - The design of future things. Norman. [[notes](notes_design_of_future_things.md)]
 - Upstream. Heath. [[notes](notes_uptream.md)]
+- Decisive. Heath and Heath. [[notes](notes_decisive.md)]
 
 # 2019
 
