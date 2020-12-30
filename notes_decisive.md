@@ -27,18 +27,21 @@ This was a great book that differs from other decision-making books I've read in
 
 ### Tips 
 
-- "should I do this OR that" -> "Can i do this AND that"
+Roughly in order of usefulness:
+
 - The Vanishing Options Test: What would you do if the options you're considering are off the table?
-- Think opportunity cost
+- 10/10/10: what are the consequences of your decision in 10 minutes, 10 months, 10 years?
+- what would I tell my friend to do in this situation?
+- For each option, ask: What would have to be true for this option to be the right answer?
 - "whether or not" decisions are usually too narrowly framed and should be a red flag 
+- in general, always be asking yourself (a) whether you're deciding the right problem and (b) if there are other dimensions or options you can look at
+- what happens when you consider the opposite of what you think is true?
+- Think opportunity cost
 - multitrack whenever possible
 - avoid sham options
-- what happens when you consider the opposite of what you think is true?
-- For each option, ask: What would have to be true for this option to be the right answer?
+- "should I do this OR that" -> "Can i do this AND that"
 - talk to an expert
-- 10/10/10: what are the consequences of your decision in 10 minutes, 10 months, 10 years?
 - run tests when you can
-- what would I tell my friend to do in this situation?
 - use premortems
 - use tripwires to create a space for risk-taking and avoid sunk cost (predictions => tripwires)
 
@@ -87,6 +90,9 @@ There's a lot of overlap here with _The Art of Science of Negotiation_ and _Smar
 How do we generate options?
 
 ### Avoid a narrow frame
+
+> I recently ran out of space on my bookshelf at home, so I was faced with a choice. I either had to throw some books or buy a bigger house.
+- Andy Grove. An example of narrow framing.
 
 - A lot of companies make decisions in a terrible way
   - e.g. Snapple and M&A
