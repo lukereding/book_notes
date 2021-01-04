@@ -24,6 +24,10 @@ The idea is you don't want people to feel blocked or like there are a ton of obs
 
 ### Specific
 
+#### Make sure values / priories are clear
+
+Clear priorities and values makes distributed decision-making possible. You want "guardrails that are wide enough to empower but narrow enough to guide" (_decisive_, p 185).
+
 #### Ensure people understand what success looks like
 
 You can't expect a guest in your house to find the light switch by groping around in the dark without a flashlight. Likewise, you can't expect your people to magically alight upon the correcting working behavior without passing them some sort of torch so that they can start to see the outlines of things and what 'winning' looks like.
