@@ -161,11 +161,83 @@ Documenting the high-level goals of the projects is important:
 - should be as concise as possible
 - should be authored by a single person, not by committee
 
-Lame vision speculate, avoid taking an opinion, and avoid the possibility of being wrong. 
+Lame visions speculate, avoid taking an opinion, and avoid the possibility of being wrong. 
 
 **Visions should be visual**. You should evoke an image in the reader's mind of the end service / product and how it contributes to a customer's goals. If the end result can't be visualized, the vision isn't clear.
 
 
+## figuring out what to do
+
+I.e., the 'flare' in 'flare and focus'
+
+Requirements are critical. They focus by eliminating possibilities and stimulates designers to ask more questions to refine the requirements.
+
+There are bad ideas. The space of possible bad ideas is generally much larger than the space of ideas that actually solve the problem / satisfy requirements. 
+
+> the real craft of problem-solving and creative thinking is knowing which constraints to use or ignore and when to do so (p. 98)
+
+> Big, radical ideas are rarely needed to succeed. More often, it's a handful of basic, solid, good idea--applied correctly--that are needed. (p. 98)
+
+Well said.
+
+There's a large section in here about the importance of settling on a clear question. He argues that most people in tech have lots of interesting knowledge that they're more than happy to share, regardless of whether it's applicable to the problem at hand. Good questions are focusing and they draw people to something important.
+
+> ...good questions identify an essential Element of the problem (or solution)-bypassing all of the secondary and nonessential information-and create a space for an answer to be born (p 100)
+
+He claims and is powerful question and all is project management, creative thinking, or problem-solving is:
+
+__What problem are we trying to solve?__
+
+I've thought about this a lot and found it super clarifying. I use it regularly, thought I don't think others have found it as clarifying as I have.
+
+> Creativity is just connecting things (quote from Jobs)
+
+Some ideas for idea generation:
+
+- Yes, and... - i.e., keep things moving
+- Be committed to what you say / no half-assing
+- No blocking questions
+
+
+## what to do with ideas once you have them
+
+i.e., the 'focus' in 'flare and focus'
+
+In general smart teams figure out requirements and dependencies early on, but it may not be possible for complex projects. You'll often find yourself taking two steps forward, one step back. You'll find that you make a decision, but you won't see all the issues and problems that arise from that decision. I think the only way to figure out what all these issues are is to make a decision and see where it takes you.
+
+It's useful to have a series of milestones or check-in's. During the specification process, i.e., the focus part of design, you might milestones for when you're down to to three alternatives or two, or have the final specifications in place.
+
+Prototypes are great. They take everything that's been learned and apply it to the problem without taking on the risk so for implementation. They allow the team to improve their thinking before they commit to a plan.
+
+You should try a different ideas early on in the process, to see which ones work and which ones don't. It also helps to make each idea concrete and ensures everyone understands each idea the same way. (lots of connections here to _creative confidence_.)
+
+## how to make good decisions
+
+The first part is to determine the significance of the decision of hand. Questions to ask:
+
+- What problem is at the core of the decision?
+- How long with this decision impact the project?
+- If you're wrong, what's the impact or cost?
+- Has this sort of decision been made before?
+- Who's the expert?
+- Who's approval / feedback do we need?
+  
+Differentiates between singular and comparative evaluation. In the former, you're basically using a threshold to make a decision. In the latter you're comparing all your options along some criteria of interest. To get the best solution, you usually require comparative evaluation.
+
+He recommends just listing out all the potential options and list the pros and cons for each. Some nuance:
+
+- Always include a 'do nothing' option
+- How do you know what you think you know?
+- Ask tough questions
+- Consider hybrid choices
+
+He knows that having more information doesn't necessarily make for a better decision. Information can help, but only so much.
+
+> The best decisions for projects are often unpopular, or upset or disappoint some important people on the team, and will make you an easy target for Blaine if things go wrong.
+
+This ^ aligns well with strategies and make clear (and tough) tradeoffs in _an elegant puzzle_. 
+
+Importantly, good decisions can have bad outcomes. In most cases, you're making a decision with incomplete information, and there's some still stochasitcity involved. You can make a decision that has, e.g., a positive expected value, but still lose money on that one decision.
 
 
 ## interesting quotations that don't fit neatly into the above
