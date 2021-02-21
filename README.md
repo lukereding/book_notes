@@ -1,1 +1,3 @@
-# notes on various books I read
+# book notes
+
+Notes on various [books I read](book_list.md).
