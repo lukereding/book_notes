@@ -28,7 +28,7 @@ These guidelines are colored by my thoughts about what the members on your team 
 
 This comes from Reed Hastings' book. People need to feel empowered if they are to feel engaged and accountable. They can't make smart decisions if they have no context. Context is how people weigh factors, determine what matters, and ultimately make bets / decisions. If you lead with control, you deprive people of autonomy and their motivation to do work.
 
-I'll note there are there different levels of control. Figuring out _what_ do to is a different question from figuring out _how_ to do it. My view is that there are different job families that answer these different questions. E.g. the business unit might determine _what_ and _when_ while the engineers, with these constraints, figure out the _how_.
+I'll note there are there different levels of control. Figuring out _what_ do to is a different question from figuring out _how_ to do it. My view is that there are different job families that answer these different questions. E.g. the business unit might determine _what_ and _when_ while the engineers, with these constraints, figure out the _how_. Providing good answers to each type of question requires context. The business partners can't figure out the _what_ or _when_ if they don't have clear guidance and expectations; likewise, the engineers can't figure out _how_ without clear context of the broader problem being solved and what constraints need to be considered.
 
 #### Push decision-making to the lowest level
 
