@@ -7,6 +7,8 @@
 ### non-fiction
 
 - The mating mind. Miller.
+- Logic made easy. Bennett. [[notes](notes_logic_made_easy.md)]
+- Debt: the first 5000 years. Graeber
 
 # 2020
 

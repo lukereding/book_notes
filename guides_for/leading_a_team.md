@@ -4,6 +4,7 @@
 - [Leading a team (WIP)](#leading-a-team-wip)
     - [Lead with context, not control](#lead-with-context-not-control)
     - [Push decision-making to the lowest level](#push-decision-making-to-the-lowest-level)
+    - [Hold your people to high expectations](#hold-your-people-to-high-expectations)
     - [Make expectations clear](#make-expectations-clear)
     - [Create an environment where people have the resources they need to get things done](#create-an-environment-where-people-have-the-resources-they-need-to-get-things-done)
     - [Make sure values / priories are clear](#make-sure-values--priories-are-clear)
@@ -40,6 +41,16 @@ Many managers will likely scoff at this idea: clearly, there are lots of conside
 
 This recommendation flows from two things: decision-making of a few higher-ups 'in the know' is impossible to scale, and the people who work for you can be trusted. If the latter isn't true, they shouldn't be working for you. The former feels like a pretty solid assumption. If your team grows from 3 people to 8 to 20 to 500, there's no way you can weigh in on all the decisions that are being made. At some point you have to trust your people and provide them with all the context they need to make the right decisions for the business.
 
+#### Hold your people to high expectations
+
+A well-functioning team is one in which people have high expectations, are highly productive, and (to use the refrain from the team I worked with at Anaconda) they 'get sh*t done.'
+
+If you never set the bar high, some people may perform well, but most will likely not. Instead, if you make it clear that the bar is really high, people will use that as a benchmark or baseline and strive to hit it. From _work rules!_:
+
+> The truth is that people usually live up to your expectations, whether those expectations are high or low.
+
+Why not make them high?
+
 #### Make expectations clear
 
 I am always amazed when someone fails to do something and their boss says, "Oh, interesting, you didn't do thing X, tell me more about why you didn't do X, it is obvious that someone in your position should have done X."
@@ -52,7 +63,7 @@ I find exchanges like this infuriating. Why might someone not have done thing X?
 (d) They deprioritized thing X    
 (e) They didn't know how to do thing X / didn't have the resources for thing X   
 
-In these situations, the boss if often suggesting that the direct report simply did bad work. But no one _wants_ to do bad work. No one _wants_ to suck at their job. (If they do, they shouldn't be on your team!)
+In these situations, the boss is often suggesting that the direct report simply did bad work. But no one _wants_ to do bad work. No one _wants_ to suck at their job. (If they do, they shouldn't be on your team!)
 
 So what's left: (b) - (e). It's possible they simply forgot. People are human and have complex lives, so that's possible and sometimes it happens.
 
