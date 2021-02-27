@@ -78,13 +78,8 @@ You can't expect a guest in your house to find the light switch by groping aroun
 
 In many ways, this a reframing of some of the guidelines below but I find it useful nonetheless. When I led the TVL team my second semester, I started by giving a presentation and one slide that looked like this:
 
-```
-What success looks like
+<img width="930" alt="image" src="https://user-images.githubusercontent.com/11504400/109389459-b7653900-78da-11eb-917d-c64a3394a674.png">
 
-- Make weekly progress towards projects
-- Keep team members in the loop
-- Produce quality deliverables that are valuable to each company
-```
 
 Those aren't great in retrospect, but at least, at the very start of the project, folks had a clear idea of the sorts of behaviors that were expected of them. If the team wasn't producing quality deliverables, or if communication was getting jammed, or if we had stalled on a project, it meant that we weren't trending towards success.
 
