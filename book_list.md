@@ -9,6 +9,7 @@
 - The mating mind. Miller.
 - Logic made easy. Bennett. [[notes](notes_logic_made_easy.md)]
 - Debt: the first 5000 years. Graeber
+- Work rules! Bock.
 
 # 2020
 
