@@ -11,6 +11,7 @@
 - Debt: the first 5000 years. Graeber
 - Work rules! Bock
 - The elements of style. Strunk and White.
+- First, break all the rules. Gallup. [[notes](./notes_first_break_all_the_rules.md)]
 
 # 2020
 
