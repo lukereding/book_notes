@@ -3,8 +3,11 @@
 
 - [Leading a team (WIP)](#leading-a-team-wip)
     - [Lead with context, not control](#lead-with-context-not-control)
+    - [Ensure people know what they get and what they give](#ensure-people-know-what-they-get-and-what-they-give)
+    - [Know your people](#know-your-people)
     - [Push decision-making to the lowest level](#push-decision-making-to-the-lowest-level)
     - [Hold your people to high expectations](#hold-your-people-to-high-expectations)
+    - [Align talents with the role to extract performance](#align-talents-with-the-role-to-extract-performance)
     - [Make expectations clear](#make-expectations-clear)
     - [Create an environment where people have the resources they need to get things done](#create-an-environment-where-people-have-the-resources-they-need-to-get-things-done)
     - [Make sure values / priories are clear](#make-sure-values--priories-are-clear)
@@ -27,9 +30,26 @@ These guidelines are colored by my thoughts about what the members on your team 
 
 #### Lead with context, not control
 
-This comes from Reed Hastings' book. People need to feel empowered if they are to feel engaged and accountable. They can't make smart decisions if they have no context. Context is how people weigh factors, determine what matters, and ultimately make bets / decisions. If you lead with control, you deprive people of autonomy and their motivation to do work.
+This comes from Reed Hastings' book. People need to feel empowered if they are to feel engaged and accountable. They can't make smart decisions if they have no context. Context is how people weigh factors, determine what matters, and ultimately make bets / decisions. If you lead with control, you deprive people of autonomy and their motivation to do work. Your employees will resent you _and_ they will become dependent on you, which is a problem if you ever want to grow out of your current role.
+
+This basic idea in echoed in _First, break all the rules_. The need for control often comes down to an issue of trust in the people that work for you.
 
 I'll note there are there different levels of control. Figuring out _what_ do to is a different question from figuring out _how_ to do it. My view is that there are different job families that answer these different questions. E.g. the business unit might determine _what_ and _when_ while the engineers, with these constraints, figure out the _how_. Providing good answers to each type of question requires context. The business partners can't figure out the _what_ or _when_ if they don't have clear guidance and expectations; likewise, the engineers can't figure out _how_ without clear context of the broader problem being solved and what constraints need to be considered.
+
+#### Ensure people know what they get and what they give
+
+The people who work for you should be able to answer 'completely agree' to each of these questions:
+
+- I know what is expected of me at work
+- I have the right materials and equipment to do my job
+- I have opportunity to do what I do best every day
+- In the last 7 days, I've received recognition or praise for doing good work
+- Someone at works cares about me as a person
+- There is someone at work who encourages my development
+
+#### Know your people
+
+To be an effective manager, you have to know your people. You don't have to be their friend outside of work or intrude in their lives, but you do have to have a basic awareness about them and understand their basic goals and motivations. This is a consistent theme across books like _Radical Candor_ and _First, break all the rules_.
 
 #### Push decision-making to the lowest level
 
@@ -50,6 +70,17 @@ If you never set the bar high, some people may perform well, but most will likel
 > The truth is that people usually live up to your expectations, whether those expectations are high or low.
 
 Why not make them high?
+
+From _First, break all the rules_:
+
+> [Great managers] don't use average performance as the barometer against which each person's performance is judged. They use excellence. From their perspective, average is irrelevant to excellence.
+
+
+#### Align talents with the role to extract performance
+
+The key here is that people possess behaviors that perform naturally and with little thought or effort. These are talents and they are impossible to change--they are fundamental to who a person is. In contrast, knowledge can be acquired and skills can be learned.
+
+The job of the manager is, in part, to understand each employees talents and align them with the role to extract as much performance as possible.
 
 #### Make expectations clear
 
@@ -74,10 +105,10 @@ As I was thinking about this, I came across a passage in _The Design of Future T
 > Never label human behavior is "error." Assume the error is caused by a simple misunderstanding. Maybe you have have misunderstood the person; maybe the person misunderstand what is to be done...So, be tolerant. Be helpful, not critical. (page 191)
 
 The context of the passage deals with the communication between machines and humans, but some aspects of interaction are universal. I thought the passage was fitting in part because it emphasizes the root of mistakes or errors really come down to misunderstandings or failures of communication. (b) - (e) above can be views as different types of failures of communication.
+
 #### Create an environment where people have the resources they need to get things done
 
 The idea is you don't want people to feel blocked or like there are a ton of obstacles in their way to getting things done. You can't deliver if you're constantly vying for resources, or trying to understand how a new tech stack works, or can't find the raw materials they need to get their job done.
-
 
 #### Make sure values / priories are clear
 
