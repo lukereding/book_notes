@@ -12,6 +12,7 @@
 - Work rules! Bock
 - The elements of style. Strunk and White.
 - First, break all the rules. Gallup. [[notes](./notes_first_break_all_the_rules.md)]
+- The mathematics lover's companion. Scheinerman.
 
 # 2020
 

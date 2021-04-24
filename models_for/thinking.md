@@ -20,6 +20,10 @@ If we did X, what do you think would happen? Try to imagine the future. Useful f
 
 For example, what impact does rent control have on afforadable housing? Looking at the first-order effects, rent control seems like a good thing by making housing more affordable. But imagine what happens next. Rent control makes it less attractive for developers to build apartments, since their profits are limited by the rent control. As a result, fewer apartment buildings are built and there are fewer apartments to go around. The apartments to be had are afforadable, but there are very few of them. Developers might turn to building condos or other types of housing instead that are exempt from rent control. The result may be an exacerbation of the affordable housing crisis. This is also an example where thinking in systems--thinking about all the components that contribute to a problem--helps us gain more insight.
 
+### work backwards
+
+A related idea that can help clarify thinking and improve focus is to ask yourself: what's the future I'm building towards? Can I work backwards from the to figure out what I need to do now?
+
 ### what's the null hypothesis?
 
 There are plenty of cognitive biases that masquerade by different names (e.g. survivorship bias, failure to consider base rates, self-selection bias, story bias) but at their core is the failure to consider the null hypothesis. Whenever you come across something that looks interesting or out-of-the-ordinary, or is presented to you as such, always ask yourself what you'd expect to happen if nothing interesting is happening in reality.
