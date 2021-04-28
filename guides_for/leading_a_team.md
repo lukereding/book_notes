@@ -2,6 +2,7 @@
 ## Leading a team (WIP)
 
 - [Leading a team (WIP)](#leading-a-team-wip)
+    - [Areas of focus](#areas-of-focus)
     - [Lead with context, not control](#lead-with-context-not-control)
     - [Ensure people know what they get and what they give](#ensure-people-know-what-they-get-and-what-they-give)
     - [Know your people](#know-your-people)
@@ -27,6 +28,25 @@ These guidelines are colored by my thoughts about what the members on your team 
 - to work with good people
 - to make an impact
 
+
+#### Areas of focus
+
+[From Google](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/):
+
+1. Psychological safety: Can we take risks on this team without feeling insecure or embarrassed?
+2. Dependability: Can we count on each other to do high quality work on time?
+3. Structure & clarity: Are goals, roles, and execution plans on our team clear?
+4. Meaning of work: Are we working on something that is personally important for each of us?
+5. Impact of work: Do we fundamentally believe that the work we’re doing matters?
+
+And from Gallup, make sure your employees agree with the following:
+
+- I know what is expected of me at work
+- I have the right materials and equipment to do my job
+- I have opportunity to do what I do best every day
+- In the last 7 days, I've received recognition or praise for doing good work
+- Someone at work cares about me as a person
+- There is someone at work who encourages my development
 
 #### Lead with context, not control
 
