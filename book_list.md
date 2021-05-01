@@ -13,6 +13,7 @@
 - The elements of style. Strunk and White.
 - First, break all the rules. Gallup. [[notes](./notes_first_break_all_the_rules.md)]
 - The mathematics lover's companion. Scheinerman.
+- Make it clear. Winston. [[notes](./notes_make_it_clear.md)]
 
 # 2020
 

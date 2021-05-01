@@ -4,9 +4,28 @@
 
 The ideas below are drawn from various books and thoughts I have. I'm constantly refining them.
 
+## Use a framework
+
+Tell a story with what you say. Here's a common framework that might help guide your thinking:
+
+- Opening - Background information; what the problem is and why the audience should care
+- Challenge - The gap between where we are today and the problem. The challenge is the most important part of the arc. This is where you convince people that there is a problem worth solving.
+- Action - What you did to solve the problem. How you tackled the gap outlined in the challenge
+- Resolution - What we've learned from the above. You should be able to go back to the opening at this point and 'reinterpret it' with fresh eyes given what you've done. Think of the resolution coming back to the opening, but at a different altitude, like a spiral: you're back at the same place, but not really, because you've learning something new that changes how we think about opening now
+
+## Start with an outline or with images
+
+It can be difficult to start communicating something, either via a talk or in writing. A couple ideas:
+
+__Start with pictures.__ Start by thinking about what ideas, processes, products, etc. you want to show your audience. From there, you could work on grouping then, arranging them so they form more of a coherent story, then work backwards from there.
+
+__Start with a rough outline / mind map__. It can be useful if you're feeling overwhelmed to start by wring out all the ideas in your head. Group them into similar groups. Given these groups names. Connect these groups to even larger groups, and so on. From there you should be able to back out what you're actually trying to say. This is the inductive strategy from the pyramid principle.
+
+__Map out your story__. If you have a better idea of what you want to say, it can be useful to write out the bare minimum of what you want to communicate as a series of single declarative sentences written in the active tense. If you're giving a talk, these will form the titles of the slides.
+
 ## Be explicit with your definitions.
 
-Often times communication sucks because we think we're talking about the same thing but we're reallhy talking about different things. This is the case for almost all big arguments in academia.
+Often times communication sucks because we think we're talking about the same thing but we're really talking about different things. This is the case for almost all big arguments in academia.
 
 ## Draw it out
 
