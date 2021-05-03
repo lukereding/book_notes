@@ -14,6 +14,7 @@
 - First, break all the rules. Gallup. [[notes](./notes_first_break_all_the_rules.md)]
 - The mathematics lover's companion. Scheinerman.
 - Make it clear. Winston. [[notes](./notes_make_it_clear.md)]
+- The science of storytelling. Storr. [[notes](./notes_science_of_storytelling.md)]
 
 # 2020
 
