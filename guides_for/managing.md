@@ -8,6 +8,7 @@
   - [play to strengths](#play-to-strengths)
   - [diagnosing poor results or work output](#diagnosing-poor-results-or-work-output)
   - [1:1 recipe](#11-recipe)
+  - [career development conversations](#career-development-conversations)
   - [checklist](#checklist)
   - [being managed](#being-managed)
 
@@ -82,7 +83,8 @@ What gets in the way of good work? (a) People don't know how to do good work or 
 Focus on asking questions and listening during these meetings. Some things to consider during 1:1s:
 
 - Top priorities
-- Calibrate what great looks like
+- Calibrate what great /success looks like
+- Figure out if your direct report is challenged, not challenged enough, bored
 - Share feedback
 - Zoom out and discuss how things are going overall
 - Project status
@@ -98,6 +100,23 @@ Some questions you can ask to get things going:
 - What's hard about getting to that outcome?
 - How can I help you?
 - What can I do to make you more successful?
+
+## career development conversations
+
+The goal of these conversations is to get to know your direct report a bit more and understand what motivates them. This helps you figure out what types of work / projects make sense for them ensures your direct report remains motivated.
+
+- Start with observations and feedback. See [notes on giving feedback](giving_feedback.md)
+- Figure out what motivates your direct report
+- Ask about why they moved from their past jobs?
+- Jobs as tools we can use to achieve our higher aspirations
+- Ask for feedback on yourself
+
+Radical Candor framework:
+1. Life story. Ask your DR to tell you about their live since kindergarten. Listen for the changes that people made and what motivated or caused those changes--values often are revealed in moments of change.
+2. Dreams. Understand what people want to achieve at the apex of their career, the best life they want to live. "What do you want the pinnacle of your career to look like?" It's okay to have them articulate more than one dream.
+3. 18-month plan. Translate what you learned above into concrete actions that you can take to get your DR the skills or experience they need to move in the direction of their dreams.
+
+If you could write down a few words that described your direct reports motivations, what would they be (e.g., 'hard work', 'financial independence', 'being an expert', etc.)?
 
 ## checklist
 
@@ -121,3 +140,10 @@ With your own manager, you can ask questions like:
 - Why do you think that? I noticed that Z happened the other day. . . . Is that normal or should I be concerned?
 - What keeps you up at night? Why?
 - How do you determine which things to prioritize?
+- What are the biggest things holding me back form having greater impact?
+
+Fixing problems with your manager: 
+
+  - If your manager is too busy to talk about performance / your goals: you have to tell them it's a priority and make time for it
+  - If your manager is telling you _how_ to do everything: tell them you want to define your role more by the outcomes and less by the process. Ask what outcomes you should use to measure success
+  - If your manager praises you inappropriately: suggest alternatives to him or her
