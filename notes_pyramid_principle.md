@@ -74,7 +74,7 @@ Conclusions are hard and in general aren't necessary according to her.
 
 ## difference between induction and deduction
 
-__Deductive reasoning__ is a useful way to think but a bad way to write.
+__Deductive reasoning__ is a useful way to think but a bad way to structure the flow of a larger narrative.
 
 Deductive arguments work like this:
 
@@ -82,9 +82,13 @@ Deductive arguments work like this:
 - make a second statement that comments on the first statement
 - state the implication of the two statements existing in the world at the same time
 
-She argues that in writing, they are boring, as they make a mystery out of what should be a straightforward point.
+An example, courtesy of Dale Watson:
 
-Using deduction on the key line level--the second level of the pyramid--is really difficult on the reader, because she has to keep a lot of ideas in her head as she reads the document and keep reminding herself of the overall structure of your argument. At the paragraph level, using deductive arguments is fine. Whenever you have a single piece of evidence for anything, it has to be default with via deduction.
+- I lie when I drink
+- I drink a lot
+- Therefore, I lie a lot
+
+Using deduction on the key line level--the second level of the pyramid--is really difficult on the reader, because she has to keep a lot of ideas in her head as she reads the document and keep reminding herself of the overall structure of your argument. __At the paragraph level, using deductive arguments is effective__; induction works best for the structuring the flow at higher levels. Whenever you have a single piece of evidence for anything, it has to be default with via deduction.
 
 __Inductive reasoning__ brings together similar ideas in a group. For each grouping of ideas, you should be able to find a single plural noun that describes the ideas in that group. You should be able to look at the ideas in your deductive group and infer the summarizing idea above it; if you can't, your reasoning might be off. From the top down, the ideas should be MECE.
 
