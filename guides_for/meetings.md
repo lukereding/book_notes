@@ -16,7 +16,7 @@ You call a meeting for a reason: to do something. It should be really clear what
 
 ### only invite necessary participants
 
-Identify only the people you need to achieve the goal of the meeting and invite only those people. If the goal of the meeting is clear, partipants should never be 'optional': they're either required or not. For each additional person added to a meeting over seven people, effectiveness decision-making decreases by ~10%.
+Identify only the people you need to achieve the goal of the meeting and invite only those people. If the goal of the meeting is clear, participants should never be 'optional': they're either required or not. For each additional person added to a meeting over seven people, effectiveness decision-making decreases by ~10%.
 
 ### don't allocate too much time
 

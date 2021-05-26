@@ -142,6 +142,12 @@ With your own manager, you can ask questions like:
 - How do you determine which things to prioritize?
 - What are the biggest things holding me back form having greater impact?
 
+A good way to ask for feedback and allow your boss to tell you without him or her coming across poorly is to ask
+
+- What would you have done differently in that meeting/project/engagement?
+
+
+
 Fixing problems with your manager: 
 
   - If your manager is too busy to talk about performance / your goals: you have to tell them it's a priority and make time for it
