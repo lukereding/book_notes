@@ -3,6 +3,7 @@
 ### fiction
 
 - A swim in the pond in the rain. Saunders. [[notes](notes_swim.md)]
+- Blood meridian. McCarthy.
 
 ### non-fiction
 
@@ -15,6 +16,9 @@
 - The mathematics lover's companion. Scheinerman.
 - Make it clear. Winston. [[notes](./notes_make_it_clear.md)]
 - The science of storytelling. Storr. [[notes](./notes_science_of_storytelling.md)]
+- Machine learning design patterns. Lakshmanan, Robinson, & Munn.
+- From bacteria to bach and back. Dennett.
+- The illusion of conscious will. Wegner.
 
 # 2020
 
