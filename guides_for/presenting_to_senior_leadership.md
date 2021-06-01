@@ -32,6 +32,9 @@ It's super unsatisfying to read something that raises a question in your mind on
 
 It should be really clear what you're asking of your leadership--there should be no ambiguity here.
 
+### Answering questions with 'yes and'
+
+Senior leadership might press you on why you can't do A _and_ B so that they don't have to pick one. Instead of saying 'no, we can't do that,' it's more tactful to use 'yes, we can do that, _and_ we'll need to push back the timelines for project X be a quarter to make it happen.' This forces the question-asked to reconcile with tradeoffs that are inherent to the decision, and comes across as less negative that just saying 'No, we're not doing that.'
 
 ### Playbook
 
