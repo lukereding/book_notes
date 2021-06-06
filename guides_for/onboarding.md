@@ -8,6 +8,7 @@
   - Team-specific and norms
 - Are their common repositories or codebases they can read? They should be aware of these as well.
 - Set up weekly 10/10s
+- Add to all relevant Slack channels
 
 ## Introduce the team and org structure
 
