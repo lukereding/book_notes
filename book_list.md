@@ -19,6 +19,7 @@
 - Machine learning design patterns. Lakshmanan, Robinson, & Munn.
 - From bacteria to bach and back. Dennett.
 - The illusion of conscious will. Wegner.
+- Practical monitoring. Julian. [[notes](./notes_practical_monitoring.md)]
 
 # 2020
 
