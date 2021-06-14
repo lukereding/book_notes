@@ -20,6 +20,7 @@
 - From bacteria to bach and back. Dennett.
 - The illusion of conscious will. Wegner.
 - Practical monitoring. Julian. [[notes](./notes_practical_monitoring.md)]
+- Invisible women. Perez. [[notes](./notes_invisible_women.md)]
 
 # 2020
 
