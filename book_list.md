@@ -4,6 +4,7 @@
 
 - A swim in the pond in the rain. Saunders. [[notes](notes_swim.md)]
 - Blood meridian. McCarthy.
+- The man in the high castle. Dick.
 
 ### non-fiction
 
@@ -21,6 +22,7 @@
 - The illusion of conscious will. Wegner.
 - Practical monitoring. Julian. [[notes](./notes_practical_monitoring.md)]
 - Invisible women. Perez. [[notes](./notes_invisible_women.md)]
+- The undocumented americans. Villavicencio.
 
 # 2020
 
