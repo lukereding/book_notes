@@ -23,6 +23,9 @@
 - Practical monitoring. Julian. [[notes](./notes_practical_monitoring.md)]
 - Invisible women. Perez. [[notes](./notes_invisible_women.md)]
 - The undocumented americans. Villavicencio.
+- Analytical skills for AI & data science. Vaughan.
+- Until the end of time. Greene.
+- Overcoming the five dysfunctions of a team. Lencioni.
 
 # 2020
 
