@@ -13,19 +13,26 @@
 - Debt: the first 5000 years. Graeber
 - Work rules! Bock
 - The elements of style. Strunk and White.
-- First, break all the rules. Gallup. [[notes](./notes_first_break_all_the_rules.md)]
 - The mathematics lover's companion. Scheinerman.
 - Make it clear. Winston. [[notes](./notes_make_it_clear.md)]
 - The science of storytelling. Storr. [[notes](./notes_science_of_storytelling.md)]
-- Machine learning design patterns. Lakshmanan, Robinson, & Munn.
 - From bacteria to bach and back. Dennett.
 - The illusion of conscious will. Wegner.
-- Practical monitoring. Julian. [[notes](./notes_practical_monitoring.md)]
 - Invisible women. Perez. [[notes](./notes_invisible_women.md)]
 - The undocumented americans. Villavicencio.
-- Analytical skills for AI & data science. Vaughan.
 - Until the end of time. Greene.
+- Reality is not what it seems. Rovelli.
+- The sixth extinction. Kolbert.
+
+### work-related
+
+- First, break all the rules. Gallup. [[notes](./notes_first_break_all_the_rules.md)]
+- Machine learning design patterns. Lakshmanan, Robinson, & Munn.
+- Practical monitoring. Julian. [[notes](./notes_practical_monitoring.md)
+- Analytical skills for AI & data science. Vaughan.
 - Overcoming the five dysfunctions of a team. Lencioni.
+- Spark: the definitive guide.
+
 
 # 2020
 
