@@ -52,13 +52,19 @@ The two points above are related to the idea of shared vs. unique knowledge. Par
 
 The leader of the meeting should be vigilant about making sure partcipants are participating in such a way that the meeting is constantly moving towards the intended goal of the meeting. When participants get hung up on details or side-tracked, it's important that the meeting leader rein them back in.
 
-### identify the DRI for each action item
+### before the meeting ends:
+
+#### 1. summarize the meeting
+
+Often, over the course of the discussion, people can get confused over what was actually decided during the meeting. You really don't want everyone in the meeting leaving with different ideas about what happened. So before the meeting ends, summarized what happened or what you decided. What's the takeaway from the meeting? Say it and/or write it down so that it's clear to everyone. Then:
+
+#### 2. identify the DRI for each action item
 
 At the end of the meeting, you probably have some follow-ups or next steps. The person running the meeting should be keeping track of these. At the end of the meeting, the person running the meeting should: (1) restate what the action items are and (2) ensure that each has been tagged _to a specific person_ to get done.
 
-Even in cases where the next steps have been made explicit at the end of the meeting, I've rarely seen a specific person been assigned each action item. Listing the action items without identifying who is accountable is pointless. It creates uncertaintly and in my most results in work not getting done.
+Even in cases where the next steps have been made explicit at the end of the meeting, I've rarely seen a specific person been assigned each action item. Listing the action items without identifying who is accountable is pointless. It creates uncertainty and in my most results in work not getting done.
 
-The idea of a DRI (directly responsbile individual) comes from Apple but the same idea can be seen in other companies under different names or concepts.
+The idea of a DRI (directly responsible individual) comes from Apple but the same idea can be seen in other companies under different names or concepts.
 
 
 
@@ -66,4 +72,4 @@ The idea of a DRI (directly responsbile individual) comes from Apple but the sam
 
 ### remind everyone what was decided and what the action items are
 
-At the places I've worked, this is pretty rare, but putting a short summary and next steps in writing is, I think, very important. It ensures everything has a permanant reference they can refer to. The summary can be sent to others for their awareness who were not necessary for the meeting.
+At the places I've worked, this is pretty rare, but putting a short summary and next steps in writing is, I think, very important. It ensures everything has a permanent reference they can refer to and again, makes sure they everyone in the meeting has the same idea about what was decided or discussed during the meeting. The summary can be sent to others for their awareness who were not necessary for the meeting.

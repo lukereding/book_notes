@@ -32,6 +32,7 @@
 - Analytical skills for AI & data science. Vaughan.
 - Overcoming the five dysfunctions of a team. Lencioni.
 - Spark: the definitive guide.
+- Peopleware: productive projects and teams. DeMarco and Lister. [[notes](./notes_peopleware.md)]
 
 
 # 2020

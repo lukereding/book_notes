@@ -11,6 +11,7 @@
   - [career development conversations](#career-development-conversations)
   - [checklist](#checklist)
   - [being managed](#being-managed)
+  - [antipatterns](#antipatterns)
 
 > A manager's job is to _get better outcomes from a group of people working together_ through influencing purpose, people, and process.
 
@@ -153,3 +154,10 @@ Fixing problems with your manager:
   - If your manager is too busy to talk about performance / your goals: you have to tell them it's a priority and make time for it
   - If your manager is telling you _how_ to do everything: tell them you want to define your role more by the outcomes and less by the process. Ask what outcomes you should use to measure success
   - If your manager praises you inappropriately: suggest alternatives to him or her
+
+
+## antipatterns
+
+- Micromanaging
+- Not having enough time to think / brainstorm / read / "you never get anything done around here between 9 and 5"
+- The 'Spanish theory' of productivity, aka, just drive people to work harder. Contrast with the 'English theory', where you use tech to make your job easier and create value without burnout

@@ -19,6 +19,7 @@
     - [Make sure timelines are clear](#make-sure-timelines-are-clear)
     - [Give everyone ownership of something](#give-everyone-ownership-of-something)
     - [Creating teams](#creating-teams)
+- [Debugging dysfunctional teams](#debugging-dysfunctional-teams)
 
 These are rough thoughts I've gathered from the experiences of others and my own experiences leading teams during grad school (in research and in consulting projects with startups) as well as in a corporate setting. These are things I've found to work / be useful; that's not to say there are not other paths that would be just as fruitful.
 
@@ -179,6 +180,19 @@ When creating teams, look for people that are:
 - smart 
 - humble
 
+
+## Debugging dysfunctional teams
+
+> You can draw a straight line from lack of guidance to a dysfunctional team that gets poor results.
+
+- Does your team have enough time to do their work? Are the tools they use too outdated? Is there something about processes that you need to change?
+- Are people burned out? Are they overworked? If so, in the short term all you can do is work to push back timelines or support them the best they can during the current push.
+
+
+...
+
+
+-------
 
 
 to be classified later:
