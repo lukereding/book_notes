@@ -32,9 +32,16 @@ Pixar's formula for ensuring a storytelling arc follows a simple logic and looks
 - Because of that, ___
 - Until finally ___
 
+In Patrick Winston's book, he uses 
+
+- Vision - The problem statement in a form that will make people care
+- Steps - Your approach to solving the problem (i.e., the steps you're taking to solve the problem).
+- News - Something recent you have done (maybe, one of the steps you've completed)
+- Contributions - Explain in detail what you have done
+
 Note that all these frameworks are actually very similar: there's some background, something interesting happens, there's fallout from that thing happening, and at the end things get resolved.
 
-_references_: writing for story, the pyramid principle, make to stick, [blog](https://www.aerogrammestudio.com/2013/03/07/pixars-22-rules-of-storytelling/)
+_references_: writing for story, the pyramid principle, make to stick, make it clear, [blog](https://www.aerogrammestudio.com/2013/03/07/pixars-22-rules-of-storytelling/)
 
 #### outline your logic before you write
 
