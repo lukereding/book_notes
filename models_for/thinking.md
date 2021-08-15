@@ -72,6 +72,10 @@ It's important to be able to tease about, in any argument or opinion: what are t
 
 ### positive and negative controls
 
+### do the opposite
+
+If you're stuck thinking about how to solve a problem, it can be helpful to _invert_ and think about ways to solve the opposite problem, then do the opposite.
+
 ## specific techniques / models
 
 ### what will the effects of this be in 5 min, 5 months, and 5 years?

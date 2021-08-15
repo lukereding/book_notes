@@ -5,6 +5,7 @@
 - A swim in the pond in the rain. Saunders. [[notes](notes_swim.md)]
 - Blood meridian. McCarthy.
 - The man in the high castle. Dick.
+- Death in her hands. Moshfegh.
 
 ### non-fiction
 

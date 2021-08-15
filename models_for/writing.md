@@ -6,22 +6,35 @@ These are less 'models' and more 'things to keep in mind when expressing yoursel
 
 If you're writing something you want it to be read. One way to get people to read is to hook them. Think of movie trailers or the end of each television episode in a series. Both function to create tension: they present some complication but don't tell you how it ends. The tension remains unresolved. Unresolved tension is unsettling and powerful: you've probably stayed to the end of a movie you hated just to see how it ends. Similarly, your reader wants to resolve this tension and will wade through your writing to resolve it.
 
-Storys provide a means of developing and sustaining this tension.
+Stories provide a means of developing and sustaining this tension.
 
-There are a couple different models for thinking about the structure of stories:
+There are a couple different models for thinking about the structure of stories to create and sustain this narrative tension. The most general probably looks like this:
 
 - a situation / subject
 - a complication (something that happens to the situation / subject)
 - a resolution (something that directly addresses the complication).
 
-When writing science, it's more common to use the framework
+There's background, something happens that maybe causes other things, then at the end the core issues are revolved.
+
+When writing science, it's more common to use the OCAR framework
 
 - opening
 - challenge
 - action
 - resolution
 
-_references_: writing for story, the pyramid principle, make to stick
+Pixar's formula for ensuring a storytelling arc follows a simple logic and looks like this:
+
+- Once upon a time there was ___
+- Every day, ___
+- One day ___
+- Because of that, ___
+- Because of that, ___
+- Until finally ___
+
+Note that all these frameworks are actually very similar: there's some background, something interesting happens, there's fallout from that thing happening, and at the end things get resolved.
+
+_references_: writing for story, the pyramid principle, make to stick, [blog](https://www.aerogrammestudio.com/2013/03/07/pixars-22-rules-of-storytelling/)
 
 #### outline your logic before you write
 
