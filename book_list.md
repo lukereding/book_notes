@@ -6,6 +6,7 @@
 - Blood meridian. McCarthy.
 - The man in the high castle. Dick.
 - Death in her hands. Moshfegh.
+- A maze of death. Dick.
 
 ### non-fiction
 
