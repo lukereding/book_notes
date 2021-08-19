@@ -73,3 +73,36 @@ The idea of a DRI (directly responsible individual) comes from Apple but the sam
 ### remind everyone what was decided and what the action items are
 
 At the places I've worked, this is pretty rare, but putting a short summary and next steps in writing is, I think, very important. It ensures everything has a permanent reference they can refer to and again, makes sure they everyone in the meeting has the same idea about what was decided or discussed during the meeting. The summary can be sent to others for their awareness who were not necessary for the meeting.
+
+
+## appendix: types of meetings
+
+
+Making of a manager:
+
+- making a decision
+- sharing information
+- providing feedback
+- generating ideas
+- strengthening relationships
+
+
+RUF:
+
+- definition meetings
+- weekly accountability
+
+Radical Candor:
+
+- 1:1 meeting
+- Staff meeting
+- big debate meetings
+- big decision meetings
+- all hands meetings
+  
+Hold Successful Meetings:
+
+- Define
+- Develop
+- Decide
+- Do

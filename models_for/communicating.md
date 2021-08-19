@@ -4,6 +4,10 @@
 
 The ideas below are drawn from various books and thoughts I have. I'm constantly refining them.
 
+## Know your audience
+
+This is foundational. You cannot communicate effectively if you don't know who you're trying to communicate with. Whenever you think about trying to communicate something, you should have an idealized representation of your audience in your mind. That ideal--it's more effect if it's a single person--should represent an audience member of your talk, or a reader of your article. This person embodies the assumptions, the backgrounds, notions, and reactions your audience will have when you communicate. If you can't fathom this ideal, or imagine or they might respond to what you're trying to say, you can't do your job.
+
 ## Use a framework
 
 Tell a story with what you say. Here's a common framework that might help guide your thinking:
@@ -12,6 +16,8 @@ Tell a story with what you say. Here's a common framework that might help guide 
 - Challenge - The gap between where we are today and the problem. The challenge is the most important part of the arc. This is where you convince people that there is a problem worth solving.
 - Action - What you did to solve the problem. How you tackled the gap outlined in the challenge
 - Resolution - What we've learned from the above. You should be able to go back to the opening at this point and 'reinterpret it' with fresh eyes given what you've done. Think of the resolution coming back to the opening, but at a different altitude, like a spiral: you're back at the same place, but not really, because you've learning something new that changes how we think about opening now
+
+There's more on different frameworks you can use to help you communicate [here](./writing.md#story-telling-and-narrative-tension)
 
 ## Start with an outline or with images
 

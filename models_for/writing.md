@@ -39,6 +39,14 @@ In Patrick Winston's book, he uses
 - News - Something recent you have done (maybe, one of the steps you've completed)
 - Contributions - Explain in detail what you have done
 
+Often in business communications, it can be useful to structure your narrative as:
+
+- Situation
+- Impact
+- Recommendation
+
+This is useful when something bad or unexpected happens and you're tasked with figuring out what to do, but need buy-in from others.
+
 Note that all these frameworks are actually very similar: there's some background, something interesting happens, there's fallout from that thing happening, and at the end things get resolved.
 
 _references_: writing for story, the pyramid principle, make to stick, make it clear, [blog](https://www.aerogrammestudio.com/2013/03/07/pixars-22-rules-of-storytelling/)
