@@ -6,18 +6,19 @@
   - [building trust](#building-trust)
   - [questions to ask your direct reports](#questions-to-ask-your-direct-reports)
   - [play to strengths](#play-to-strengths)
-  - [diagnosing poor results or work output](#diagnosing-poor-results-or-work-output)
-  - [1:1 recipe](#11-recipe)
-  - [career development conversations](#career-development-conversations)
-  - [checklist](#checklist)
-  - [being managed](#being-managed)
+  - [practical recipes and tols](#practical-recipes-and-tols)
+    - [diagnosing poor results or work output](#diagnosing-poor-results-or-work-output)
+    - [1:1 recipe](#11-recipe)
+    - [career development conversations](#career-development-conversations)
+    - [checklist](#checklist)
+  - [on being managed](#on-being-managed)
   - [antipatterns](#antipatterns)
 
 > A manager's job is to _get better outcomes from a group of people working together_ through influencing purpose, people, and process.
 
 \- The making of a manager
 
-Overall, a good idea to anchor to: try the sort of manager who, if you were to leave your company, your direct reports would follow you to your new job.
+Overall, a good idea to anchor to: try to be the sort of manager who, if you were to leave your company, your direct reports would follow you to your new job.
 
 ## your job as a manager
 
@@ -62,8 +63,16 @@ You want to get 5/5 on each of these questions.
 
 Good managers play to the strengths of their direct reports--their talents, those things they do naturally. Think carefully about your direct reports talents and how you can put the employee in a situation where everyone benefits from that talent.
 
+When I was very green and interned at Continuum, my takeaway about management was:
 
-## diagnosing poor results or work output
+> Good management is about setting expectations and letting people do what they're good at
+
+Looking back, this feels a bit naive, but is also mostly accurate.
+
+
+## practical recipes and tols
+
+### diagnosing poor results or work output
 
 What gets in the way of good work? (a) People don't know how to do good work or (b) they aren't motivated to do good work. Let's look at each.
 
@@ -79,7 +88,7 @@ What gets in the way of good work? (a) People don't know how to do good work or 
 - Does the role speak to their aspirations and long-term goals? If not, should this person change roles, or take on slightly different scope?
 - Do they feel appreciated? Doing good work and not receiving recognition for it can kill anyone's motivation.
 
-## 1:1 recipe
+### 1:1 recipe
 
 Focus on asking questions and listening during these meetings. Some things to consider during 1:1s:
 
@@ -102,7 +111,7 @@ Some questions you can ask to get things going:
 - How can I help you?
 - What can I do to make you more successful?
 
-## career development conversations
+### career development conversations
 
 The goal of these conversations is to get to know your direct report a bit more and understand what motivates them. This helps you figure out what types of work / projects make sense for them ensures your direct report remains motivated.
 
@@ -119,7 +128,7 @@ Radical Candor framework:
 
 If you could write down a few words that described your direct reports motivations, what would they be (e.g., 'hard work', 'financial independence', 'being an expert', etc.)?
 
-## checklist
+### checklist
 
 - [ ] Are the 3-4 folks who can provide feedback on their work?
 - [ ] How do they like to structure their 1:1s?
@@ -128,7 +137,7 @@ If you could write down a few words that described your direct reports motivatio
 - [ ] Do they have a mentor who can help them grow? 
 
 
-## being managed
+## on being managed
 
 Of course, we're all managed by others. How can this relationship be as great as possible?
 

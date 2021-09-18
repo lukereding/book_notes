@@ -7,6 +7,7 @@
 - The man in the high castle. Dick.
 - Death in her hands. Moshfegh.
 - A maze of death. Dick.
+- Do androids dream of electric sheep? Dick.
 
 ### non-fiction
 
@@ -35,6 +36,7 @@
 - Overcoming the five dysfunctions of a team. Lencioni.
 - Spark: the definitive guide.
 - Peopleware: productive projects and teams. DeMarco and Lister. [[notes](./notes_peopleware.md)]
+- Mindset. Dweck. [[notes](./notes_mindset.md)]
 
 
 # 2020

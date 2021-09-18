@@ -2,7 +2,7 @@
 
 These are less 'models' and more 'things to keep in mind when expressing yourself in the written word.'
 
-#### story-telling and narrative tension
+#### story-telling frameworks and narrative tension
 
 If you're writing something you want it to be read. One way to get people to read is to hook them. Think of movie trailers or the end of each television episode in a series. Both function to create tension: they present some complication but don't tell you how it ends. The tension remains unresolved. Unresolved tension is unsettling and powerful: you've probably stayed to the end of a movie you hated just to see how it ends. Similarly, your reader wants to resolve this tension and will wade through your writing to resolve it.
 
