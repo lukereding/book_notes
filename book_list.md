@@ -26,6 +26,7 @@
 - Until the end of time. Greene.
 - Reality is not what it seems. Rovelli.
 - The sixth extinction. Kolbert.
+- AI ethics. Coeckelbergh.
 
 ### work-related
 
