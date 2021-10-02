@@ -26,7 +26,7 @@
 - Until the end of time. Greene.
 - Reality is not what it seems. Rovelli.
 - The sixth extinction. Kolbert.
-- AI ethics. Coeckelbergh.
+- AI ethics. Coeckelbergh. [[notes](./notes_ai_ethics.md)]
 
 ### work-related
 
@@ -38,6 +38,7 @@
 - Spark: the definitive guide.
 - Peopleware: productive projects and teams. DeMarco and Lister. [[notes](./notes_peopleware.md)]
 - Mindset. Dweck. [[notes](./notes_mindset.md)]
+- Multipliers. Wiseman. [[notes](./notes_multipliers.md)]
 
 
 # 2020
