@@ -42,7 +42,7 @@ Usually drawing a picture of what you're trying to communicate to someone it hel
 
 What's more: as the quotation above suggests, you build _trust_ between you're essentially 'showing your work'. You make your thinking transparent and amenable to inspection.
 
-## Focus on something concrete and simple first.
+## Focus on something concrete and simple first
 
 When you explain something to someone, the person is ignorant of what you're explaining. They are a novice. They haven't had the luxury to let the idea you're explaining sink in, develop an intuition for them. Thus: be very concrete. The person you're communicating to show be able to form some mental figure or tangibly understand what is it you're talking about. Recall a quotation from _made to stick_:
 
@@ -64,6 +64,16 @@ Another way of saying this: provide people with an appropriate conceptual model.
 2. These are the assumptions.
 3. Here's what I think as a result.
 4. What do you think?
+
+## Define success
+
+Before you give a presentation or write your next email, think:
+
+- What do I want the other person to feel?
+- What do I want the other person to know?
+- What do I want the other person to do?
+
+It's amazing how often we communicate something and we aren't clear ahead of time what success looks like. Thinking about these questions ahead of time will help you be more thoughtful about how you craft what you're trying to communicate.
 
 ## Parrot it back / continually reassure
 
