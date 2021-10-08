@@ -66,7 +66,7 @@ Task-based vs. more soft skills, career-focused feedback
 A good general recipe for both positive and negative feedback is the SBIS framework:
 
 - Situation | Give background / context
-- Describe | the behavior (positive or negative)
+- Behavior | Describe the behavior (positive or negative)
 - Impact | Explain the impact that behavior had
 - Solution | Make it actionable, suggest some next steps
 
