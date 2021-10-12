@@ -39,6 +39,7 @@
 - Peopleware: productive projects and teams. DeMarco and Lister. [[notes](./notes_peopleware.md)]
 - Mindset. Dweck. [[notes](./notes_mindset.md)]
 - Multipliers. Wiseman. [[notes](./notes_multipliers.md)]
+- The successful manager. Potter and Kavanagh. [[notes](./notes_successful_manager.md)]
 
 
 # 2020
