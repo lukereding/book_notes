@@ -160,4 +160,49 @@ This was--to my surprise--probably one of the best books on management I've read
   - give credit, take blame
   - be liberal with your praise!
 
-### chapter 8: 
+### chapter 8: managing laterally and up
+
+- as you move higher up (managing teams), it becomes more important to spend time with people _outside_ the team
+  - this is probably more important in larger organizations
+  - you need to be out there championing the cause, securing support, driving alignment, communicating progress
+- managing up
+  - you want to make your manager's life easier. really, you want to make your manager, and everyone above her, look good: everyone wins
+  - in general, your manager cares about four things:
+    - the major issues they need to know about
+    - the status of key projects or deliverables
+    - bandwidth / resourcing challenges
+    - how your team is doing
+  - you need to have an open and honest dialogue with your manager - no issue should be out of bounds
+  - always come prepared
+    - treat your manager's time with respect. be solution-oriented! __don't come to your manager with problems: come with recommendations__
+    - execute and circle back. execute on any suggestions your manager has and make sure you circle back to show that you actually took what they said to heart
+
+
+### chapter 9: building an A team
+
+- the 80/20 rule also applies to work done in an org, e.g., 20% of the people are producing 80% of the output
+- __don't neglect coaching top talent__ -- there's a tendency to focus coaching on low performers, but really getting the most out of your top talent can add 2-5x value relative to coaching investment in a middle-line performer
+- you can improve people's performance through development and coaching, but not everyone will be able to get to the highest levels of performance
+- when hiring, know that it's hard to train for things like growth potential, attitude, mindset, self-awareness, and all the soft skills that generally set people apart
+- ideally, when hiring, you want to think deeply about the role you want the person to do, and translate that into a document you can give to a recruiter
+- when it comes to promos, it can be frustrating if there's no clear path for promo, or if the criteria for promo are arbitrary and vague. try to be as specific as possible here about what it means to be performing at the next level. 
+- keeping low performers on your team dampens morale, and sends a message that it's okay to do shoddy work
+
+### chapter 11: challenges new manager face
+
+- decision-making is a skill that can honed with any other
+- new managers need to be very cognizant of the ripple effects of their decisions: managers are in a situation where decisions have much broader impact and can have unexpected second- or third-order impacts
+- managing can be overwhelming
+  - focus on keeping calm and building systems for how you operate effectively, learn the art of delegation, learn how to let go of control, focus on building up your team
+
+### chapter 13: determining if it's time to leave
+
+Consider these criteria:
+
+- Do I enjoy the work itself?
+- Do I like the people?
+- Am I fairly paid?
+- Is it meeting my development / professional needs?
+- Do I have work/life balance?
+
+Start putting feelers out if you can only check three of these boxes.
