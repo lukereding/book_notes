@@ -79,7 +79,7 @@ This was--to my surprise--probably one of the best books on management I've read
 - prioritization
   - lack of prioritization is a common employee complaint
   - in some cases there are too many, or they haven't been messaged correctly
-  - "to be a top manager, you need to constantly exercise your critical thinking capability, taking a step back asking yourself questions such as, "are we still aiming in the right direction? Has anything viral changed since we establish the priorities? Do our current priority still reflect the most important things for us to execute on?"
+  - "to be a top manager, you need to constantly exercise your critical thinking capability, taking a step back asking yourself questions such as, "are we still aiming in the right direction? Has anything viral changed since we establish the priorities? Do our current priority still reflect the most important things for us to execute on?""
   - the best managers consistently oscillate between the big picture in the granular, checking in to ensure things are on course of the strategic level, then talking back down to a more granular level
   - the way prioritization becomes real is through resource allocation
 - delegation
@@ -91,5 +91,73 @@ This was--to my surprise--probably one of the best books on management I've read
 -  time management
    - assume that 1/3 of your day will be spent dealing with things you didn't expect to have on your plate when you woke up that morning
    - Time management is about the discipline of giving attention where attention is du
-   - as uch as possible, systematize aspects of your team's execution of day-to-day tasks
+   - as much as possible, systematize aspects of your team's execution of day-to-day tasks
+   - everyone's juggling a lot, but it's important to be able to distinguish between rubber and glass balls: what tasks are mission-critical that you really can't overlook, and which will be okay for you to drop?
 
+
+### chapter 5: coaching, feedback, and writing reviews
+
+- formal vs ongoing
+- general advice
+  - what are you trying to accomplish with feedback? you want the employee to feel as good as possible about things, but at the same time, you also want to make sure it's clear to them how to change (or not change) their actions to improve their performance
+  - feedback must be grounded in specific, real-world examples
+  - good managers are constantly observing and recording things their employees do as specific examples to refer to later on
+  - feedback should be important enough to mention it: don't give feedback over really small things that don't matter: it should reach some threshold where it's starting to impact deliverables or performance in some way.
+  - all feedback needs to be actionable
+  - use the SBIS framework:
+    - Situation - Set context
+    - Behavior - What did the person do?
+    - Impact - What impact did that action have?
+    - Solution - What's the suggested action or next step? Can you work with the person to think of any other next steps?
+  - you can use SBIS for positive or negative feedback. For positive feedback, it helps the person understand why they did something well
+  - give 6 pieces of positive feedback for every negative piece of feedback
+  - feedback should be fairly timely -- you don't want to be super reactive, but you do want it to occur soon after the fact
+  - feedback should be given in private
+- mistakes when giving feedback
+  - trying to give too much feedback at once
+  - nitpicking
+  - judging the individual rather than the actions
+  - being too vague
+  - the crap sandwich
+- useful questions to solicit feedback from your directs:
+  - how can i better support you in specific workstreams / projects / etc.
+  - what was one thing your last manager did that you liked that I don't do?
+  - what is one thing I can do differently?
+  - is there anything you prefer I not do?
+
+### chapter 6: tailoring your managing style
+
+- great manager are adaptive
+- to become a top-tier manager, the goal is not to hone your specific _way_ of managing--there is no one-size-fits all approach
+- you'll want to adjust your management style to the individual and role, based on these three dimensions:
+  - how competent is the person?
+  - how confident is the person?
+  - to what degree does the person desire autonomy vs. support?
+- competent
+  - as someone becomes more and more competent, you can give them more and more autonomy; your goal is to shift them to become as autonomous as possible
+  - ask lots of open-ended questions: "how would you approach this?", "what do you recommend we do here?"
+  - competent is not something general: it applies to every skill, task, etc.
+- confidence
+  - might be useful to think of combinations of competence and confidence:
+    - low confidence, low competence: learner
+    - low confidence, high competence: capable but cautious performer => lots of praise via SBIS framework
+    - high confidence, low competence: enthusiastic beginner => this can be a tricky situation, because they need a lot of oversight but might resist it because they don't think they need it
+    - high confidence, high competence: self-reliant achiever 
+
+### chapter 7: motivating and inspiring your team
+
+- three things to focus on:
+  - capture their hearts - there needs to be a _cause_ that the team can rally behind. if you're struggling, ask _why_ questions, tie it to a bigger picture or overriding mission
+  - capture their minds - what's being asked of them has to be clear, actionable, tangible
+  - align performance criteria and incentives 
+- great leaders are change agents and lead by example - player-coach
+  - aren't afraid to do the work, are willing to 'dive into the trenches'
+  - act the way you want others to act
+  - be collaborative
+    - the simplest, most powerful way to do this is to ask: "what do you think?"
+  - empower people 
+    - a lot of this comes down to giving people autonomy to make decisions, which drives intrinsic motivation
+  - give credit, take blame
+  - be liberal with your praise!
+
+### chapter 8: 

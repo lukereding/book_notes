@@ -27,6 +27,7 @@
 - Reality is not what it seems. Rovelli.
 - The sixth extinction. Kolbert.
 - AI ethics. Coeckelbergh. [[notes](./notes_ai_ethics.md)]
+- A human algorithm. Coleman.
 
 ### work-related
 
