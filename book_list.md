@@ -71,7 +71,7 @@
 - The making of a manager. Zhuo. [[notes](notes_on_making_of_a_manager.md)]
 - The ten-day MBA. Silbiger. [[notes](notes_on_ten_day_mba.md)]
 - Making things happen. Berkun. [[notes](notes_making_things_happen.md)]
-- Inspired. Cagen.
+- Inspired. Cagen. [[notes](./notes_inspired.md)]
 - The manager's path. Fournier.
 - The art of readable code. Boswell and Foucher. [[notes](notes_art_of_readable_code.md)]
 - Testing in Python. Gift and Deza.
