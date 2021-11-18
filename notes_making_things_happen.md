@@ -1,10 +1,10 @@
-# _making thing happens_
+# Making things happen
 Scott Berkun
 
 
 This was a great read. Lots of interesting thoughts and good advice.
 
-This book is all about project management : 
+This book is all about project management: 
 
 > leading the team in figuring out what the project is (panning, scheduling, and requirements gathers), shepherding the project through design and development work (communication, decision making, and mid-game strategy), and driving the project through completition (leadership, crisis management, and end-game strategy).
 
@@ -238,7 +238,120 @@ He knows that having more information doesn't necessarily make for a better deci
 This ^ aligns well with strategies and make clear (and tough) tradeoffs in _an elegant puzzle_. 
 
 Importantly, good decisions can have bad outcomes. In most cases, you're making a decision with incomplete information, and there's some still stochasitcity involved. You can make a decision that has, e.g., a positive expected value, but still lose money on that one decision.
+## communication and relationships
 
+At it's simplest, there are five basic states of communication. Communication is only successful if it reaches the third, if not forth and fifth states:
+1. Transmitted
+2. Received
+3. **Understood**
+4. Agreed
+5. Converted into useful action
+
+That is, sending an email to someone is not an act of communication unless what you were trying to communicate was understand, and hopefully, roused some action on the part of the recipient.
+
+Common communication problems:
+
+- Assumptions. Good communicators clarity assumptions at key points, such as when commitments are made
+- Lack of clarity. "It's not what you say, it's what they hear." It doesn't matter how eloquent you are, if it isn't clear to them it doesn't matter.
+- Not listening
+- Blame
+- Problem mismatch - are you talking about the same thing? Is there an unresolved issue somewhere?
+
+Stephen Covey: " The cause of almost all relationship difficulties is rooted in conflicting or ambiguous expectations around roles or goals"
+
+Getting people's best work:
+- Great leaders never force anyone to do anything
+- Listen to your people--take suggestions seriously
+- If the vision is strong, the work interesting, and the people get along, there's little need to demand anything
+- Clear roadblocks
+- Inspire people -- remind them how great it is to work on the sort of problems you're working on, what impact you're having, etc.
+- Remind them of the project goals
+- Ask
+
+## how not to annoy people
+
+Three activities with the greatest odds of annoying people are email, meetings, and team processes.
+
+Why people get annoyed:
+- Assuming they're an idiot
+- Lack of trust
+- Wasting time
+- Manage without respect
+- Make them listen or read stupid things
+
+The trick in creating good processes is to understand two things: what makes projects and team successful in general, and what makes the current project and team different from others. Do you want to account for the culture, personality, and habits of the current team that you're working with.
+
+Good process:
+
+- accelerates progress
+- prevents problem
+- make important actions visible and measurable
+
+
+Costs of a process: determined by time to design to process (DT), time to learn it (LT), the actual time required by the process (AT), and how often it's done (N):
+
+cost = DT + LT + (AT*N)
+
+Benefits are based on cost of failures the process avoids (FC), the probability those failures occur (FP) without the process, and how many unit of time T are in the project:
+
+benefit = (FC * FP) * T
+
+Process value = (FC * FP) * T - (DT + LT + (AT*N))
+
+To roll out a process:
+- Identify the best proposal. MAke sure it's solving the core problem you care about
+- Identify a low-risk part of the project to test it out on. Is possible, pick a team or person who's interested in the new process. Align on desires effects and what will be measured.
+- Implement to processs
+- Set a time in the future to circle back and evaluate the process
+- If it worked fine, roll out to the larger group
+
+In cases where stupid process exists, a good tactic is to simply ignore it:
+
+> I have a tendency to ignore distant, ambiguous, bureaucratic, organizational things that I don't understand. My theory is that I ignoring it, I force one of the two things to happen. Either the person responsible for the thing or contact me and ask why I didn't do it, giving me a chance to have a dialogue with him about why I should do it at it at all; or, as no one asks me why I didn't do it, then it can't possibly be that important
+
+### email
+
+Tips for writing good email:
+
+- Be concise, simple, and direct. ("If I had more time, I'd write a shorter letter.") Really think about who is reading the email, their assumptions, what they already know, etc.
+- Offer an action and a deadline
+- Prioritize. Is everything in your email that important? Can you collect things into groups instead?
+- Don't assume people read everything
+- Avoid giving a play-by-play. It's rare that someone needs to know the sequence of events that led to something. **Make it possible for anyone to skim the first two lines and know immediately if it's important enough for them to read further.**
+
+Awful email is long. It's hard to skim. It's poorly written, and it has many attachements.
+
+### meetings
+
+Your job is to facilitate. Sometimes, if people are going all over the place, to write down a list of the key issues, ask everyone if to affirm that these are the key issues, then go through them one at a time.
+
+Pointers for facilitating:
+
+- Establish a host position. Introduce people, clarify the agenda, begin the discussion
+- Listen and reflect. If someone says something half-baked, help them develop the idea. Or if someone says something unclear, say "So Mike, what you're saying is < reclarify what Mike was trying to say >, is that right?" 
+- Direct the conversation. If the conversation really starts to get off track, pull it back. If some people aren't talking much, ask for their thoughts.
+- Know when the end the conversation. It's often useful to identify action items, DRIs, and intended results.
+- Record stuff. Write stuff down. Document the discussion! What's important is that when the meeting is over, next steps and action items are clear and emailed out to the group
+
+## what do to when things go wrong
+
+- Calm down
+- Evaluate the problem in relation to the project
+- Calm down
+- Get the right people in the room
+- Explore alternatives
+- Make the simplest plan
+- Execute
+- Debrief
+
+
+### conflict resolution and management
+
+- Find the point of unification. Two people, no matter how much they disagree, agree that somethings: the world is round the sky is blue the project needs to be on time. Find the important points of unification in agreement uses to starting any discussion you have
+- Look for mutual intern. Frame things around interests, not adversarial positions. 
+- Look for areas of compromise. Are there less important things you can cave on to show some goodwill?
+- Know the alternatives. Always know what the cost is of walking away from the table without an agreement. 
+- USe persuasion and argument. "the interests and desires of both parties are based on subjective opinions about the relative value of things. This means that if you can develop a true understanding of one parties feelings, you can possibly persuade them that one aspect of the situation is more (or less) desirable than they thought"
 
 ## interesting quotations that don't fit neatly into the above
 
@@ -247,3 +360,9 @@ Importantly, good decisions can have bad outcomes. In most cases, you're making 
 > Confusing processes with the goals is one of the great sins of management.
 
 > Make good stuff happen
+
+> The real craft of problem-solving and creative think you know in which constraints to use or ignore and when to do 
+
+> The most powerful question in all of project management, creative thinking, and problem-solving is: what problem are you trying to solve?
+
+> Creativity is just connecting things.

@@ -28,6 +28,7 @@
 - The sixth extinction. Kolbert.
 - AI ethics. Coeckelbergh. [[notes](./notes_ai_ethics.md)]
 - A human algorithm. Coleman.
+- Permanent record. Snowden.
 
 ### work-related
 
@@ -41,7 +42,7 @@
 - Mindset. Dweck. [[notes](./notes_mindset.md)]
 - Multipliers. Wiseman. [[notes](./notes_multipliers.md)]
 - The successful manager. Potter and Kavanagh. [[notes](./notes_successful_manager.md)]
-
+- Decode and conquer. Lin.
 
 # 2020
 
