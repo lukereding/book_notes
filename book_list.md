@@ -29,6 +29,7 @@
 - AI ethics. Coeckelbergh. [[notes](./notes_ai_ethics.md)]
 - A human algorithm. Coleman.
 - Permanent record. Snowden.
+- Fulfillment. Macgillis.
 - A rulebook for arguments. Weston.
 - The cognitive style of PowerPoint. Tufte. [[notes](./notes_cognitive_style_ppt.md)]
 
