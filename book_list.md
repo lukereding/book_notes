@@ -30,7 +30,7 @@
 - A human algorithm. Coleman.
 - Permanent record. Snowden.
 - Fulfillment. Macgillis.
-- A rulebook for arguments. Weston.
+- A rulebook for arguments. Weston. [[notes](./notes_rulebook_arguments.md)]
 - The cognitive style of PowerPoint. Tufte. [[notes](./notes_cognitive_style_ppt.md)]
 
 ### work-related
