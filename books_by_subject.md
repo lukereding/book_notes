@@ -1,10 +1,11 @@
 # Key books for various subjects
 
-## General communications
+## General communication
 
-- Sense of style
-- Make it stick
-- The cognitive style of powerpoint
+- Sense of style. Highlights: curse of knowledge. The difference between thinking and communicating. Intention.
+- Make it stick. How to be effective in communicating a message, using basics of human psychology.
+- The cognitive style of powerpoint. Intention in communication and clarity in thinking.
+- The design of future things. Rules for effective interactions (between people, and between people and machines)
 
 ## Writing
 
