@@ -32,6 +32,8 @@
 - Fulfillment. Macgillis.
 - A rulebook for arguments. Weston. [[notes](./notes_rulebook_arguments.md)]
 - The cognitive style of PowerPoint. Tufte. [[notes](./notes_cognitive_style_ppt.md)]
+- Writing to persuade. Hall [[notes](./notes_writing_to_persuade.md)]
+- Ethics: a very short introduction. Blackburn.
 
 ### work-related
 
