@@ -11,3 +11,5 @@ If you spend half an hour each day writing email, over the course of your workin
 4. Avoid play-by-plays. Resist the urge to spell out how a decision was made, e.g. That's what meetings and meeting notes are for. This rule follows from (1) and (3). 
 
 5. If you have to give gritty details, make them optional and put them below your signature. That way people are clear that the extra information is truly optional and supplementary, and by reading everything above the signature they aren't missing anything truly important. Putting it above the signature can make a reader weary when they initially open your email ("I don't have time to read this now"). 
+
+6. Use bullets and headings for longer emails. If you're writing a longer email, it's mandatory to include a summary at the top that answers the relevant who/what/when/where/why/how questions + what action (if any) you're requesting and a deadline.

@@ -6,11 +6,42 @@ The ideas below are drawn from various books and thoughts I have. I'm constantly
 
 ## Know your audience
 
-This is foundational. You cannot communicate effectively if you don't know who you're trying to communicate with. Whenever you think about trying to communicate something, you should have an idealized representation of your audience in your mind. That ideal--it's more effect if it's a single person--should represent an audience member of your talk, or a reader of your article. This person embodies the assumptions, the backgrounds, notions, and reactions your audience will have when you communicate. If you can't fathom this ideal, or imagine or they might respond to what you're trying to say, you can't do your job.
+This is foundational. You cannot communicate effectively if you don't know who you're trying to communicate with.
+
+__General audiences__. Whenever you think about trying to communicate something, you should have an idealized representation of your audience in your mind. That ideal--it's more effect if it's a single person--should represent an audience member of your talk, or a reader of your article. This person embodies the assumptions, the backgrounds, notions, and reactions your audience will have when you communicate. If you can't fathom this ideal, or imagine or they might respond to what you're trying to say, you can't do your job.
+
+__General audiences__. Sometimes, you have it easier: you know exactly who you're communicating to ahead of time (e.g., a business meeting). Here, instead of forming an idealized representation, you need to think very carefully about who you're talking to, what they care about, their values and goals. You won't always know these with certainty, but you can (a) ask them ahead of time and (b) form mental models based on previous actions with each person.
+
+
+## Focus on something concrete and simple first
+
+When you explain something to someone, the person is ignorant of what you're explaining. They are a novice. They haven't had the luxury to let the idea you're explaining sink in, develop an intuition for them. Thus: be very concrete. The person you're communicating to show be able to form some mental figure or tangibly understand what is it you're talking about. Recall a quotation from _made to stick_:
+
+> Abstraction is the luxury of the expert
+
+For novices, start simple and start with something concrete.
+
+## Think about what response you're looking for 
+
+Before you create your deck or write your memo, think: what do I want someone to think or feel after viewing/reading this? Then work backwards from where. Doing this will likely require thinking about your audience more carefully.
+
+Some helpers:
+
+- What do I want the other person to feel?
+- What do I want the other person to know?
+- What do I want the other person to do?
+
+It's amazing how often we communicate something and we aren't clear ahead of time what success looks like. Thinking about these questions ahead of time will help you be more thoughtful about how you craft what you're trying to communicate.
+
+## Make predictions about how your audience will respond
+
+Again, your effectiveness as a communicator is tied closely to your knowledge of your audience, and how well you can weave that knowledge into what you're saying. The only way to get better at knowing your audience is to form mental models and then run experiments to update those models. That means making predictions, then updating your models when your predictions deviate from what you observe. If you do this, you will get better and better at understanding people, what they care about, and how they react. I knew an executive at a major company who kept a spreadsheet of everyone he was trying to influence (read: communicate effectively with), along with each interaction he had with that person, what tactic he took to communicate with them, and what response he observed.
 
 ## Use a framework
 
-Tell a story with what you say. Here's a common framework that might help guide your thinking:
+It's often useful to tell a story with what you say: humans are geared to understand and tune into stories. This doesn't make sense all the time (e.g., don't use this during morning standups), but when give a longer presentation or need to think carefully about how to structure your message, framing it as a story can help.
+
+Here's a common framework that might help guide your thinking:
 
 - Opening - Background information; what the problem is and why the audience should care
 - Challenge - The gap between where we are today and the problem. The challenge is the most important part of the arc. This is where you convince people that there is a problem worth solving.
@@ -29,7 +60,7 @@ __Start with a rough outline / mind map__. It can be useful if you're feeling ov
 
 __Map out your story__. If you have a better idea of what you want to say, it can be useful to write out the bare minimum of what you want to communicate as a series of single declarative sentences written in the active tense. If you're giving a talk, these will form the titles of the slides.
 
-## Be explicit with your definitions.
+## Be explicit with your definitions
 
 Often times communication sucks because we think we're talking about the same thing but we're really talking about different things. This is the case for almost all big arguments in academia.
 
@@ -41,14 +72,6 @@ Often times communication sucks because we think we're talking about the same th
 Usually drawing a picture of what you're trying to communicate to someone it helpful because it clearly lays out your model of the world. Assumptions and schemas become clearer.
 
 What's more: as the quotation above suggests, you build _trust_ between you're essentially 'showing your work'. You make your thinking transparent and amenable to inspection.
-
-## Focus on something concrete and simple first
-
-When you explain something to someone, the person is ignorant of what you're explaining. They are a novice. They haven't had the luxury to let the idea you're explaining sink in, develop an intuition for them. Thus: be very concrete. The person you're communicating to show be able to form some mental figure or tangibly understand what is it you're talking about. Recall a quotation from _made to stick_:
-
-> Abstraction is the luxury of the expert
-
-For novices, start simple and start with something concrete.
 
 ## Use metaphors and isomorphisms / give people a conceptual model
 
@@ -65,15 +88,6 @@ Another way of saying this: provide people with an appropriate conceptual model.
 3. Here's what I think as a result.
 4. What do you think?
 
-## Define success
-
-Before you give a presentation or write your next email, think:
-
-- What do I want the other person to feel?
-- What do I want the other person to know?
-- What do I want the other person to do?
-
-It's amazing how often we communicate something and we aren't clear ahead of time what success looks like. Thinking about these questions ahead of time will help you be more thoughtful about how you craft what you're trying to communicate.
 
 ## Parrot it back / continually reassure
 
@@ -97,3 +111,5 @@ I mention this here because it appears both in _how to wins friends and influenc
 Probably the best book on communication I know of is (oddly) _made is stick_. I keep coming back to it as a resource that covers all the major topics and models for communicating.
 
 Most design books are often fundamentally communication books. Don Norman's book, especially _The Design of Future Things_, outline fundamental concepts of communication that have made their way here.
+
+I was glad to see a ton of overlap between this list and the chapter in _Cracking the PM Career_ on communication.

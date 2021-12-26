@@ -34,6 +34,8 @@
 - The cognitive style of PowerPoint. Tufte. [[notes](./notes_cognitive_style_ppt.md)]
 - Writing to persuade. Hall [[notes](./notes_writing_to_persuade.md)]
 - Ethics: a very short introduction. Blackburn.
+- How to do nothing. Odell.
+- Post-growth living. Soper
 
 ### work-related
 
@@ -201,11 +203,8 @@
 - The Orchard Keeper
 - Visions of Infinity
 
-## started
 
-- Behave
-
-## to read
+## backlog
 
 - Mate choice, Rosenthal
 - Fooled by randomness
