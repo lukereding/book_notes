@@ -80,11 +80,11 @@ What gets in the way of good work? (a) People don't know how to do good work or 
 
 - Does their job require talents that they don't have? If so, is there a better role or someone they could pair with the balance them out?
 - Does their job require skills that they don't have? If so, think about trainings that could address the skill gap.
-- Is it clear what success looks like? If not, make expectations clearer and make sure everyone knows the vision and purpose of your team.
+- Is it clear what success looks like? Does everyone have a good idea of what great work looks like? If not, make expectations clearer and make sure everyone knows the vision and purpose of your team.
 
 **People aren't motivated to do good work**. Some things to think about here:
 
-- Does everyone have a good idea of what great work looks like? Can they differentiate between a good work output and a great output?
+- Three components of motivation are autonomy, mastery, and purpose. Are you falling short in not giving them opportunity to master something, or are you micromanaging them?
 - Does the role speak to their aspirations and long-term goals? If not, should this person change roles, or take on slightly different scope?
 - Do they feel appreciated? Doing good work and not receiving recognition for it can kill anyone's motivation.
 
