@@ -1,3 +1,13 @@
+# 2022
+
+### non-fiction
+
+- Having and being had. Biss.
+
+### work-related
+
+- Cracking the PM career. McDowell and Bavaro. [[notes](notes_cracking_pm.md)]
+
 # 2021
 
 ### fiction
