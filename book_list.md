@@ -7,7 +7,8 @@
 ### work-related
 
 - Cracking the PM career. McDowell and Bavaro. [[notes](notes_cracking_pm.md)]
-
+- Technology strategy patterns. Hewitt. [[notes](./notes_tech_strategy_patterns.md)]
+- Introducing MLOps. Treveli.
 # 2021
 
 ### fiction
