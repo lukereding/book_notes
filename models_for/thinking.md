@@ -15,14 +15,28 @@ Most of the time, we're happy creating a story in our heads to explain data we s
 A more robust way of understanding the world is to ask, before looking at the data: What would I need to know to be confident about answering this question? Then look at the data you have. Doing this is a guard against forming a story that seems plausible to you but is, in reality, based on a smalll subset of information you need to truly understand what's going on.  Alternative blindness, cherry-picking, and survivorship bias are all highly related to this idea.
 
 ### imagine the future
-
 If we did X, what do you think would happen? Try to imagine the future. Useful for thinking about second- and third-order effects.
 
 For example, what impact does rent control have on afforadable housing? Looking at the first-order effects, rent control seems like a good thing by making housing more affordable. But imagine what happens next. Rent control makes it less attractive for developers to build apartments, since their profits are limited by the rent control. As a result, fewer apartment buildings are built and there are fewer apartments to go around. The apartments to be had are afforadable, but there are very few of them. Developers might turn to building condos or other types of housing instead that are exempt from rent control. The result may be an exacerbation of the affordable housing crisis. This is also an example where thinking in systems--thinking about all the components that contribute to a problem--helps us gain more insight.
 
-### work backwards
+### work backwards / backcasting
+
 
 A related idea that can help clarify thinking and improve focus is to ask yourself: what's the future I'm building towards? Can I work backwards from the to figure out what I need to do now?
+
+### what problem do you want to be solving?
+
+Any choice you make has impacts, which typically creates new problems. I might have a problem with working, but if I quit, thus solving my problem with working, I'd have a whole set of new problems. In a sense, you are never a solving a problem, but choosing the problem you want to be dealing with.
+
+It can be useful, when faced with a choice that involves tradeoffs, to ask yourself: "What problem would I rather have?"
+
+Most tradeoffs eventually reduce to a tradeoff around time and money.
+
+### how do we not have this problem?
+
+We often get stuck in local optima and we can't imagine a different world of possibility. One way to break out of this: ask yourself, "How could I just _not have_ this problem?"
+
+This forces you to step back and realize the system you're operating in, and ask whether you can break out of that system or change it in some fundamental way.
 
 ### what's the null hypothesis?
 
