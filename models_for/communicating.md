@@ -50,6 +50,21 @@ Here's a common framework that might help guide your thinking:
 
 There's more on different frameworks you can use to help you communicate [here](./writing.md#story-telling-and-narrative-tension)
 
+## Start with why
+
+When persuading or inspiring, try ['starting with why'](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=en). Example from the talk linked to above:
+
+A standard ad, using Apple as an example:
+- We make computers (what)
+- They are well-designed and simple to use (how)
+
+Starting with why:
+- We believe in igniting human creativity and challenging the status quo (why)
+- We create well-designed products that are simple for everyone to use (how)
+- We happen to make computers (what)
+
+> People don't buy what you do, they buy why you do it.
+
 ## Start with an outline or with images
 
 It can be difficult to start communicating something, either via a talk or in writing. A couple ideas:
