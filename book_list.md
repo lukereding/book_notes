@@ -9,6 +9,8 @@
 - Cracking the PM career. McDowell and Bavaro. [[notes](notes_cracking_pm.md)]
 - Technology strategy patterns. Hewitt. [[notes](./notes_tech_strategy_patterns.md)]
 - Introducing MLOps. Treveli.
+- Measure what matters. Doerr. [[notes](./notes_measure_what_matters.md)]
+- High output management. Grove. [[notes](./notes_high_output_management.md)]
 # 2021
 
 ### fiction
