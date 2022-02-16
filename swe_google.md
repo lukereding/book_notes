@@ -40,3 +40,34 @@
   - helper methods are okay, but they shouldn't use mock data that a reader would have to look elsewhere in the code to understand 
 
 
+### test doubles
+
+- a test double is an object or function that can stand in for a real implementation in a test (like a stunt double in a movie)
+- there are a bunch of ways to use test doubles; some are more appropriate than others
+- a _seam_ is a way to make code more testable by allowing the code to make use of test doubles
+- _dependency injection_ is a way to introduce a seam -- e.g., a class's dependencies are passed to it during initatiion rather than instantiated directly
+- mocks are test doubles whose behavior is specified inline in a test
+- techniques
+  - faking
+    - using a simplified, fake version of the actual object or implementation under test
+  - stubbing
+    - giving behavior to a function that otherwise has no behavior on it's own -- you generally _stub_ the return value to replicate behavior you'd expect to see from some actual object
+  - interaction testing
+    - validating _how_ a function is called without actually calling the implementation of the function (e.g., verifying that a dependency of a method was called with certain parameters, or a certain number of times) 
+- they prefer using real implementations where possible, because it most closely mimics what you'll find in prod
+  - but sometimes you can't use real implementations
+  - they can make your tests slow
+  - they can make some tests flaky if you're interacting with external systems
+- if you can't use the real thing, you can use a _fake_
+  - a fake is as close to the real object as possible, but won't interact with services or call your transaction auth service, e.g., and is fast
+  - fakes have to be maintained as the code changes -- generally the code owners need to maintain both the code and the fake
+  - fakes also need to have their own tests to make sure they conform to the API of the real mccoy
+- stubbing is generally overused
+  - tests become unclear, brittle, less effective; in short, require more work in the long-term to deal with
+  - stubbing can be used when you need a function to return a value to get the system under test into a certain state -- stubbing makes it easy to verify behavior under a wide array of return values
+- interaction testing
+  - always prefer _state testing_--testing the outwardly observable behavior of code--to _interaction testing_, which verifies how a function is called without actually calling the implementation of the function
+  - interaction testing can't actually tell you if things are working as expected -- it can only validate that certain functions are called as expected. at the end of the day, what you care about if the outwardly observable behavior
+  - it also uses the implementation details of the test, an anti-pattern which means that any refactor will require updates / changes to the tests
+  - it can be appropriate if differences in the number of or order of calls to a function would cause undesired, or to test something like a cacheing function to make sure it's working correctly
+  - only perform interaction testing for functions that are _state-changing_
