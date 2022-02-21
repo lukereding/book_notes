@@ -1,5 +1,9 @@
 # 2022
 
+### fiction
+
+- A Confederacy of Dunces. Toole.
+
 ### non-fiction
 
 - Having and being had. Biss.
@@ -12,6 +16,7 @@
 - Measure what matters. Doerr. [[notes](./notes_measure_what_matters.md)]
 - High output management. Grove. [[notes](./notes_high_output_management.md)]
 - A philosophy of software design. Outsterholt. [[notes](./notes_phil_software_design.md)]
+
 # 2021
 
 ### fiction
