@@ -18,7 +18,10 @@
 - Measure what matters. Doerr. [[notes](./notes_measure_what_matters.md)]
 - High output management. Grove. [[notes](./notes_high_output_management.md)]
 - A philosophy of software design. Outsterholt. [[notes](./notes_phil_software_design.md)]
-- Scaling teams. Grosse and Loftesness. [[notes](./notes_scaling_teams.md)]]
+- Scaling teams. Grosse and Loftesness. [[notes](./notes_scaling_teams.md)]
+- Resilient management. Hogan. [[notes](./notes_resilient_management.md)]
+
+
 # 2021
 
 ### fiction
