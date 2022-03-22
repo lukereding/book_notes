@@ -180,6 +180,7 @@ When creating teams, look for people that are:
 - smart 
 - humble
 
+[From a talk during TVL]
 
 ## Debugging dysfunctional teams
 

@@ -6,13 +6,14 @@
   - [building trust](#building-trust)
   - [questions to ask your direct reports](#questions-to-ask-your-direct-reports)
   - [play to strengths](#play-to-strengths)
-  - [practical recipes and tols](#practical-recipes-and-tols)
+  - [practical recipes and tools](#practical-recipes-and-tools)
     - [diagnosing poor results or work output](#diagnosing-poor-results-or-work-output)
     - [1:1 recipe](#11-recipe)
     - [career development conversations](#career-development-conversations)
     - [checklist](#checklist)
   - [on being managed](#on-being-managed)
   - [antipatterns](#antipatterns)
+  - [resources](#resources)
 
 > A manager's job is to _get better outcomes from a group of people working together_ through influencing purpose, people, and process.
 
@@ -22,17 +23,20 @@ Overall, a good idea to anchor to: try to be the sort of manager who, if you wer
 
 ## your job as a manager
 
-Your job is to _get better outcomes from a group of people working together_. Some things to focus on:
+Your job is to _get better outcomes from a group of people working together_.
+
+Some things to focus on:
 
 1. Build a high-functioning team (people)
 2. Support direct reports in career goals (people)
 3. Create processes to get things done smoothly (process)
 4. Provide context and show what success looks like (purpose)
 
+Processes are not roadblocks: they are [expectations made explicit](https://klinger.io/posts/managing-people-🤯).
 
 ## think about these questions
 
-These come from Gallup, and in general, I think they are managable starting point for ensuring your direct reports are reasonably happy:
+These come from Gallup, and in general, I think they are a useful starting point for ensuring your direct reports are reasonably happy:
 
   - I know what is expected of me at work
   - I have the right materials and equipment to do my job
@@ -67,10 +71,10 @@ When I was very green and interned at Continuum, my takeaway about management wa
 
 > Good management is about setting expectations and letting people do what they're good at
 
-Looking back, this feels a bit naive, but is also mostly accurate.
+Looking back, this feels a bit naive--there's a lot that goes into managing effectively!--but is also mostly accurate.
 
 
-## practical recipes and tols
+## practical recipes and tools
 
 ### diagnosing poor results or work output
 
@@ -170,3 +174,7 @@ Fixing problems with your manager:
 - Micromanaging
 - Not having enough time to think / brainstorm / read / "you never get anything done around here between 9 and 5"
 - The 'Spanish theory' of productivity, aka, just drive people to work harder. Contrast with the 'English theory', where you use tech to make your job easier and create value without burnout
+
+## resources
+
+- [This](https://klinger.io/posts/managing-people-🤯) blog post
