@@ -36,3 +36,9 @@ This was one of the books that straddles the line between business and self-help
 
 > Think of the most important project you are trying to get done at work or at home. Then ask the following five questions: (1) What risks do you face on this project? (2) What is the worst-case scenario? (3) What would the social effects of this be? (4) What would the financial impact of this be? and (5) How can you invest to reduce risks or strengthen financial or social resilience? Your answer to that fifth and crucial question will point you to buffers--perhaps adding another 20 percent to the project's budget, or getting a PR person on board to handle any potential negative press, or calling a board meeting to manage shareholder expectations-that you can create to safeguard you against unknowable events.
 
+There's also this idea he calls 'the paradox of success', which resonated with me:
+
+- we have clarity of purpose and we achieve a lot
+- we gain a reputation as being a go-to person
+- we have increased options and opportunities, which drains our time and effort; we get spread thinner and thinner. we might a millimeter of progress in 50 different directions
+- we become distracted from what would otherwise be our highest level of contribution 
