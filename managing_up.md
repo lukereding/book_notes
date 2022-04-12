@@ -1,0 +1,35 @@
+## managing up (linkedin learning)
+
+- building a robust relationship higher up with different work styles, perspectives, priorities
+- assess the gap between how you work and how your manager wants to work, close the gap
+- "become an empowered follower"
+- learn what your boss wants
+  - understand what's important to your boss
+  - what are your boss' priorities / goals -- can you align your work to those goals
+  - you want to _adapt_ to your boss
+  - just ask your boss: what are your pet peeves, priorities, preferences in terms of working style
+  - "gold rule" of work: figure out what your boss wants, and give it to them
+- overcome roadblocks to manage up and save time
+  - common roadblocks:
+    - it will create more work for you
+    - we also tell ourselves we shouldn't have to manage up -- there's an ego component
+    - perspective also gets in the way -- it's hard to understand your manager's perspective
+- adapt to your boss
+  - frame requests correctly
+  - don't say "you need to do this"
+  - "I need your help -- we're unclear about who is doing X. Can you clarify this for us?"
+  - If they're like, "hey, I can't get lost in the weeds with this," you say, "okay, I'm doing to do X, Y, and Z. Does that sound okay to you?"
+  - often managers want you to figure stuff out on your own and come back to them with options
+- four boss types
+  - advancer - face-paced, task-oriented, wants to get shit down, doesn't want a ton of relationship-building, pragmatic
+  - influencer - high energy, moving things forward, moves with people, loves innovation, very people-oriented
+  - evaluator - slow it down, perfectionist, task-oriented, love details, measure twice / cut once, care about getting things right
+  - harmonizer - people-oriented, moderate pace, build teams, make sure everyone's happy, want everyone to be secure
+- when and how to give your boss feedback
+  - do it privately
+  - your intention is to make them successful
+- the micromanager
+  - most annoying but also the easier to manage up
+  - flood them with information before they ask
+  - find out what's important to them
+  - eventually they will learn to trust you

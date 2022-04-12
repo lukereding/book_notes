@@ -20,6 +20,7 @@
 - A philosophy of software design. Outsterholt. [[notes](./notes_phil_software_design.md)]
 - Scaling teams. Grosse and Loftesness. [[notes](./notes_scaling_teams.md)]
 - Resilient management. Hogan. [[notes](./notes_resilient_management.md)]
+- Essentialism. McKeown. [[notes](./notes_essentialism.md)]
 
 
 # 2021
