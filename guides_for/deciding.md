@@ -3,11 +3,17 @@
 
 ## Look into the future
 
-## Use data
+## What would need to be true for each option to be the right choice?
+
+## Imagine we choose each option: what are the consequences of that option in 10 min, 10 months, 10 years?
+
+## What would you tell your friend to do in the same situation? If you're at work, what would your replacement do in this situation?
+
+## What would you do if the options you're considering are off the table?
 
 ## Review what's worked in the past, and what hasn't
 
-## Mine for conflict and opposed points of view
+## What's the opportunity cost?
 
 ## Communicating a decision
 
