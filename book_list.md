@@ -9,6 +9,9 @@
 
 - Having and being had. Biss.
 - Complexity: a guided tour. Mitchell.
+- Ruined by design. Monteiro.
+- The Green Imperative: Ecology and Ethics in Design and Architecture. Papanek.
+- Eating animals. Foer.
 
 ### work-related
 
