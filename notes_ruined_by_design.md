@@ -68,3 +68,10 @@ Mike Monteiro
 
 
 ### part 3: you can't do it alone
+
+- a bit part of this part of the book is about creating a series of standards, a code of conduct, and licensing designers. this sounds insane at first, but think about other cases where liscences are required
+  - driving a car
+  - preparing food at a restaurant
+  - flying a plane
+  - operating on someone or prescribing medicine
+- these are all situations where getting things wrong as really bad outcomes for people / society as a whole: you kill someone in your car, make someone sick at your restaurant, crash a plane, make someone sick with medicine they shouldn't be taking. if we recognize that designers, especially in the digital age, have an outsize impact on society, and that a lot of the outcomes we design can have horrible consequences: it actually makes a lot of sense. though it'll still never happen.
