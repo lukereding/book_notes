@@ -9,7 +9,7 @@
 
 - Having and being had. Biss.
 - Complexity: a guided tour. Mitchell.
-- Ruined by design. Monteiro.
+- Ruined by design. Monteiro. [[notes](./notes_ruined_by_design.md)]
 - The Green Imperative: Ecology and Ethics in Design and Architecture. Papanek.
 - Eating animals. Foer.
 
