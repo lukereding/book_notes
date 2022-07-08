@@ -65,6 +65,20 @@ Starting with why:
 
 > People don't buy what you do, they buy why you do it.
 
+## paint two futures
+
+In _ruined by design_, mike m describes how we persuades people.
+
+you first have to do good work. do your homework, figure out the right answer, understand all the details and the implications. great.
+
+to convince someone, you have to take them on a journey. the journey is not the journey you took to get to the answer you think is right: that journey might have been meandering and included a lot of extra stuff that that person you're talking to really doesn't need to understand.
+
+instead, the approach is: paint the picture of what happens when you do what you want. talk about how great that future is. don't sugar-coat: be balanced in your assessment, and point out risks and drawbacks, but if you've down your homework hopefully these should be minimal. then paint another picture: this is what happens when we do the wrong thing. and talk about the effects that the wrong thing has, and what we the world will look like as a result.
+
+the goal is to get them to go to the rosier future.
+
+do your homework, collect a lot of data, but use that data to tell a story.
+
 ## Start with an outline or with images
 
 It can be difficult to start communicating something, either via a talk or in writing. A couple ideas:
