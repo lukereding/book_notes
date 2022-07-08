@@ -2,6 +2,11 @@
 
 Mike Monteiro
 
+- designers are anyone that affect products in any way: this could be an actual designer, a product manager, an engineer, an analyst, a data scientist
+- designer's must think about the impacts of their design decisions on society
+- it's a designer's job to push back and ask questions; they are hired to solve problems adn for their counsel, not as a tool
+- design requires diverse teams
+
 
 ## the ethics of design
 
