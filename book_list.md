@@ -4,6 +4,7 @@
 
 - A Confederacy of Dunces. Toole.
 - The music of chance. Auster.
+- Blood meridian. McCarthy.
 
 ### non-fiction
 
@@ -12,6 +13,7 @@
 - Ruined by design. Monteiro. [[notes](./notes_ruined_by_design.md)]
 - The Green Imperative: Ecology and Ethics in Design and Architecture. Papanek.
 - Eating animals. Foer.
+- Letters to a Young Scientist. Wilson.
 
 ### work-related
 
