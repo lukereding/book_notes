@@ -14,6 +14,7 @@
 - The Green Imperative: Ecology and Ethics in Design and Architecture. Papanek.
 - Eating animals. Foer.
 - Letters to a Young Scientist. Wilson.
+- Wanting. Burgis.
 
 ### work-related
 
