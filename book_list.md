@@ -15,6 +15,8 @@
 - Eating animals. Foer.
 - Letters to a Young Scientist. Wilson.
 - Wanting. Burgis.
+- A brief history of equality. Piketty.
+- The ten equations the rule the world. Sumpter. [[notes](./notes_the_ten.md)]
 
 ### work-related
 
