@@ -5,6 +5,7 @@
 - A Confederacy of Dunces. Toole.
 - The music of chance. Auster.
 - Blood meridian. McCarthy.
+- Timbuktu. Auster.
 
 ### non-fiction
 
@@ -18,6 +19,11 @@
 - Lurking. McNeil.
 - A brief history of equality. Piketty.
 - The ten equations the rule the world. Sumpter. [[notes](./notes_the_ten.md)]
+- Science is culture. Various.
+- Linkography. Goldschmidt. [[notes](./notes_linkography.md)]
+- Weapons of math destruction. O'Neil.
+- Radical technologies: the design of everyday like. Greenfield.
+- Noise.
 
 ### work-related
 
