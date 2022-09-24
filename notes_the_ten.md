@@ -12,4 +12,4 @@ This was a enjoyable pop-y math book. Some things I want to remember:
 - State your assumptions -- often this is really difficult because we tend to make a bunch of implicit assumptions
 - Think about separating information you absorb into three categories: models / hypotheses, data, and nonsense. the idea being that there's a lot of stuff we encounter that's non-verifiable nonsense that's just noise
 - the reward equation explains a lot of behavior and explore/exploit dynamics in animals: Q_t+1 = (1 - a)Q_t + aR_t, where Q_t is the estimated value at time t (which converges to the true actual value), R_t is the reward at time t, and a is the learning rate which 'tunes' explore / exploit. Also depends on the Markov assumption.
-- The success or failure of any model is largely dependent on a modeler ability to understand which parts of the problem to simplify, and which assumptions are okay to make
+- The success or failure of any model is largely dependent on a modeler's ability to understand which parts of the problem to simplify, and which assumptions are okay to make

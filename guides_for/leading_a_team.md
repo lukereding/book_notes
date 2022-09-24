@@ -209,3 +209,31 @@ What are the teams values? Results, communication, attention to detail
 
 > Teamwork requires coordination and communication, plus a good sense of what to expect, a good understanding of why things are, or are not, happening.
 - Don Normam, _The Design of Future Things_
+
+
+---------
+
+A certain leader at a certain company held an offsite in a certain major metropolis on the eastern seaboard. She sent me the materials afterwards. I was super impressed with the materials. 
+
+The what:
+
+- team touchy-feely stuff
+  - getting to know you slides
+  - wins and accomplishments
+  - basic retrospective
+- things that scale decision-making and facilitate alignment 
+  - team vision
+  - tenants / guiding principles
+  - norms
+  - aspects of their culture
+  - places they wanted to draw a hard line around (e.g., we will not tolerate any model failures)
+- broader industry trends outside the company
+- updates on broader horizontal initiatives
+- career development tools, career paths, options for people who want to accelerate their development
+- technical deep dives topics
+  - all things to fill gaps in knowledge and skillset and make sure the team is operating from a common baseline
+
+
+The how:
+
+The technical deep dives were driven by a single person or a small group, but apart from that, the leaders' job was simply creating the space and asking the right questions. The exercise was not: here are the tenants we use. Instead, it was: let's all think of the tenants we think we should employ the build the future we want to create. Same thing with norms and culture. All this was coordinated with jamboards. Particants were forced to think outside their default modes of thinking using the 'six hats' exercise. There were guest speakers. It took a ton of prep to coordinate and facilitate.
