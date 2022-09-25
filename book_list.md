@@ -23,7 +23,7 @@
 - Linkography. Goldschmidt. [[notes](./notes_linkography.md)]
 - Weapons of math destruction. O'Neil.
 - Radical technologies: the design of everyday like. Greenfield.
-- Noise.
+- Noise. [[notes](./notes_noise.md)]
 - Do Design: Why beauty is key to everything. Moore. [[notes](./notes_do_design.md)]
 
 ### work-related
