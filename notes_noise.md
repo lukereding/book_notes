@@ -3,14 +3,14 @@
 Kahneman, Sibony, and Sunstein
 
 - Noise vs. bias // accuracy vs precision
-- Most experts differ a lot in their judgement. Often there are few oppurtunities to collaborate
+- Most experts differ a lot in their judgement. Often there are few opportunities to collaborate
   - The idea of a noise audit to quantify the amount of noise / imprecision in a given system. e.g., give a bunch of judges the same information about cases and have them assign a sentence
-- to evaluate the quality of judgements, look at the overall pattern of a collection of decisions
+- to evaluate the quality of judgments, look at the overall pattern of a collection of decisions
   - an outcome might be wrong even if the overall decision process is strong 
 - 'system noise is inconsistency, and inconsistency damages the credibility of a system'
 - noise and bias contribute _the same_ amount to mean square error (MSE). in a lot of cases there's both bias _and_ noise, but whenever you can you should still be striving to reduce noise, which _will_ improve the accuracy of the system much the same way that tackling bias will
   - noise is often more prevalent, or more of a contributor, to error than bias (they argue)
-- they talk about how predictions / judgements and values contribute to decision-making. throughout, the advocate for keeping predictions and values separate. values can easily bias the effectiveness of judgements
+- they talk about how predictions / judgments and values contribute to decision-making. throughout, the advocate for keeping predictions and values separate. values can easily bias the effectiveness of judgments
 - the idea of the wisdom of the 'inner crowd'; when guessing:
   - make a guess
   - think about why that guess might be wrong
@@ -20,8 +20,8 @@ Kahneman, Sibony, and Sunstein
 - social influences can cause a lot of noise across groups
   - overall, social influences are bad and decrease the diversity of thought, and magnify order effects / first mover advantage
   - 'information cascades' and bandwagon effects
-- interesting finding: training a model to capture an individual's judgements leads to more accurate predictions than those from the person whose data was used to train the model
-  - if you think about this for a second, it makes sense: the model will never be noisy: it will always give the same prediction / judgment given the same inputs, which isn't always true for humans, i.e., a human will be noiser, and this will decrease accuracy
+- interesting finding: training a model to capture an individual's judgments leads to more accurate predictions than those from the person whose data was used to train the model
+  - if you think about this for a second, it makes sense: the model will never be noisy: it will always give the same prediction / judgment given the same inputs, which isn't always true for humans, i.e., a human will be noisier, and this will decrease accuracy
   - simple models are often more predictive than people in part because they shrink noise to 0, which improve MSE
 - i don't believe some of their rosy claims about bias, e.g., page 132. at the very least it undermines an important topic and is overly simplistic 
 - we feel confident in a judgement when
@@ -30,26 +30,26 @@ Kahneman, Sibony, and Sunstein
 - "pattern noise" - person x case interactions. arises from stable differences in how different judges assess the same cases, and also from occasional noise
 - error = bias + system noise
 - system noise = level noise + pattern noise
-- pattern noise = stable pattern noise + ocassional pattern noise
+- pattern noise = stable pattern noise + occasional pattern noise
 - "causes are natural, statistics are difficult"
 
 #### part 5, practical stuff
 
 - choose good judges (duh)
-- you can de-bias judgement after the fact (by applying a correction) or before the fact by improving the quality of judgements
+- you can de-bias judgement after the fact (by applying a correction) or before the fact by improving the quality of judgments
 - the idea of a bias checklist - could be useful for meeting or performance management, e.g.
 - in forecasting problems, take an average of unbiased estimates to reduce noise
-- think probabalistically
-- superforecasters ask questions like 'what would need to happen for this to be true / false' and break out the liklihood of something happening into several smaller problems
+- think probabilistically
+- superforecasters ask questions like 'what would need to happen for this to be true / false' and break out the likelihood of something happening into several smaller problems
   - they also pay a lot of attention to base rates
   - they also mine for perspectives that go against their intuition
 - performance reviews are 75% noise
 - ranking can reduce pattern noise and level noise
-  - we're generally good at comparing two things. ranking this way is unlikely to produce inconsistent judgements esp. compared to grading each person on a scale (e.g., a 1-5 scale)
+  - we're generally good at comparing two things. ranking this way is unlikely to produce inconsistent judgments esp. compared to grading each person on a scale (e.g., a 1-5 scale)
   - behaviorally-anchored ratings scales can be very effective
-- structuring complex judgements
+- structuring complex judgments
   - decomposition - break the judgement into parts
-  - independence - get judgements from each judge independently, without knowledge of others' judgements 
+  - independence - get judgments from each judge independently, without knowledge of others' judgments 
   - delayed judgement - delay intuition, but don't remove it
 - 'mediating assessment protocol'
   - a group has to make a decision
@@ -57,3 +57,16 @@ Kahneman, Sibony, and Sunstein
   - (2) collect the facts for each consideration. each consideration should be independent and as specific as possible. ideally the considerations are MECE.
   - (3) discuss each considerations in turn - get initial reads, discuss the facts, then get another read. assign the confidence associated with the rating for each consideration
   - importantly, the scheme allows for judgement—people don't like to have their hands tied—it just saved it to the end after everyone has discussed each consideration
+- they make some good point about machine learning / use of models:
+  - yes, if training data is biased, the model will of course also be biased
+  - but, because ML algorithms are not noisy, the are, in a way, more transparent than humans. this is, i think, the first time i've seen this sort of argument made: if we apply the same 'explanability' needs to humans vs. algorithms, algorithms will tend to be more explainable, in part because they aren't noisy
+  - we can do studies to tend for disparate impact, and again, the lack of noise in algorithms makes this cleaner
+  - at the same time, of course, algorithms can be worse if they are more consistently biased than people
+- judgement implies noise
+- pushback against decreasing noise
+  - there's an interesting part in the book where they discuss how many people emotionally don't like methods that reduce noise
+  - no noise -> no creativity?
+  - there's an interesting tension: rules, noise-free, "fair", subject to gaming <----> noisy judgement, "unfair", due to inherent noise can't be gamed
+- rules vs standards
+  - rules = hard lines; eliminate noise. can be gamed if people figure them out. hard to create rules that cover all relevant cases
+  - standards = allow people to use judgement, but provide a framework for doing so. more useful if things change quickly or the rules don't cover all relevant cases
