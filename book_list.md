@@ -2,10 +2,11 @@
 
 ### fiction
 
-- A Confederacy of Dunces. Toole.
+- A confederacy of dunces. Toole.
 - The music of chance. Auster.
 - Blood meridian. McCarthy.
 - Timbuktu. Auster.
+- The road. McCarthy.
 
 ### non-fiction
 
@@ -37,7 +38,7 @@
 - Scaling teams. Grosse and Loftesness. [[notes](./notes_scaling_teams.md)]
 - Resilient management. Hogan. [[notes](./notes_resilient_management.md)]
 - Essentialism. McKeown. [[notes](./notes_essentialism.md)]
-
+- Meeting design. Hoffman.
 
 # 2021
 
