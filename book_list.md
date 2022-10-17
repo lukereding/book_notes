@@ -23,9 +23,10 @@
 - Science is culture. Various.
 - Linkography. Goldschmidt. [[notes](./notes_linkography.md)]
 - Weapons of math destruction. O'Neil.
-- Radical technologies: the design of everyday like. Greenfield.
+- Radical technologies: the design of everyday life. Greenfield. [[notes](./notes_radical_tech.md)]
 - Noise. [[notes](./notes_noise.md)]
 - Do Design: Why beauty is key to everything. Moore. [[notes](./notes_do_design.md)]
+- Artificial unintelligence: how computers misunderstand the world. Broussard [[notes](./notes_unintelligence.md)]
 
 ### work-related
 
