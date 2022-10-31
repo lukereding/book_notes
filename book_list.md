@@ -7,6 +7,7 @@
 - Blood meridian. McCarthy.
 - Timbuktu. Auster.
 - The road. McCarthy.
+- Liberation Day. Saunders.
 
 ### non-fiction
 
@@ -27,6 +28,7 @@
 - Noise. [[notes](./notes_noise.md)]
 - Do Design: Why beauty is key to everything. Moore. [[notes](./notes_do_design.md)]
 - Artificial unintelligence: how computers misunderstand the world. Broussard [[notes](./notes_unintelligence.md)]
+- Bird by bird. Lamott.
 
 ### work-related
 
@@ -40,6 +42,7 @@
 - Resilient management. Hogan. [[notes](./notes_resilient_management.md)]
 - Essentialism. McKeown. [[notes](./notes_essentialism.md)]
 - Meeting design. Hoffman.
+- Smart brevity. VandeHei, Allen, and Schwartz
 
 # 2021
 
