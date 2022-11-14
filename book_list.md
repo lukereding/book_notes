@@ -31,6 +31,7 @@
 - Artificial unintelligence: how computers misunderstand the world. Broussard [[notes](./notes_unintelligence.md)]
 - Bird by bird. Lamott.
 - The case against reality. Hoffman.
+- Entangled life. Sheldrake.
 
 ### work-related
 
