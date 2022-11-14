@@ -8,6 +8,7 @@
 - Timbuktu. Auster.
 - The road. McCarthy.
 - Liberation Day. Saunders.
+- The passenger. McCarthy.
 
 ### non-fiction
 
@@ -29,6 +30,7 @@
 - Do Design: Why beauty is key to everything. Moore. [[notes](./notes_do_design.md)]
 - Artificial unintelligence: how computers misunderstand the world. Broussard [[notes](./notes_unintelligence.md)]
 - Bird by bird. Lamott.
+- The case against reality. Hoffman.
 
 ### work-related
 
