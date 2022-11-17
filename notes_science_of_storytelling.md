@@ -16,12 +16,14 @@ He argues that to be successfully, our brains exist to manipulate the external w
 
 We work to resolve incomplete information--even for questions of no importance. That's why we'll sometimes watch until the end of a movie, even if we sort of know how it's going to end--there's a possibility it will end differently, and we want things resolved neatly for us. 
 
-
+```
               |       .
  curiosity    |    .     . 
               |   .         .
                ------------------
                 knowledge
+```
+
 
 That is, we're maximally curious when we have enough context to understand what's going on / the question / problem, but not enough that we know everything. 
 

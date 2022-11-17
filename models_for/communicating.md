@@ -10,7 +10,7 @@ This is foundational. You cannot communicate effectively if you don't know who y
 
 __General audiences__. Whenever you think about trying to communicate something, you should have an idealized representation of your audience in your mind. That ideal--it's more effect if it's a single person--should represent an audience member of your talk, or a reader of your article. This person embodies the assumptions, the backgrounds, notions, and reactions your audience will have when you communicate. If you can't fathom this ideal, or imagine or they might respond to what you're trying to say, you can't do your job.
 
-__General audiences__. Sometimes, you have it easier: you know exactly who you're communicating to ahead of time (e.g., a business meeting). Here, instead of forming an idealized representation, you need to think very carefully about who you're talking to, what they care about, their values and goals. You won't always know these with certainty, but you can (a) ask them ahead of time and (b) form mental models based on previous actions with each person.
+__Specific audiences__. Sometimes, you have it easier: you know exactly who you're communicating to ahead of time (e.g., a business meeting). Here, instead of forming an idealized representation, you need to think very carefully about who you're talking to, what they care about, their values and goals. You won't always know these with certainty, but you can (a) ask them ahead of time and (b) form mental models based on previous actions with each person.
 
 
 ## Focus on something concrete and simple first

@@ -12,10 +12,16 @@ An example might be: a client for a streaming video service wants you to recomme
 
 Most of the time, we're happy creating a story in our heads to explain data we see or a pattern we observe. In doing this, we only consider a single world or a small subset of worlds: those that happen to pop into our minds to explain the pattern.
 
-A more robust way of understanding the world is to ask, before looking at the data: What would I need to know to be confident about answering this question? Then look at the data you have. Doing this is a guard against forming a story that seems plausible to you but is, in reality, based on a smalll subset of information you need to truly understand what's going on.  Alternative blindness, cherry-picking, and survivorship bias are all highly related to this idea.
+A more robust way of understanding the world is to ask, before looking at the data: What would I need to know to be confident about answering this question? Then look at the data you have. Doing this is a guard against forming a story that seems plausible to you but is, in reality, based on a small subset of information you need to truly understand what's going on.  Alternative blindness, cherry-picking, and survivorship bias are all highly related to this idea.
+
+
+### use Bayes
+
+A related idea is to use Bayes rule whenever you can. Let M = model / theory about the world, and D be the data we observe, then  `P(M | D) = P(D | M)P(M) / [P(D | M)P(M) + P(D | not-M)P(not-M)]`. We often ignore or insufficiently model the second term in the denominator, and this skews what we think. By using Bayes, we force ourselves to model not just the positive data we see, but also what we think about the world if our model isn't true (`P(D | not-M)P(not-M)`).
 
 ### imagine the future
-If we did X, what do you think would happen? Try to imagine the future. Useful for thinking about second- and third-order effects.
+
+If we did X, what do you think would happen? Try to imagine the future. Don't just think about immediate consequences: think about what's likely to happen as a result or response to those immediate, first-order effects.
 
 For example, what impact does rent control have on afforadable housing? Looking at the first-order effects, rent control seems like a good thing by making housing more affordable. But imagine what happens next. Rent control makes it less attractive for developers to build apartments, since their profits are limited by the rent control. As a result, fewer apartment buildings are built and there are fewer apartments to go around. The apartments to be had are afforadable, but there are very few of them. Developers might turn to building condos or other types of housing instead that are exempt from rent control. The result may be an exacerbation of the affordable housing crisis. This is also an example where thinking in systems--thinking about all the components that contribute to a problem--helps us gain more insight.
 
@@ -26,7 +32,7 @@ A related idea that can help clarify thinking and improve focus is to ask yourse
 
 ### what problem do you want to be solving?
 
-Any choice you make has impacts, which typically creates new problems. I might have a problem with working, but if I quit, thus solving my problem with working, I'd have a whole set of new problems. In a sense, you are never a solving a problem, but choosing the problem you want to be dealing with.
+Any choice you make has impacts, which typically creates new problems. I might have a problem with working, but if I quit, thus solving my problem with working, I'd have a whole set of new problems. In a sense, **you are never a solving a problem, but choosing the problem you want to be dealing with**.
 
 It can be useful, when faced with a choice that involves tradeoffs, to ask yourself: "What problem would I rather have?"
 
@@ -44,7 +50,14 @@ There are plenty of cognitive biases that masquerade by different names (e.g. su
 
 ### commit to and revise your mental models
 
-The only way to learn about how the world works is to (a) form a hypothesis, (b) observe, (c) when something violates your hypothesis, it means your model is wrong and needs updating, so (d) update it and continue the process. Another way of thinking about this is to identify gaps between what happens in the world and what you think should have happened.
+The only way to learn about how the world works is to
+
+- form a hypothesis
+- observe the world
+- when something violates your hypothesis, it means your model is wrong and needs updating, so
+- update it and continue the process
+
+Another way of thinking about this is to identify gaps between what happens in the world and what you think should have happened.
 
 The difficulty in applying this idea lies in its implicit requirement to interpret the world without bias. It is easy to see the world in a way you want to see it. You have to change your thinking from wanting to be right and internally consistent to having a true interest in understanding how the world works.
 
@@ -54,7 +67,7 @@ Ask yourself:
 
 - Are my assumptions wrong?
 - Are my data flawed?
-- Or my intuition flawed?
+- Or is my intuition / thinking process flawed?
 
 ### is the sample biased?
 
@@ -115,11 +128,13 @@ Be able to answer:
 #### policy analysis
 
 __Effects__
+
 1. What are the intended effects?
 2. What are the unintended effects?
 3. How will the policy affect different sub-populations / groups?
 
 __Implementation__
+
 4. What's the cost?
 5. How feasible is it?
 6. Do the stakeholders view the policy as acceptable?
