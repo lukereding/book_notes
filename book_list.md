@@ -32,6 +32,7 @@
 - Bird by bird. Lamott.
 - The case against reality. Hoffman.
 - Entangled life. Sheldrake.
+- The pyramid principle. Minto.
 
 ### work-related
 

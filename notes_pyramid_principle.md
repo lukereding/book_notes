@@ -88,7 +88,9 @@ An example, courtesy of Dale Watson:
 - I drink a lot
 - Therefore, I lie a lot
 
-Using deduction on the key line level--the second level of the pyramid--is really difficult on the reader, because she has to keep a lot of ideas in her head as she reads the document and keep reminding herself of the overall structure of your argument. __At the paragraph level, using deductive arguments is effective__; induction works best for the structuring the flow at higher levels. Whenever you have a single piece of evidence for anything, it has to be default with via deduction.
+Using deduction on the key line level--the second level of the pyramid--is really difficult on the reader, because she has to keep a lot of ideas in her head as she reads the document and keep reminding herself of the overall structure of your argument. __At the paragraph level, using deductive arguments is effective__; induction works best for the structuring the flow at higher levels.
+
+Whenever you have a single piece of evidence for anything, it has to be default with via deduction.
 
 __Inductive reasoning__ brings together similar ideas in a group. For each grouping of ideas, you should be able to find a single plural noun that describes the ideas in that group. You should be able to look at the ideas in your deductive group and infer the summarizing idea above it; if you can't, your reasoning might be off. From the top down, the ideas should be MECE.
 
@@ -129,12 +131,18 @@ __Logic trees__ can be a useful tool for understanding all the relationships in 
 
 By summary statement, we mean an idea that summarizes the ideas in the next level of the pyramid.
 
+A lot of statements about groups are "intellectually blank": "we will do five things this year" or "there are three problems we face". These statement don’t summarize the essence of the ideas grouped below them and put the brakes on future thinking.
+
+Instead, for action ideas, state the effect of carrying out the actions. For situation ideas, state what is implied by their similarity. In general, if you can’t find an overall point to make about the things you have listed, you probably don’t know what you want to say. grouping ideas should push thinking upwards. 
+
 To ensure your summary statement is correct, you should:
 
 1. Check the origin of the grouping and make sure it is MECE
 2. Make either (a) an action statement about something you want the reader to do, or (b) a situation statement, telling the reader about something. If an action statement, state the effect of the action. Ensure that you can visualize someone taking the action and that each substep will bring about the step above. If a situation statement, state what is implied by the similarity of the ideas.
 
 "Every grouping implies an overall point that reflects the nature of the relationship between the ideas in the grouping. You should define that relationship for yourself, then state it for the reader. Always ask yourself of any group, 'Why have I brought together these particular ideas and no others?'"
+
+To test whether your grouping statement is useful, ask yourself whether you can bring in other items from outside the grouping, and still have the statement make sense. If the statement is "i like bright colors" and i have lime green, electric orange, and yellow listed, you can probably think of three other bright colors outside the grouping. This is a clue that your statement isn’t adequate and isn’t pushing thinking upwards; it’s too broad a statement to make about these three points and not others.
 
 ## random thoughts from the book
 
