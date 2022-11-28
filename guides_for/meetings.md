@@ -46,7 +46,7 @@ You want to ensure that people feel comfortable disagreeing and raising differen
 
 ### shared knowledge vs. unique knowledge
 
-The two points above are related to the idea of shared vs. unique knowledge. Part of the goal of the meeting is to bring up unique knowledge--things that only one or two people know--to the larger group. If the meeting only touched on shared knowledge--the stuff that everyone already knows--the meeting is useless. Making sure everyone talks and that multiple viewpoints are raised ensures that unique knowledge has a greater likelihood of surfacing.
+The two points above are related to the idea of shared vs. unique knowledge. Part of the goal of the meeting is to bring up unique knowledge--things that only one or two people know--to the larger group. If the meeting only touched on shared knowledge--the stuff that everyone already knows--the meeting is useless. Making sure everyone talks and that multiple viewpoints are raised ensures that unique knowledge has a greater likelihood of surfacing. Ask open-ended, as opposed to closed, questions to make sure that people are not just answering with 'yes' and 'no'. Open-ended questions can help raise 'unknown unknowns'.
 
 ### time management and focus
 

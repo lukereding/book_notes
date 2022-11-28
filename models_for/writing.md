@@ -80,3 +80,13 @@ See above.
 #### ordering and grouping
 
 When doing data analysis, _ordering_ and _grouping_ data are two of the primary tasks that make your job easier. The same is true of writing. Think about all the ideas or points you want to make. Then _group_ them so that similar ideas are closer together. Then _order_ these larger ideas in a way that makes sense and is most helpful for the reader.
+
+#### take the perspective of the audience
+
+One of the key points from _simply said_ was to make what you're saying less about what you're saying, and more about what the audience needs to hear.
+
+It could be helpful before sending off a report or a presentation to ask yourself:
+
+- why is the reader reading this?
+- what does the reader need to do with this info?
+- how can i make it **effortless** for the reader to get to the main message?

@@ -32,7 +32,7 @@
 - Bird by bird. Lamott.
 - The case against reality. Hoffman.
 - Entangled life. Sheldrake.
-- The pyramid principle. Minto.
+- The pyramid principle. Minto. [[notes](./notes_pyramid_principle.md)]
 
 ### work-related
 
@@ -47,6 +47,7 @@
 - Essentialism. McKeown. [[notes](./notes_essentialism.md)]
 - Meeting design. Hoffman.
 - Smart brevity. VandeHei, Allen, and Schwartz
+- Simply said. Sulilivan. [[notes](./notes_simply_said.md)]
 
 # 2021
 
