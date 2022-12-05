@@ -33,6 +33,7 @@
 - The case against reality. Hoffman.
 - Entangled life. Sheldrake.
 - The pyramid principle. Minto. [[notes](./notes_pyramid_principle.md)]
+- The new oratory. Jay. [[notes](./notes_new_oratory.md)]
 
 ### work-related
 
