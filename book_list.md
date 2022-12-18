@@ -34,6 +34,7 @@
 - Entangled life. Sheldrake.
 - The pyramid principle. Minto. [[notes](./notes_pyramid_principle.md)]
 - The new oratory. Jay. [[notes](./notes_new_oratory.md)]
+- Delinquent: inside America's debt machine. Botella. [[notes](./notes_dq.md)]
 
 ### work-related
 
@@ -49,6 +50,7 @@
 - Meeting design. Hoffman.
 - Smart brevity. VandeHei, Allen, and Schwartz
 - Simply said. Sulilivan. [[notes](./notes_simply_said.md)]
+- Design for how people think. Whalen. [[notes](./notes_design_for_how_people_think.md)]
 
 # 2021
 
