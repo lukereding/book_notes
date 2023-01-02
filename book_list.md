@@ -48,6 +48,7 @@
 - Resilient management. Hogan. [[notes](./notes_resilient_management.md)]
 - Essentialism. McKeown. [[notes](./notes_essentialism.md)]
 - Meeting design. Hoffman.
+- Designing machine learning systems. Huyen.
 - Smart brevity. VandeHei, Allen, and Schwartz
 - Simply said. Sulilivan. [[notes](./notes_simply_said.md)]
 - Design for how people think. Whalen. [[notes](./notes_design_for_how_people_think.md)]
