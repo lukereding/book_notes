@@ -1,3 +1,19 @@
+# 2023
+
+### fiction
+
+- Girl with curious hair. Wallace.
+
+### non-fiction
+
+- The creative act: a way of being. Rubin.
+- Futureproof. Roose.
+- Subtract. Leidy.
+
+### work-related
+
+- HBR Guide to managing up and across
+
 # 2022
 
 ### fiction
@@ -35,6 +51,7 @@
 - The pyramid principle. Minto. [[notes](./notes_pyramid_principle.md)]
 - The new oratory. Jay. [[notes](./notes_new_oratory.md)]
 - Delinquent: inside America's debt machine. Botella. [[notes](./notes_dq.md)]
+- Ideaflow. Utley and Klebahn. [[notes](./notes_ideaflow.md)]
 
 ### work-related
 

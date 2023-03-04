@@ -130,6 +130,11 @@ Radical Candor framework:
 2. Dreams. Understand what people want to achieve at the apex of their career, the best life they want to live. "What do you want the pinnacle of your career to look like?" It's okay to have them articulate more than one dream.
 3. 18-month plan. Translate what you learned above into concrete actions that you can take to get your DR the skills or experience they need to move in the direction of their dreams.
 
+For each person on your team, you want to answer each of these questions:
+
+- Where is this person going?
+- What are you doing to help get them there?
+
 If you could write down a few words that described your direct reports motivations, what would they be (e.g., 'hard work', 'financial independence', 'being an expert', etc.)?
 
 ### checklist
