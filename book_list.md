@@ -9,11 +9,12 @@
 - The creative act: a way of being. Rubin.
 - Futureproof. Roose.
 - Subtract. Leidy.
+- Win every argument. Hasan. 
 
 ### work-related
 
 - HBR Guide to managing up and across
-
+- Articulating design decisions. Greever. [[notes](./notes_articulating_dd.md)]
 # 2022
 
 ### fiction
