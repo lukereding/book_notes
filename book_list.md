@@ -3,6 +3,7 @@
 ### fiction
 
 - Girl with curious hair. Wallace.
+- One of the boys. Magariel.
 
 ### non-fiction
 
@@ -10,6 +11,9 @@
 - Futureproof. Roose.
 - Subtract. Leidy.
 - Win every argument. Hasan. 
+- The elements of style. Strunk and White.
+- Product management in practice. Lemay.
+
 
 ### work-related
 
