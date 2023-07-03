@@ -4,6 +4,8 @@
 
 - Girl with curious hair. Wallace.
 - One of the boys. Magariel.
+- The monkey's wrench. Levi.
+- The three stigmata of Palmer Eldritch. Dick.
 
 ### non-fiction
 
@@ -12,7 +14,8 @@
 - Subtract. Leidy.
 - Win every argument. Hasan. 
 - The elements of style. Strunk and White.
-- Product management in practice. Lemay.
+- Product management in practice. Lemay. [[notes](./notes_pm_in_practice.md)]
+- Writing science. Schimel.
 
 
 ### work-related
