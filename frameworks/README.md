@@ -43,6 +43,7 @@ team and org health
 - associate growth
 - team evolution
 - org resilience
+- delta method
 - innovation
 
 
