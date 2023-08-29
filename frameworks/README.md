@@ -63,6 +63,8 @@ team and org health
 - change management
 - metrics
 - ceremonies
+- compounding risks / the product rule
+
 
 ## product
 
@@ -71,6 +73,7 @@ team and org health
 - how could we not have this problem?
 - what are the constraints and limitations? what some weren't present?
 - what's the null expectation?
+- understand the user's needs, not what they say they want
 
 ## general thinking
 
