@@ -6,6 +6,7 @@
 - One of the boys. Magariel.
 - The monkey's wrench. Levi.
 - The three stigmata of Palmer Eldritch. Dick.
+- The diver's game. Ball.
 
 ### non-fiction
 
@@ -16,12 +17,16 @@
 - The elements of style. Strunk and White.
 - Product management in practice. Lemay. [[notes](./notes_pm_in_practice.md)]
 - Writing science. Schimel.
+- Managing model risk. Broucke and Baesens. [[notes](./notes_managing_model_risk.md)]
+- Closing the loop. Cababa.
+- The cognitive style of PowerPoint. Tufte. [[notes](./notes_cognitive_style_ppt.md)]
 
 
 ### work-related
 
 - HBR Guide to managing up and across
 - Articulating design decisions. Greever. [[notes](./notes_articulating_dd.md)]
+
 # 2022
 
 ### fiction
