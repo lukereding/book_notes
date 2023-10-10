@@ -75,6 +75,26 @@ team and org health
 - what's the null expectation?
 - understand the user's needs, not what they say they want
 
+## problem-solving 
+
+- are you solving the right problem
+- break it down into little problems
+- solve the opposite problem
+- relax a contraint
+- who else has solved it?
+- solve a different problem
+- add a contraint
+- vanishing options test
+- combine options: 'or' -> 'and'
+- evaluation
+	- effect in 5 days / weeks / years
+	- second-order impact
+	- premortem
+	- what would you suggest a friend do?
+	- what would have to be true for this to be the right answer?
+	- can you do a test?
+	- opportunity cost
+
 ## general thinking
 
 - impact vs effort and other 2x2 boxers
