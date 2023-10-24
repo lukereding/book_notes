@@ -20,12 +20,15 @@
 - Managing model risk. Broucke and Baesens. [[notes](./notes_managing_model_risk.md)]
 - Closing the loop. Cababa.
 - The cognitive style of PowerPoint. Tufte. [[notes](./notes_cognitive_style_ppt.md)]
-
+- Parking paradise. Grabar.
+- Four thousand weeks: time management for mortals. Burkerman
 
 ### work-related
 
 - HBR Guide to managing up and across
 - Articulating design decisions. Greever. [[notes](./notes_articulating_dd.md)]
+- Scaling people: tactics for management and company building. Johnson.
+- Customer Lifetime Value Modeling. Baesens and Caigny.
 
 # 2022
 
