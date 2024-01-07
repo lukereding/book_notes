@@ -1,6 +1,6 @@
 # frameworks
 
-When I started managing teams, my time dried up. I also found that I wanted other people to think like I thunk, and make decisions like I did, so that I had time to work on other things.
+When I started managing teams, my time dried up. I also found that it was useful to have people be able to think I way I thunk, and make decisions like I did, so that I had time to work on other things.
 
 So I started jotting down some frameworks on index cards I keep by my desk. These 'frameworks' are largely an extension of the various 'guides' I've developed in other parts of this repo.
 
