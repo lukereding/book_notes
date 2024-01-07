@@ -1,3 +1,6 @@
+# 2024
+
+
 # 2023
 
 ### fiction
@@ -7,6 +10,7 @@
 - The monkey's wrench. Levi.
 - The three stigmata of Palmer Eldritch. Dick.
 - The diver's game. Ball.
+- Pedro Páramo. Rulfo.
 
 ### non-fiction
 
@@ -21,7 +25,8 @@
 - Closing the loop. Cababa.
 - The cognitive style of PowerPoint. Tufte. [[notes](./notes_cognitive_style_ppt.md)]
 - Parking paradise. Grabar.
-- Four thousand weeks: time management for mortals. Burkerman
+- Four thousand weeks: time management for mortals. Burkerman.
+- Blockchain Chicken Farm. Wang.
 
 ### work-related
 
@@ -29,6 +34,7 @@
 - Articulating design decisions. Greever. [[notes](./notes_articulating_dd.md)]
 - Scaling people: tactics for management and company building. Johnson.
 - Customer Lifetime Value Modeling. Baesens and Caigny.
+- Causal Inference in Python. Facure.
 
 # 2022
 
