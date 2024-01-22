@@ -1,5 +1,16 @@
 # 2024
 
+### fiction
+
+
+### work-related
+
+- The failure of risk management.
+- Managing people.
+
+### non-fiction
+
+- Risk, choice, and uncertainty. Szpiro.
 
 # 2023
 
