@@ -2,15 +2,19 @@
 
 ### fiction
 
+- Lonesome Dove.
+
 
 ### work-related
 
 - The failure of risk management.
 - Managing people.
+- Staff engineer.
 
 ### non-fiction
 
 - Risk, choice, and uncertainty. Szpiro.
+
 
 # 2023
 

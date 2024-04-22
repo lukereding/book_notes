@@ -11,6 +11,7 @@
 - What you think you reasonable for the person to accomplish in 30, 60, and 90 days
 - How to work with others
 - Esp early on, when you're stuck, as for help: keep a low bar for communication
+
 ## Clear barriers
 
 - Identify all accesses they need to do their job
@@ -34,6 +35,7 @@
   - showing you what success looks like adn ensuring you understand our goals 
   - supporting you and your development
   - improving processes
+- Share a 'user manual' with the new hire. Should cover: background, what you've done in the past, communication preference, management style, values, strengths, weaknesses
 
 ## Ensure continuing support and career development
 

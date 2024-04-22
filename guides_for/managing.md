@@ -14,6 +14,7 @@
   - [on being managed](#on-being-managed)
   - [antipatterns](#antipatterns)
   - [resources](#resources)
+  - [uncategorized](#uncategorized)
 
 > A manager's job is to _get better outcomes from a group of people working together_ through influencing purpose, people, and process.
 
@@ -183,3 +184,11 @@ Fixing problems with your manager:
 ## resources
 
 - [This](https://klinger.io/posts/managing-people-🤯) blog post
+
+## uncategorized
+
+- talkbacks / playbacks
+- split tracks
+- begining with something positive
+- knowing your people as people
+- the delta method and general coaching techniques
