@@ -2,19 +2,24 @@
 
 ### fiction
 
-- Lonesome Dove.
+- Lonesome Dove. McMurty.
+- The painted bird. Kosinski.
 
 
 ### work-related
 
 - The failure of risk management.
 - Managing people.
-- Staff engineer.
+- Staff engineer. Larson.
+- The successful manager.
+- Trustworthy online controlled experiments. Kohavi, Tang, Xu.
+- Financial intelligence. Berman, Knight, Case.
+- The engineering executive's primer. Larson.
 
 ### non-fiction
 
 - Risk, choice, and uncertainty. Szpiro.
-
+- Thinking in bets. Duke.
 
 # 2023
 
@@ -26,6 +31,7 @@
 - The three stigmata of Palmer Eldritch. Dick.
 - The diver's game. Ball.
 - Pedro Páramo. Rulfo.
+- Warlock. Hall.
 
 ### non-fiction
 
