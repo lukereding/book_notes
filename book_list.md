@@ -15,6 +15,7 @@
 - Trustworthy online controlled experiments. Kohavi, Tang, Xu.
 - Financial intelligence. Berman, Knight, Case.
 - The engineering executive's primer. Larson.
+- The crux. Rumelt. [[notes](./notes_crux.md)]
 
 ### non-fiction
 
