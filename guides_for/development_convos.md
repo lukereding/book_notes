@@ -44,6 +44,7 @@ Other good uses of this time:
 - Directional reads on ratings, if you had to give a rating today
 - Where applicable, think about next-level opportunities or actions they can take to become better or more influential.
 
+For folks that are good and want to be promoted, it can also be useful to have a standing 'gap analysis' between the current level and level + 1 so that it's clear to both of you where the gaps are for the next level.
 
 ## evolving a better structure
 
