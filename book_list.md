@@ -21,6 +21,7 @@
 
 - Risk, choice, and uncertainty. Szpiro.
 - Thinking in bets. Duke.
+- Radical uncertainty. Kay and King. [[notes](./notes_radical_uncertainty.md)]
 
 # 2023
 
