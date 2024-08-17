@@ -4,7 +4,7 @@
 
 - Lonesome Dove. McMurty.
 - The painted bird. Kosinski.
-
+- The memory police. Ogawa.
 
 ### work-related
 
@@ -22,6 +22,9 @@
 - Risk, choice, and uncertainty. Szpiro.
 - Thinking in bets. Duke.
 - Radical uncertainty. Kay and King. [[notes](./notes_radical_uncertainty.md)]
+- Techno-capitalism. Napoleoni.
+- A rulebook for arguments. Weston.
+- Design for a better world. Norman.
 
 # 2023
 
