@@ -25,6 +25,8 @@
 - Techno-capitalism. Napoleoni.
 - A rulebook for arguments. Weston.
 - Design for a better world. Norman.
+- Superforcasting. Tetlock and Gardner. [[notes](./notes_superforecasting.md)]
+- Poor charlie's almanac. Munger.
 
 # 2023
 
