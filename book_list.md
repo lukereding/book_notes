@@ -27,6 +27,9 @@
 - Design for a better world. Norman.
 - Superforcasting. Tetlock and Gardner. [[notes](./notes_superforecasting.md)]
 - Poor charlie's almanac. Munger.
+- Pre-suation. Caildini.
+- The mythical man-month. Brooks.
+- More than a glitch. Broussard.
 
 # 2023
 
