@@ -16,6 +16,7 @@
 - Financial intelligence. Berman, Knight, Case.
 - The engineering executive's primer. Larson.
 - The crux. Rumelt. [[notes](./notes_crux.md)]
+- The programmer's brain. Hermans.
 
 ### non-fiction
 
@@ -27,9 +28,10 @@
 - Design for a better world. Norman.
 - Superforcasting. Tetlock and Gardner. [[notes](./notes_superforecasting.md)]
 - Poor charlie's almanac. Munger.
-- Pre-suation. Caildini.
+- Pre-suation. Caildini. [[notes](./notes_presuasion.md)]
 - The mythical man-month. Brooks.
 - More than a glitch. Broussard.
+- Calling bullshit. Bergstrom and West.
 
 # 2023
 
