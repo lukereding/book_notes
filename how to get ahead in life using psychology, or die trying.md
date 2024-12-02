@@ -35,7 +35,9 @@ Psychological research reveals lots of quirks about our everyday life. How we in
 
   E.g., people use less gas when they are told that the top gas-savers will get their names printed in the paper. When the social incentive was removed, people saved even _more_ gas, presumably because they wanted to be consistent with their previously-decided want conserve gas.
 
-  Pick up again at Chapter 4
+- If you need help, single someone out and ask them
+
+  The bystander effect can kick in otherwise as people see everyone else not doing anything. 
 
 
 
