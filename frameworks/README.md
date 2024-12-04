@@ -11,6 +11,8 @@ These frameworks are really just little reminders for thinking tools to apply to
 
 ## model risk
 
+maybe the most powerful question: what's going on here?
+
 - materiality vs likelihood (basically, the Hand rule)
 - now vs. later
 - model usage
@@ -18,6 +20,7 @@ These frameworks are really just little reminders for thinking tools to apply to
 - comprehensive is risk assessment, but slope effort
 - quantify where you can
 - size the risk
+- segment
 - state the validation and why it's appropriate
 - performance / assessment on the margins / decision boundary
 - precision vs. accuracy
