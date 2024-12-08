@@ -32,7 +32,7 @@
 - The mythical man-month. Brooks.
 - More than a glitch. Broussard.
 - Calling bullshit. Bergstrom and West.
-- On the edge. Silver.
+- On the edge. Silver. [[notes](./notes_edge.md)]
 - Are Your Lights On? Gause and Weinberg.
 
 # 2023
