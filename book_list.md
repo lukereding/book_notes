@@ -32,6 +32,8 @@
 - The mythical man-month. Brooks.
 - More than a glitch. Broussard.
 - Calling bullshit. Bergstrom and West.
+- On the edge. Silver.
+- Are Your Lights On? Gause and Weinberg.
 
 # 2023
 
