@@ -1,3 +1,13 @@
+# 2025
+
+## fiction
+
+## non-fiction
+
+### work-related
+
+
+
 # 2024
 
 ### fiction
@@ -34,6 +44,9 @@
 - Calling bullshit. Bergstrom and West.
 - On the edge. Silver. [[notes](./notes_edge.md)]
 - Are Your Lights On? Gause and Weinberg.
+- Emergence. Johnson. [[notes](./notes_emergence.md)]
+- The perfect swarm: the science of complexity in everyday life. Fisher.
+- How big things get done. Flyvbjerg and Gardner. [[notes](./notes_how_big_things_get_done.md)]
 
 # 2023
 
