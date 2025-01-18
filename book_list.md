@@ -2,7 +2,12 @@
 
 ## fiction
 
+- All the pretty horses. McCarthy.
+- Norwood. Portis.
+
 ## non-fiction
+
+- The new new thing. Lewis.
 
 ### work-related
 
