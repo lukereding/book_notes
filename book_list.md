@@ -4,10 +4,18 @@
 
 - All the pretty horses. McCarthy.
 - Norwood. Portis.
+- Train dreams. Johnson.
+- Butcher's crossing. Williams.
 
 ## non-fiction
 
 - The new new thing. Lewis.
+- Slow down. Saito.
+- Don't shoot the dog. Pryor.
+- Practical uncertainty. Pishro-Nik.
+- Why Information Grows. Hidalgo.
+- The logic of failure. Dorner. [[notes](./notes_logic_failure.md)]
+
 
 ### work-related
 
