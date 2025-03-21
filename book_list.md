@@ -15,7 +15,7 @@
 - Practical uncertainty. Pishro-Nik.
 - Why Information Grows. Hidalgo.
 - The logic of failure. Dorner. [[notes](./notes_logic_failure.md)]
-
+- Crucial conversations. Patterson et al.
 
 ### work-related
 
