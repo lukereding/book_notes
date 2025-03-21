@@ -15,10 +15,10 @@ not what i thought it would be, but better. a very strong book recommendation fo
   - his model for 'steps in planning and action' looks like this:
 ```mermaid
 flowchart TD
-  A["Formulation of\ngoals"] --> B["Formulation of models\nand gathering of information"]
-  B --> C["Prediction and\nextrapolation"]
-  C --> D["Planning of actions;\ndecision making, and\nexecution of actions"]
-  D --> E["Review of effects\nof actions and revision\nof strategy"]
+  A["Formulation of<br>goals"] --> B["Formulation of models<br>and gathering of information"]
+  B --> C["Prediction and<br>extrapolation"]
+  C --> D["Planning of actions;<br>decision making, and<br>execution of actions"]
+  D --> E["Review of effects<br>of actions and revision<br>of strategy"]
   E -->|Feedback loop| B
 ```
   - 
