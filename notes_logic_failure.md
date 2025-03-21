@@ -13,7 +13,7 @@ not what i thought it would be, but better. a very strong book recommendation fo
   - he argues that when we are faced with understanding or regulating system, we respond to the _situation_ and not the _process_ / differentials that show how the situation is unfolding / changing. 
 - chapter 2
   - his model for 'steps in planning and action' looks like this:
-  - ```mermaid
+```mermaid
 flowchart TD
   A["Formulation of goals"] --> B["Formulation of models and gathering of information"]
   B --> C["Prediction and extrapolation"]
