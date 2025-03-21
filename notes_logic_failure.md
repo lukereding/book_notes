@@ -20,6 +20,13 @@ flowchart TD
   C --> D["Planning of actions;<br>decision making, and<br>execution of actions"]
   D --> E["Review of effects<br>of actions and revision<br>of strategy"]
   E -->|Feedback loop| B
+
+  %% Set custom widths
+  style A width:300px, fill:#f8f8ff, stroke:#9370DB;
+  style B width:350px, fill:#f8f8ff, stroke:#9370DB;
+  style C width:300px, fill:#f8f8ff, stroke:#9370DB;
+  style D width:400px, fill:#f8f8ff, stroke:#9370DB;
+  style E width:350px, fill:#f8f8ff, stroke:#9370DB;
 ```
   - 
 
