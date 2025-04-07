@@ -17,6 +17,7 @@ maybe the most powerful question: what's going on here?
 - now vs. later
 - model usage
 - for what purpose?
+- what do I need to see to gain comfort?
 - comprehensive is risk assessment, but slope effort
 - quantify where you can
 - size the risk
@@ -26,8 +27,15 @@ maybe the most powerful question: what's going on here?
 - precision vs. accuracy
 - have hypotheses and sniff around
 - monitor it 
+- upstream / downstream dependencies
+- sample bias
 - regulatory compliance
 - ethics
+- trigger questions for events:
+  - does this impact the data used by the model
+  - will this lead to optimistic or pessimistic predictions
+  - is the risk additive, multiplicative, or offsetting?
+  - does this create tail risk or shift the average
 
 
 ## management
