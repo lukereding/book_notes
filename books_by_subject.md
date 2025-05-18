@@ -30,4 +30,10 @@
 ## General thinking tools
 
 - Thinking in systems
-- 
+- Writing Science
+
+## Systems thinking
+
+- Thinking in systems
+- Drift into failure
+- The logic of failure

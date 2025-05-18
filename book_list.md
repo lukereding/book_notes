@@ -16,6 +16,9 @@
 - Why Information Grows. Hidalgo.
 - The logic of failure. Dorner. [[notes](./notes_logic_failure.md)]
 - Crucial conversations. Patterson et al.
+- Your face belongs to us. Hill.
+- Drift into failure. Dekker. [[notes](./notes_drift_into_failure.md)]
+- How to read a book. Adler.
 
 ### work-related
 
