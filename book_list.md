@@ -6,6 +6,7 @@
 - Norwood. Portis.
 - Train dreams. Johnson.
 - Butcher's crossing. Williams.
+- Ice. Anna Kavan.
 
 ## non-fiction
 
@@ -18,7 +19,7 @@
 - Crucial conversations. Patterson et al.
 - Your face belongs to us. Hill.
 - Drift into failure. Dekker. [[notes](./notes_drift_into_failure.md)]
-- How to read a book. Adler.
+- How to read a book. Adler and Van Doren.
 
 ### work-related
 
