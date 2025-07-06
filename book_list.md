@@ -7,6 +7,7 @@
 - Train dreams. Johnson.
 - Butcher's crossing. Williams.
 - Ice. Anna Kavan.
+- The dig. Jones.
 
 ## non-fiction
 
@@ -16,10 +17,11 @@
 - Practical uncertainty. Pishro-Nik.
 - Why Information Grows. Hidalgo.
 - The logic of failure. Dorner. [[notes](./notes_logic_failure.md)]
-- Crucial conversations. Patterson et al.
+- Crucial conversations. Patterson et al. [[notes](./notes_crucial_conversations.md)]
 - Your face belongs to us. Hill.
 - Drift into failure. Dekker. [[notes](./notes_drift_into_failure.md)]
 - How to read a book. Adler and Van Doren.
+- Practical ethics. Singer.
 
 ### work-related
 
