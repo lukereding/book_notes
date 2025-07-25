@@ -22,6 +22,7 @@
 - Drift into failure. Dekker. [[notes](./notes_drift_into_failure.md)]
 - How to read a book. Adler and Van Doren.
 - Practical ethics. Singer.
+- Risk Saavy: how to make good decisions. Gigerenzer.
 
 ### work-related
 
