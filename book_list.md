@@ -23,6 +23,9 @@
 - How to read a book. Adler and Van Doren.
 - Practical ethics. Singer.
 - Risk Saavy: how to make good decisions. Gigerenzer.
+- The coaching habit. Stanier. [[notes](./notes_coaching_habit.md)]
+- Problem-solving 101. Watanabe.
+- Bulletproof problem solving. Conn & McLean. [[notes](./notes_bulletproof_problem_solving.md)]
 
 ### work-related
 
