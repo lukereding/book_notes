@@ -8,6 +8,8 @@
 - Butcher's crossing. Williams.
 - Ice. Anna Kavan.
 - The dig. Jones.
+- Hurricane season. Melchor.
+- Fox 8. Saunders.
 
 ## non-fiction
 
@@ -26,6 +28,7 @@
 - The coaching habit. Stanier. [[notes](./notes_coaching_habit.md)]
 - Problem-solving 101. Watanabe.
 - Bulletproof problem solving. Conn & McLean. [[notes](./notes_bulletproof_problem_solving.md)]
+- Empire of AI. Hao.
 
 ### work-related
 

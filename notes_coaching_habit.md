@@ -20,11 +20,14 @@ other thoughts from the book:
 - there are some interesting passages here about the need for establishing safety in a conversation that align quite well with _crucial conversations_. "when your brain feels safe, it can operate on its most sophisticated level." i find that quotation incredibly clarifying and helpful. 
 - an interesting question: suppose that while you're sleeping, a miracle happens. how will you know tomorrow that things have suddenly gotten better? this question, like a lot of questions I've taken notes on in similar books, has the power of asking something somewhat straightforward that allows for a answerer to respond without thinking too much, but the answer they give would have been impossible for the answerer to provide with a more nebulous prompt.
 - when someone asks for advice, a good practice is to respond with, "that's a good question, and I have some thoughts which I'll share with you. but before I do, what are your thoughts?"
-- 'softening' qualifier: "just out of curiosity...", "to help me understand better..."
+- 'softening' qualifiers: "just out of curiosity...", "to help me understand better..."
 - some of this reminded my of the concept of playbacks and split-tracks from the Alex trainings. the idea there was repeating things back to the person (a) to make sure you understood and (b) provide a sort of mirror so that they could understand their own problem better, and thus were in a better position to solve it
 
 interesting quotations:
 > we are what we give our attention to
+
 > being busy is a form of laziness—lazy thinking and indiscriminate action.
+
 > what's essential is to interrupt the process of forgetting 
+
 > the real secret sauce here is building a habit of curiosity
