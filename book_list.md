@@ -10,6 +10,8 @@
 - The dig. Jones.
 - Hurricane season. Melchor.
 - Fox 8. Saunders.
+- The night boat to tangier. Barry.
+- Player piano. Vonnegut.
 
 ## non-fiction
 
@@ -24,18 +26,19 @@
 - Drift into failure. Dekker. [[notes](./notes_drift_into_failure.md)]
 - How to read a book. Adler and Van Doren.
 - Practical ethics. Singer.
-- Risk Saavy: how to make good decisions. Gigerenzer.
+- Risk Saavy: how to make good decisions. Gigerenzer. [[notes](./notes_risk_saavy.md)]
 - The coaching habit. Stanier. [[notes](./notes_coaching_habit.md)]
 - Problem-solving 101. Watanabe.
 - Bulletproof problem solving. Conn & McLean. [[notes](./notes_bulletproof_problem_solving.md)]
 - Empire of AI. Hao.
+- The unaccountability machine. Davies.
 - Third Millennium Thinking: Creating Sense in a World of Nonsense. Perlmutter, Campbell, and MacCoun.
 - What is intelligence? Agüera y Arcas.
 - The ascent of money. Ferguson.
 
 ### work-related
 
-
+- Causal inference and discovery in Python. Molak.
 
 # 2024
 
