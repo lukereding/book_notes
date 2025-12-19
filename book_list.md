@@ -29,6 +29,9 @@
 - Problem-solving 101. Watanabe.
 - Bulletproof problem solving. Conn & McLean. [[notes](./notes_bulletproof_problem_solving.md)]
 - Empire of AI. Hao.
+- Third Millennium Thinking: Creating Sense in a World of Nonsense. Perlmutter, Campbell, and MacCoun.
+- What is intelligence? Agüera y Arcas.
+- The ascent of money. Ferguson.
 
 ### work-related
 
