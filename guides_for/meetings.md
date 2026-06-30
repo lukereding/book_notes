@@ -18,13 +18,13 @@ You call a meeting for a reason: to do something. It should be really clear what
 
 Identify only the people you need to achieve the goal of the meeting and invite only those people. If the goal of the meeting is clear, participants should never be 'optional': they're either required or not. For each additional person added to a meeting over seven people, effectiveness decision-making decreases by ~10%.
 
+### you should be clear about what you want to get out of the meeting
+
+Meetings have clear objectives. An objective is not 'go through the slides.' What do you really need from the other person / people? If you are not clear on what you want from the meeting, it is likely to get away from you.
+
 ### don't allocate too much time
 
 Tasks expand to the time allocated to them. Be respectful of people's time. Don't schedule a meeting for an hour when you think it should take 30 or 40 min. 
-
-### be clear about the purpose of the meeting and the goal of the meeting
-
-What does the meeting need to accomplish to be successful? Is there anyone that's on-point for presenting or leading parts of the discussion? If so make it clear.
 
 ### prepare
 
@@ -35,6 +35,10 @@ Many meetings fail because don't prepare ahead of time. If you're supposed to be
 ### set the context, define the objectives
 
 When leading a meeting, start out by setting the context then cripsly articulate the objectives of the meeting.
+
+A good setup might look something like this:
+
+> Our long term goal is X which we've committed to by Y. For this meeting, we'd like to A, B, C. I expect we might not have time for C, which we can handle offline if needed. Does that sound okay to everyone, or would anyone like to add anything to the agenda?
 
 ### make sure everyone talks
 
@@ -52,6 +56,11 @@ The two points above are related to the idea of shared vs. unique knowledge. Par
 
 The leader of the meeting should be vigilant about making sure partcipants are participating in such a way that the meeting is constantly moving towards the intended goal of the meeting. When participants get hung up on details or side-tracked, it's important that the meeting leader rein them back in.
 
+### commentary
+
+It's useful to tell people when you're looking for feedback on a slide, or if you're going to skim past a couple slides, etc. Letting them know what you're doing ensures they aren't scrambling in the moment to figure out what's going on and what they should be paying attention to. If there's a slide you want a lot of feedback on: tell them when you get to that slide. That way they know to pay extra close attention as you go through it.
+
+
 ### before the meeting ends:
 
 #### 1. summarize the meeting
@@ -60,7 +69,7 @@ Often, over the course of the discussion, people can get confused over what was 
 
 #### 2. identify the DRI for each action item
 
-At the end of the meeting, you probably have some follow-ups or next steps. The person running the meeting should be keeping track of these. At the end of the meeting, the person running the meeting should: (1) restate what the action items are and (2) ensure that each has been tagged _to a specific person_ to get done.
+At the end of the meeting, you probably have some follow-ups or next steps. The person running the meeting should be keeping track of these. At the end of the meeting, the person running the meeting should: (1) restate what the action items are and (2) ensure that each has been tagged _to a specific person_ to get done. _Who_ is doing _what_ by _when_?
 
 Even in cases where the next steps have been made explicit at the end of the meeting, I've rarely seen a specific person been assigned each action item. Listing the action items without identifying who is accountable is pointless. It creates uncertainty and in my most results in work not getting done.
 

@@ -1,3 +1,20 @@
+# 2026
+
+## fiction
+
+- Neuromancer. Gibson.
+- By night in chile. Bolano.
+- Remainder. McCarthy.
+- Bone. Ng.
+
+## non-fiction
+
+- Engineering a safer world. Leveson.
+- The human use of human beings. Wiener.
+- Tools for Conviviality. Illich.
+- How to stay smart in a smart world. Gigerenzer.
+- The AI con. Bender and Hanna.
+
 # 2025
 
 ## fiction
@@ -12,6 +29,7 @@
 - Fox 8. Saunders.
 - The night boat to tangier. Barry.
 - Player piano. Vonnegut.
+- Suttree. McCarthy.
 
 ## non-fiction
 
@@ -35,6 +53,7 @@
 - Third Millennium Thinking: Creating Sense in a World of Nonsense. Perlmutter, Campbell, and MacCoun.
 - What is intelligence? Agüera y Arcas.
 - The ascent of money. Ferguson.
+- Prediction machines. Agrawal, Goldfarb, Gans.
 
 ### work-related
 
