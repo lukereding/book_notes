@@ -6,6 +6,7 @@
 - By night in chile. Bolano.
 - Remainder. McCarthy.
 - Bone. Ng.
+- The monkey wrench gang. Abbey.
 
 ## non-fiction
 
@@ -14,6 +15,12 @@
 - Tools for Conviviality. Illich.
 - How to stay smart in a smart world. Gigerenzer.
 - The AI con. Bender and Hanna.
+- Computer power and human reason. Weizenbaum.
+- Artificial intimacy. Turkle.
+- Will and attention. O'Gieblyn.
+- Smart, not loud. Chen. [[notes](./notes_smart_not_loud.md)]
+
+
 
 # 2025
 

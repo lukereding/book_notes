@@ -1,0 +1,41 @@
+# smart, not loud
+
+This is meant to be a very practical, framework-driven book that gets uncomfortably close to self-help. That said, ithe problem it deals with is one that I've felt all my working life. I don't volunteer enough in meetings. I don't talk about my work enough. I don't advocate for myself. Chen frames this is a different between Quiet cultures and Loud cultures. The book is about how people from with Quiet tendencies can be successful in Loud cultures, including most Western work environments.
+
+- communication difficult situations, i.e., you have bad news to give to your manager, or you're behind on a deadline: TACT
+  - take a moment
+  - articulate the process. what do people already know? what have we already done? what's the problem we're facing?
+  - communicate solutions
+  - talk it out together
+- elevator pitch
+  - teaser - a few words that evoke emotion
+  - headline - a top-level accomplishment
+  - body - examples that back up the headline
+  - takeaway - how you can help the person you're pitching, or a question to keep the dialogue going
+- advocating for yourself as a quiet person in a loud culture: ACCT
+  - Ask for what you want
+    - you want to do this in a way that maximizes the likelihood that you actually get what you want, so:
+      - make a strong case
+      - __align objectives__ with the person you're requesting from
+      - explain why you're the one asking for it / why you're the right person for this 
+  - Circle back to stay top of mind
+    - people tend to underestimate how many times they need to say something for it to stick, so err on the side of being annoying (unless you already annoying, in which case, try being less annoying)
+    - vary the content, platform / medium, and timing
+  - Celebrate wins
+    - instead of just saying how great you did:
+      - articulate the benefits __to others__
+      - be open about the process (what steps did it take to accomplish this task)
+      - communicate using power works - what emotions did we feel with this win? excited, proud, etc.
+  - Turn down requests
+- contributing in meetings, 4A sequence:
+  - active listening to know when to jump in
+  - acknowledging - not necessarily agreeing, but show that you heard what someone just said. "That's an interesting point, X. What do you think about..." or "I'm glad you brought that up, Y. I have a concern that..."
+  - anchoring - basically take what they said and _yes, and_ to it or directly connect what they said to what you're saying
+  - answering - make your point, give examples, make your point again. if you find yourself rambling, ask: what point am i trying to make?
+- there's some stuff on presenting in here which isn't super helpful I don't think -- she mostly focuses on making sure you think carefully about the transitions between slides, which is necessary but not sufficient
+- suggested presentation format:
+  - thank everyone and talk about how you're excited
+  - briefly introduce the topic
+  - share 2-3 takeaways
+  - saying one thing about the feeling you'd like for everyone to have. e.g., 'by the end of the presentation, my hope is that everyone here will walk about with a clearer understanding of...'
+  - introduce yourself and why you're a credible person to talk about what you're talking about
